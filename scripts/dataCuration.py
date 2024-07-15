@@ -1,22 +1,26 @@
 import pandas as pd
 from rdkit import Chem
-from rdkit.Chem import MolStandardize
+from rdkit.Chem.MolStandardize import rdMolStandardize
 
 # Definição da coluna de odor
-odorcolumn = "Sub-odor"
+odorcolumn = "Primary Odor"
 
 def standardize_smiles(smiles):
-    normalizer = MolStandardize.normalize.Normalizer()
     mol = Chem.MolFromSmiles(smiles)
     if mol is None:
         return None
+    # Standardize the molecule
+    normalizer = rdMolStandardize.Normalizer()
     mol = normalizer.normalize(mol)
-    return Chem.MolToSmiles(mol, isomericSmiles=True)
+    return Chem.MolToSmiles(mol)
 
 def process_smiles(input_csv, output_csv, removed_csv):
-    df = pd.read_csv(input_csv, sep=";")
+    df = pd.read_csv(input_csv)
     if 'SMILES' not in df.columns or odorcolumn not in df.columns:
         raise ValueError(f"The input CSV file must contain 'SMILES' and '{odorcolumn}' columns")
+    
+     # Remove rows with None values
+    df.dropna(inplace=True)
 
     # Separar SMILES que representam misturas
     mixed_df = df[df['SMILES'].str.contains(r'\.')]
@@ -40,8 +44,8 @@ def process_smiles(input_csv, output_csv, removed_csv):
     grouped.to_csv(output_csv, index=False)
 
 if __name__ == "__main__":
-    input_csv = 'teste.csv'  # Caminho para o arquivo CSV de entrada
-    output_csv = 'standardized_smiles_with_odors.csv'  # Caminho para o arquivo CSV de saída
-    removed_csv = 'removed_mixtures.csv'  # Caminho para o arquivo CSV de saída das misturas removidas
+    input_csv = r'C:\Users\igorh\Documents\SOFIA_MQ\data\olfactionbase_odors_odorant_data_with_smiles.csv'  # Caminho para o arquivo CSV de entrada
+    output_csv = r'C:\Users\igorh\Documents\SOFIA_MQ\data\curated_PrimaryOdor.csv'  # Caminho para o arquivo CSV de saída
+    removed_csv = r'C:\Users\igorh\Documents\SOFIA_MQ\data\removed_mixtures.csv'  # Caminho para o arquivo CSV de saída das misturas removidas
 
     process_smiles(input_csv, output_csv, removed_csv)
