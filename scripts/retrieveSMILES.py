@@ -1,36 +1,49 @@
-import requests
+import pubchempy as pcp
 import pandas as pd
 from tqdm import tqdm
-import concurrent.futures
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
 
-def get_smiles_from_name(chemical_name):
-    url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{chemical_name}/property/CanonicalSMILES/JSON"
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        data = response.json()
-        if 'PropertyTable' in data and 'Properties' in data['PropertyTable']:
-            return chemical_name, data['PropertyTable']['Properties'][0]['CanonicalSMILES']
-    return chemical_name, None
+def get_smiles_from_name(chemical_name, retries=5):
+    for i in range(retries):
+        try:
+            compound = pcp.get_compounds(chemical_name, 'name')
+            if compound:
+                return compound[0].canonical_smiles
+        except pcp.PubChemHTTPError as e:
+            if 'PUGREST.ServerBusy' in str(e):
+                wait_time = 2 ** i  # Exponential backoff
+                time.sleep(wait_time)
+            else:
+                print(f"Error: {e}")
+                break
+    return None
 
 # Read the input CSV file
 data = pd.read_csv(r"C:\Users\igorh\Documents\SOFIA_MQ\data\olfactionbase_odors_odorant_data.csv")
 
-# Initialize an empty dictionary to store SMILES strings
-smiles_dict = {}
+# Function to process each chemical name
+def process_chemical_name(chemical_name):
+    return chemical_name, get_smiles_from_name(chemical_name)
 
-# Define the number of workers for concurrent requests
-num_workers = 40
+# Initialize an empty list with None values to store SMILES strings
+smiles_list = [None] * len(data)
 
-# Use ThreadPoolExecutor to fetch SMILES in parallel
-with concurrent.futures.ThreadPoolExecutor(max_workers=num_workers) as executor:
-    futures = {executor.submit(get_smiles_from_name, name): name for name in data['Chemical name']}
-    for future in tqdm(concurrent.futures.as_completed(futures), total=len(futures), desc="Converting to SMILES"):
-        chemical_name, smiles = future.result()
-        smiles_dict[chemical_name] = smiles
+# Use ThreadPoolExecutor for multithreading
+with ThreadPoolExecutor(max_workers=10) as executor:
+    # Submit tasks to the executor and keep track of the futures
+    futures = {executor.submit(process_chemical_name, name): idx for idx, name in enumerate(data['Chemical name'])}
+    
+    for future in tqdm(as_completed(futures), total=len(futures), desc="Converting to SMILES"):
+        idx = futures[future]
+        try:
+            chemical_name, smiles = future.result()
+            smiles_list[idx] = smiles
+        except Exception as e:
+            print(f"Error processing {data['Chemical name'][idx]}: {e}")
 
-# Map the SMILES strings back to the original dataframe
-data['SMILES'] = data['Chemical name'].map(smiles_dict)
+# Add the SMILES list to the dataframe
+data['SMILES'] = smiles_list
 
 # Save the dataframe with the SMILES column to a new CSV file
 data.to_csv(r"C:\Users\igorh\Documents\SOFIA_MQ\data\olfactionbase_odors_odorant_data_with_smiles.csv", index=False)
