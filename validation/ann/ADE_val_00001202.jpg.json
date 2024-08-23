@@ -1,0 +1,356 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4050403,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, building_facade",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:17:07.185Z",
+            "updatedAt": "2023-09-15T12:17:07.185Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44151176,
+            "classId": 56158,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:17:07.194Z",
+            "updatedAt": "2023-09-15T12:17:07.194Z",
+            "tags": [],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        1
+                    ],
+                    [
+                        255,
+                        1
+                    ],
+                    [
+                        255,
+                        209
+                    ],
+                    [
+                        149,
+                        216
+                    ],
+                    [
+                        47,
+                        220
+                    ],
+                    [
+                        2,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44151175,
+            "classId": 56261,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:17:07.194Z",
+            "updatedAt": "2023-09-15T12:17:07.194Z",
+            "tags": [],
+            "classTitle": "road",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        218
+                    ],
+                    [
+                        125,
+                        217
+                    ],
+                    [
+                        255,
+                        209
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        0,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44151174,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:17:07.193Z",
+            "updatedAt": "2023-09-15T12:17:07.193Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        131
+                    ],
+                    [
+                        146,
+                        131
+                    ],
+                    [
+                        146,
+                        212
+                    ],
+                    [
+                        113,
+                        210
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44151173,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:17:07.192Z",
+            "updatedAt": "2023-09-15T12:17:07.192Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        27
+                    ],
+                    [
+                        168,
+                        77
+                    ],
+                    [
+                        204,
+                        78
+                    ],
+                    [
+                        204,
+                        29
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44151172,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:17:07.191Z",
+            "updatedAt": "2023-09-15T12:17:07.191Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        88,
+                        22
+                    ],
+                    [
+                        88,
+                        76
+                    ],
+                    [
+                        128,
+                        76
+                    ],
+                    [
+                        128,
+                        24
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44151171,
+            "classId": 141619,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:17:07.191Z",
+            "updatedAt": "2023-09-15T12:17:07.191Z",
+            "tags": [],
+            "classTitle": "manhole",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        232
+                    ],
+                    [
+                        180,
+                        235
+                    ],
+                    [
+                        192,
+                        235
+                    ],
+                    [
+                        201,
+                        234
+                    ],
+                    [
+                        204,
+                        232
+                    ],
+                    [
+                        200,
+                        229
+                    ],
+                    [
+                        195,
+                        229
+                    ],
+                    [
+                        175,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44151170,
+            "classId": 108184,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:17:07.190Z",
+            "updatedAt": "2023-09-15T12:17:07.190Z",
+            "tags": [],
+            "classTitle": "bag",
+            "points": {
+                "exterior": [
+                    [
+                        156,
+                        202
+                    ],
+                    [
+                        160,
+                        199
+                    ],
+                    [
+                        166,
+                        199
+                    ],
+                    [
+                        169,
+                        209
+                    ],
+                    [
+                        170,
+                        216
+                    ],
+                    [
+                        156,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44151169,
+            "classId": 108184,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:17:07.189Z",
+            "updatedAt": "2023-09-15T12:17:07.189Z",
+            "tags": [],
+            "classTitle": "bag",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        202
+                    ],
+                    [
+                        177,
+                        208
+                    ],
+                    [
+                        179,
+                        213
+                    ],
+                    [
+                        176,
+                        215
+                    ],
+                    [
+                        170,
+                        216
+                    ],
+                    [
+                        168,
+                        205
+                    ],
+                    [
+                        169,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44151168,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:17:07.186Z",
+            "updatedAt": "2023-09-15T12:17:07.186Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        48,
+                        139
+                    ],
+                    [
+                        92,
+                        140
+                    ],
+                    [
+                        92,
+                        192
+                    ],
+                    [
+                        47,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
