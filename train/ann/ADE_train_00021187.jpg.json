@@ -1,0 +1,168 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4060538,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, living_room",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:20:34.829Z",
+            "updatedAt": "2023-09-15T13:20:34.829Z"
+        }
+    ],
+    "size": {
+        "height": 225,
+        "width": 300
+    },
+    "objects": [
+        {
+            "id": 44379146,
+            "classId": 95069,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:20:34.829Z",
+            "updatedAt": "2023-09-15T13:20:34.829Z",
+            "tags": [],
+            "classTitle": "sofa",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        98
+                    ],
+                    [
+                        43,
+                        77
+                    ],
+                    [
+                        64,
+                        62
+                    ],
+                    [
+                        256,
+                        63
+                    ],
+                    [
+                        296,
+                        97
+                    ],
+                    [
+                        296,
+                        102
+                    ],
+                    [
+                        282,
+                        162
+                    ],
+                    [
+                        269,
+                        165
+                    ],
+                    [
+                        265,
+                        173
+                    ],
+                    [
+                        256,
+                        174
+                    ],
+                    [
+                        256,
+                        165
+                    ],
+                    [
+                        63,
+                        167
+                    ],
+                    [
+                        62,
+                        174
+                    ],
+                    [
+                        57,
+                        175
+                    ],
+                    [
+                        54,
+                        168
+                    ],
+                    [
+                        41,
+                        167
+                    ],
+                    [
+                        29,
+                        105
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44379145,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:20:34.829Z",
+            "updatedAt": "2023-09-15T13:20:34.829Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        123
+                    ],
+                    [
+                        299,
+                        123
+                    ],
+                    [
+                        299,
+                        224
+                    ],
+                    [
+                        0,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44379144,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:20:34.829Z",
+            "updatedAt": "2023-09-15T13:20:34.829Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        123
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        299,
+                        0
+                    ],
+                    [
+                        299,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

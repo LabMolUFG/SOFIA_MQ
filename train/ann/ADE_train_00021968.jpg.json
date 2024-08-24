@@ -1,0 +1,116 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4064296,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "unclassified, unclassified, unclassified",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:41:07.033Z",
+            "updatedAt": "2023-09-15T13:41:07.033Z"
+        }
+    ],
+    "size": {
+        "height": 464,
+        "width": 700
+    },
+    "objects": [
+        {
+            "id": 44499687,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:41:07.034Z",
+            "updatedAt": "2023-09-15T13:41:07.034Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        117
+                    ],
+                    [
+                        625,
+                        0
+                    ],
+                    [
+                        2,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44499686,
+            "classId": 80989,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:41:07.034Z",
+            "updatedAt": "2023-09-15T13:41:07.034Z",
+            "tags": [],
+            "classTitle": "picture",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        388
+                    ],
+                    [
+                        698,
+                        425
+                    ],
+                    [
+                        698,
+                        0
+                    ],
+                    [
+                        616,
+                        1
+                    ],
+                    [
+                        2,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44499685,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:41:07.033Z",
+            "updatedAt": "2023-09-15T13:41:07.033Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        463
+                    ],
+                    [
+                        2,
+                        387
+                    ],
+                    [
+                        698,
+                        423
+                    ],
+                    [
+                        699,
+                        463
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4055246,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, nature landscape, ocean",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:50.926Z",
+            "updatedAt": "2023-09-15T12:46:50.926Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44228332,
+            "classId": 63661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:50.927Z",
+            "updatedAt": "2023-09-15T12:46:50.927Z",
+            "tags": [],
+            "classTitle": "sea water",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        76
+                    ],
+                    [
+                        255,
+                        254
+                    ],
+                    [
+                        2,
+                        254
+                    ],
+                    [
+                        2,
+                        68
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44228331,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:50.927Z",
+            "updatedAt": "2023-09-15T12:46:50.927Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        1
+                    ],
+                    [
+                        255,
+                        75
+                    ],
+                    [
+                        0,
+                        68
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

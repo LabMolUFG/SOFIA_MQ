@@ -1,0 +1,108 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4075598,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, work place, elevator door",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.041Z",
+            "updatedAt": "2023-09-15T14:40:28.041Z"
+        }
+    ],
+    "size": {
+        "height": 235,
+        "width": 288
+    },
+    "objects": [
+        {
+            "id": 44839032,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.042Z",
+            "updatedAt": "2023-09-15T14:40:28.042Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        123,
+                        0
+                    ],
+                    [
+                        287,
+                        0
+                    ],
+                    [
+                        287,
+                        234
+                    ],
+                    [
+                        236,
+                        234
+                    ],
+                    [
+                        238,
+                        16
+                    ],
+                    [
+                        120,
+                        14
+                    ],
+                    [
+                        119,
+                        234
+                    ],
+                    [
+                        0,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839031,
+            "classId": 103399,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.042Z",
+            "updatedAt": "2023-09-15T14:40:28.042Z",
+            "tags": [],
+            "classTitle": "elevator door",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        15
+                    ],
+                    [
+                        238,
+                        16
+                    ],
+                    [
+                        234,
+                        234
+                    ],
+                    [
+                        229,
+                        234
+                    ],
+                    [
+                        119,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

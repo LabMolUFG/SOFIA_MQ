@@ -1,0 +1,164 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4051945,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, sports and leisure, locker_room",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:29:39.976Z",
+            "updatedAt": "2023-09-15T12:29:39.976Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 44185775,
+            "classId": 86258,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:29:39.977Z",
+            "updatedAt": "2023-09-15T12:29:39.977Z",
+            "tags": [],
+            "classTitle": "lockers",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        51
+                    ],
+                    [
+                        634,
+                        32
+                    ],
+                    [
+                        639,
+                        34
+                    ],
+                    [
+                        639,
+                        377
+                    ],
+                    [
+                        441,
+                        478
+                    ],
+                    [
+                        2,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44185774,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:29:39.976Z",
+            "updatedAt": "2023-09-15T12:29:39.976Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        639,
+                        0
+                    ],
+                    [
+                        639,
+                        31
+                    ],
+                    [
+                        0,
+                        48
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44185773,
+            "classId": 389854,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:29:39.976Z",
+            "updatedAt": "2023-09-15T12:29:39.976Z",
+            "tags": [],
+            "classTitle": "buckets",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        9
+                    ],
+                    [
+                        149,
+                        37
+                    ],
+                    [
+                        149,
+                        43
+                    ],
+                    [
+                        183,
+                        45
+                    ],
+                    [
+                        210,
+                        41
+                    ],
+                    [
+                        205,
+                        1
+                    ],
+                    [
+                        146,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44185772,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:29:39.976Z",
+            "updatedAt": "2023-09-15T12:29:39.976Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        478
+                    ],
+                    [
+                        639,
+                        375
+                    ],
+                    [
+                        444,
+                        478
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

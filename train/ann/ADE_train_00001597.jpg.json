@@ -1,0 +1,504 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4052377,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, transportation, arrival_gate indoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:32:27.711Z",
+            "updatedAt": "2023-09-15T12:32:27.711Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 44194704,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:32:27.714Z",
+            "updatedAt": "2023-09-15T12:32:27.714Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        199
+                    ],
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        639,
+                        1
+                    ],
+                    [
+                        639,
+                        223
+                    ],
+                    [
+                        0,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44194703,
+            "classId": 58286,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:32:27.714Z",
+            "updatedAt": "2023-09-15T12:32:27.714Z",
+            "tags": [],
+            "classTitle": "sign",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        189
+                    ],
+                    [
+                        205,
+                        124
+                    ],
+                    [
+                        211,
+                        116
+                    ],
+                    [
+                        639,
+                        119
+                    ],
+                    [
+                        638,
+                        178
+                    ],
+                    [
+                        639,
+                        476
+                    ],
+                    [
+                        468,
+                        478
+                    ],
+                    [
+                        461,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44194702,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:32:27.713Z",
+            "updatedAt": "2023-09-15T12:32:27.713Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        448
+                    ],
+                    [
+                        0,
+                        219
+                    ],
+                    [
+                        460,
+                        220
+                    ],
+                    [
+                        464,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44194701,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:32:27.713Z",
+            "updatedAt": "2023-09-15T12:32:27.713Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        479
+                    ],
+                    [
+                        0,
+                        448
+                    ],
+                    [
+                        466,
+                        420
+                    ],
+                    [
+                        467,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44194700,
+            "classId": 54898,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:32:27.713Z",
+            "updatedAt": "2023-09-15T12:32:27.713Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        393,
+                        358
+                    ],
+                    [
+                        398,
+                        343
+                    ],
+                    [
+                        399,
+                        336
+                    ],
+                    [
+                        407,
+                        336
+                    ],
+                    [
+                        404,
+                        328
+                    ],
+                    [
+                        404,
+                        318
+                    ],
+                    [
+                        410,
+                        316
+                    ],
+                    [
+                        417,
+                        317
+                    ],
+                    [
+                        418,
+                        322
+                    ],
+                    [
+                        417,
+                        334
+                    ],
+                    [
+                        424,
+                        338
+                    ],
+                    [
+                        431,
+                        360
+                    ],
+                    [
+                        421,
+                        363
+                    ],
+                    [
+                        424,
+                        378
+                    ],
+                    [
+                        425,
+                        402
+                    ],
+                    [
+                        424,
+                        420
+                    ],
+                    [
+                        422,
+                        428
+                    ],
+                    [
+                        427,
+                        436
+                    ],
+                    [
+                        422,
+                        439
+                    ],
+                    [
+                        416,
+                        435
+                    ],
+                    [
+                        417,
+                        409
+                    ],
+                    [
+                        415,
+                        397
+                    ],
+                    [
+                        413,
+                        387
+                    ],
+                    [
+                        409,
+                        404
+                    ],
+                    [
+                        407,
+                        422
+                    ],
+                    [
+                        409,
+                        437
+                    ],
+                    [
+                        400,
+                        434
+                    ],
+                    [
+                        400,
+                        410
+                    ],
+                    [
+                        400,
+                        392
+                    ],
+                    [
+                        400,
+                        373
+                    ],
+                    [
+                        399,
+                        366
+                    ],
+                    [
+                        399,
+                        366
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44194699,
+            "classId": 58286,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:32:27.713Z",
+            "updatedAt": "2023-09-15T12:32:27.713Z",
+            "tags": [],
+            "classTitle": "sign",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        263
+                    ],
+                    [
+                        458,
+                        262
+                    ],
+                    [
+                        459,
+                        234
+                    ],
+                    [
+                        2,
+                        237
+                    ],
+                    [
+                        2,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44194698,
+            "classId": 443404,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:32:27.712Z",
+            "updatedAt": "2023-09-15T12:32:27.712Z",
+            "tags": [],
+            "classTitle": "fluorescent tubes",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        21
+                    ],
+                    [
+                        154,
+                        1
+                    ],
+                    [
+                        168,
+                        1
+                    ],
+                    [
+                        177,
+                        200
+                    ],
+                    [
+                        171,
+                        200
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44194697,
+            "classId": 443404,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:32:27.712Z",
+            "updatedAt": "2023-09-15T12:32:27.712Z",
+            "tags": [],
+            "classTitle": "fluorescent tubes",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        14
+                    ],
+                    [
+                        236,
+                        1
+                    ],
+                    [
+                        251,
+                        2
+                    ],
+                    [
+                        223,
+                        115
+                    ],
+                    [
+                        214,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44194696,
+            "classId": 55624,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:32:27.711Z",
+            "updatedAt": "2023-09-15T12:32:27.711Z",
+            "tags": [],
+            "classTitle": "fence",
+            "points": {
+                "exterior": [
+                    [
+                        15,
+                        394
+                    ],
+                    [
+                        461,
+                        378
+                    ],
+                    [
+                        462,
+                        387
+                    ],
+                    [
+                        452,
+                        388
+                    ],
+                    [
+                        453,
+                        476
+                    ],
+                    [
+                        446,
+                        477
+                    ],
+                    [
+                        446,
+                        388
+                    ],
+                    [
+                        312,
+                        394
+                    ],
+                    [
+                        311,
+                        478
+                    ],
+                    [
+                        306,
+                        478
+                    ],
+                    [
+                        304,
+                        392
+                    ],
+                    [
+                        163,
+                        398
+                    ],
+                    [
+                        162,
+                        478
+                    ],
+                    [
+                        160,
+                        478
+                    ],
+                    [
+                        159,
+                        398
+                    ],
+                    [
+                        2,
+                        403
+                    ],
+                    [
+                        2,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

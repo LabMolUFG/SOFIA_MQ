@@ -1,0 +1,144 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4075207,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, work place, parking_garage indoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:39:00.049Z",
+            "updatedAt": "2023-09-15T14:39:00.049Z"
+        }
+    ],
+    "size": {
+        "height": 533,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44831829,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:39:00.050Z",
+            "updatedAt": "2023-09-15T14:39:00.050Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        206
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        798,
+                        0
+                    ],
+                    [
+                        798,
+                        123
+                    ],
+                    [
+                        782,
+                        230
+                    ],
+                    [
+                        732,
+                        229
+                    ],
+                    [
+                        716,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44831828,
+            "classId": 59069,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:39:00.050Z",
+            "updatedAt": "2023-09-15T14:39:00.050Z",
+            "tags": [],
+            "classTitle": "column",
+            "points": {
+                "exterior": [
+                    [
+                        799,
+                        253
+                    ],
+                    [
+                        781,
+                        247
+                    ],
+                    [
+                        797,
+                        126
+                    ],
+                    [
+                        799,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44831827,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:39:00.049Z",
+            "updatedAt": "2023-09-15T14:39:00.049Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        798,
+                        532
+                    ],
+                    [
+                        797,
+                        253
+                    ],
+                    [
+                        778,
+                        247
+                    ],
+                    [
+                        782,
+                        229
+                    ],
+                    [
+                        733,
+                        228
+                    ],
+                    [
+                        717,
+                        220
+                    ],
+                    [
+                        2,
+                        206
+                    ],
+                    [
+                        2,
+                        532
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

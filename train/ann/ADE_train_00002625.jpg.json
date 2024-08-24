@@ -1,0 +1,588 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4059003,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, bathroom",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:10:26.930Z",
+            "updatedAt": "2023-09-15T13:10:26.930Z"
+        }
+    ],
+    "size": {
+        "height": 2200,
+        "width": 1650
+    },
+    "objects": [
+        {
+            "id": 44326915,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:10:26.939Z",
+            "updatedAt": "2023-09-15T13:10:26.939Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        1647,
+                        2199
+                    ],
+                    [
+                        3,
+                        2199
+                    ],
+                    [
+                        3,
+                        2048
+                    ],
+                    [
+                        699,
+                        1811
+                    ],
+                    [
+                        1071,
+                        1681
+                    ],
+                    [
+                        1094,
+                        1694
+                    ],
+                    [
+                        1649,
+                        2073
+                    ],
+                    [
+                        1649,
+                        2116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44326914,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:10:26.937Z",
+            "updatedAt": "2023-09-15T13:10:26.937Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        1649,
+                        3
+                    ],
+                    [
+                        1649,
+                        2073
+                    ],
+                    [
+                        1071,
+                        1685
+                    ],
+                    [
+                        1071,
+                        3
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44326913,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:10:26.937Z",
+            "updatedAt": "2023-09-15T13:10:26.937Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        1071,
+                        6
+                    ],
+                    [
+                        1071,
+                        1681
+                    ],
+                    [
+                        3,
+                        2046
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44326912,
+            "classId": 73798,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:10:26.936Z",
+            "updatedAt": "2023-09-15T13:10:26.936Z",
+            "tags": [],
+            "classTitle": "towel",
+            "points": {
+                "exterior": [
+                    [
+                        355,
+                        745
+                    ],
+                    [
+                        307,
+                        372
+                    ],
+                    [
+                        539,
+                        377
+                    ],
+                    [
+                        551,
+                        396
+                    ],
+                    [
+                        578,
+                        714
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44326911,
+            "classId": 73798,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:10:26.936Z",
+            "updatedAt": "2023-09-15T13:10:26.936Z",
+            "tags": [],
+            "classTitle": "towel",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        386
+                    ],
+                    [
+                        106,
+                        788
+                    ],
+                    [
+                        356,
+                        750
+                    ],
+                    [
+                        317,
+                        396
+                    ],
+                    [
+                        290,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44326910,
+            "classId": 73798,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:10:26.934Z",
+            "updatedAt": "2023-09-15T13:10:26.934Z",
+            "tags": [],
+            "classTitle": "towel",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        800
+                    ],
+                    [
+                        39,
+                        384
+                    ],
+                    [
+                        8,
+                        384
+                    ],
+                    [
+                        5,
+                        802
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44326909,
+            "classId": 274336,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:10:26.933Z",
+            "updatedAt": "2023-09-15T13:10:26.933Z",
+            "tags": [],
+            "classTitle": "toilet",
+            "points": {
+                "exterior": [
+                    [
+                        544,
+                        1284
+                    ],
+                    [
+                        547,
+                        1240
+                    ],
+                    [
+                        938,
+                        1157
+                    ],
+                    [
+                        990,
+                        1184
+                    ],
+                    [
+                        996,
+                        1245
+                    ],
+                    [
+                        979,
+                        1253
+                    ],
+                    [
+                        974,
+                        1341
+                    ],
+                    [
+                        933,
+                        1516
+                    ],
+                    [
+                        908,
+                        1524
+                    ],
+                    [
+                        925,
+                        1530
+                    ],
+                    [
+                        987,
+                        1516
+                    ],
+                    [
+                        1169,
+                        1590
+                    ],
+                    [
+                        1226,
+                        1653
+                    ],
+                    [
+                        1243,
+                        1698
+                    ],
+                    [
+                        1245,
+                        1789
+                    ],
+                    [
+                        1210,
+                        1848
+                    ],
+                    [
+                        1149,
+                        1888
+                    ],
+                    [
+                        1176,
+                        2072
+                    ],
+                    [
+                        1147,
+                        2109
+                    ],
+                    [
+                        1090,
+                        2112
+                    ],
+                    [
+                        994,
+                        2082
+                    ],
+                    [
+                        854,
+                        1991
+                    ],
+                    [
+                        797,
+                        1905
+                    ],
+                    [
+                        800,
+                        1850
+                    ],
+                    [
+                        817,
+                        1831
+                    ],
+                    [
+                        788,
+                        1737
+                    ],
+                    [
+                        763,
+                        1681
+                    ],
+                    [
+                        770,
+                        1612
+                    ],
+                    [
+                        733,
+                        1568
+                    ],
+                    [
+                        674,
+                        1560
+                    ],
+                    [
+                        603,
+                        1528
+                    ],
+                    [
+                        561,
+                        1400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44326908,
+            "classId": 277661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:10:26.933Z",
+            "updatedAt": "2023-09-15T13:10:26.933Z",
+            "tags": [],
+            "classTitle": "flusher",
+            "points": {
+                "exterior": [
+                    [
+                        620,
+                        1341
+                    ],
+                    [
+                        627,
+                        1363
+                    ],
+                    [
+                        654,
+                        1363
+                    ],
+                    [
+                        662,
+                        1349
+                    ],
+                    [
+                        596,
+                        1311
+                    ],
+                    [
+                        588,
+                        1319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44326907,
+            "classId": 272353,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:10:26.932Z",
+            "updatedAt": "2023-09-15T13:10:26.932Z",
+            "tags": [],
+            "classTitle": "towel rack",
+            "points": {
+                "exterior": [
+                    [
+                        561,
+                        386
+                    ],
+                    [
+                        581,
+                        403
+                    ],
+                    [
+                        578,
+                        424
+                    ],
+                    [
+                        564,
+                        438
+                    ],
+                    [
+                        549,
+                        435
+                    ],
+                    [
+                        542,
+                        389
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44326906,
+            "classId": 268414,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:10:26.931Z",
+            "updatedAt": "2023-09-15T13:10:26.931Z",
+            "tags": [],
+            "classTitle": "lid",
+            "points": {
+                "exterior": [
+                    [
+                        794,
+                        1575
+                    ],
+                    [
+                        824,
+                        1678
+                    ],
+                    [
+                        952,
+                        1748
+                    ],
+                    [
+                        1070,
+                        1774
+                    ],
+                    [
+                        1149,
+                        1770
+                    ],
+                    [
+                        1215,
+                        1745
+                    ],
+                    [
+                        1243,
+                        1703
+                    ],
+                    [
+                        1233,
+                        1656
+                    ],
+                    [
+                        1169,
+                        1590
+                    ],
+                    [
+                        1086,
+                        1552
+                    ],
+                    [
+                        987,
+                        1513
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44326905,
+            "classId": 274999,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:10:26.931Z",
+            "updatedAt": "2023-09-15T13:10:26.931Z",
+            "tags": [],
+            "classTitle": "cistern",
+            "points": {
+                "exterior": [
+                    [
+                        835,
+                        1537
+                    ],
+                    [
+                        925,
+                        1514
+                    ],
+                    [
+                        973,
+                        1350
+                    ],
+                    [
+                        975,
+                        1259
+                    ],
+                    [
+                        992,
+                        1252
+                    ],
+                    [
+                        987,
+                        1187
+                    ],
+                    [
+                        940,
+                        1153
+                    ],
+                    [
+                        548,
+                        1238
+                    ],
+                    [
+                        542,
+                        1285
+                    ],
+                    [
+                        560,
+                        1389
+                    ],
+                    [
+                        604,
+                        1534
+                    ],
+                    [
+                        662,
+                        1560
+                    ],
+                    [
+                        746,
+                        1571
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

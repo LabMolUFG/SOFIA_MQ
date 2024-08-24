@@ -1,0 +1,172 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4055197,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, nature landscape, ocean",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:45.756Z",
+            "updatedAt": "2023-09-15T12:46:45.756Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44228080,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:45.759Z",
+            "updatedAt": "2023-09-15T12:46:45.759Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        1
+                    ],
+                    [
+                        255,
+                        1
+                    ],
+                    [
+                        255,
+                        126
+                    ],
+                    [
+                        2,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44228079,
+            "classId": 128803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:45.758Z",
+            "updatedAt": "2023-09-15T12:46:45.758Z",
+            "tags": [],
+            "classTitle": "land",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        128
+                    ],
+                    [
+                        137,
+                        128
+                    ],
+                    [
+                        254,
+                        129
+                    ],
+                    [
+                        255,
+                        127
+                    ],
+                    [
+                        106,
+                        124
+                    ],
+                    [
+                        56,
+                        123
+                    ],
+                    [
+                        2,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44228078,
+            "classId": 63661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:45.757Z",
+            "updatedAt": "2023-09-15T12:46:45.757Z",
+            "tags": [],
+            "classTitle": "sea water",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        128
+                    ],
+                    [
+                        255,
+                        129
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        2,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44228077,
+            "classId": 142454,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:45.757Z",
+            "updatedAt": "2023-09-15T12:46:45.757Z",
+            "tags": [],
+            "classTitle": "sun",
+            "points": {
+                "exterior": [
+                    [
+                        40,
+                        73
+                    ],
+                    [
+                        43,
+                        76
+                    ],
+                    [
+                        43,
+                        79
+                    ],
+                    [
+                        41,
+                        80
+                    ],
+                    [
+                        38,
+                        80
+                    ],
+                    [
+                        36,
+                        78
+                    ],
+                    [
+                        37,
+                        74
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

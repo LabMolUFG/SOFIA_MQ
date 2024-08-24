@@ -1,0 +1,128 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4071032,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, skyscraper",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:48.567Z",
+            "updatedAt": "2023-09-15T14:21:48.567Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44740084,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:48.568Z",
+            "updatedAt": "2023-09-15T14:21:48.568Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        1
+                    ],
+                    [
+                        255,
+                        236
+                    ],
+                    [
+                        201,
+                        8
+                    ],
+                    [
+                        189,
+                        2
+                    ],
+                    [
+                        38,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44740083,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:48.568Z",
+            "updatedAt": "2023-09-15T14:21:48.568Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        211
+                    ],
+                    [
+                        2,
+                        1
+                    ],
+                    [
+                        38,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44740082,
+            "classId": 56158,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:48.567Z",
+            "updatedAt": "2023-09-15T14:21:48.567Z",
+            "tags": [],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        213
+                    ],
+                    [
+                        38,
+                        0
+                    ],
+                    [
+                        189,
+                        1
+                    ],
+                    [
+                        201,
+                        7
+                    ],
+                    [
+                        255,
+                        235
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        2,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

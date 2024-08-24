@@ -1,0 +1,180 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4073811,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, work place, home or hotel, staircase",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:33:25.091Z",
+            "updatedAt": "2023-09-15T14:33:25.091Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44791115,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:33:25.093Z",
+            "updatedAt": "2023-09-15T14:33:25.093Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        70,
+                        0
+                    ],
+                    [
+                        87,
+                        27
+                    ],
+                    [
+                        70,
+                        52
+                    ],
+                    [
+                        22,
+                        255
+                    ],
+                    [
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44791114,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:33:25.093Z",
+            "updatedAt": "2023-09-15T14:33:25.093Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        125,
+                        0
+                    ],
+                    [
+                        71,
+                        0
+                    ],
+                    [
+                        88,
+                        26
+                    ],
+                    [
+                        161,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44791113,
+            "classId": 57094,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:33:25.092Z",
+            "updatedAt": "2023-09-15T14:33:25.092Z",
+            "tags": [],
+            "classTitle": "staircase",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        255
+                    ],
+                    [
+                        69,
+                        52
+                    ],
+                    [
+                        87,
+                        25
+                    ],
+                    [
+                        161,
+                        1
+                    ],
+                    [
+                        197,
+                        0
+                    ],
+                    [
+                        197,
+                        34
+                    ],
+                    [
+                        204,
+                        60
+                    ],
+                    [
+                        220,
+                        140
+                    ],
+                    [
+                        245,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44791112,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:33:25.092Z",
+            "updatedAt": "2023-09-15T14:33:25.092Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        254
+                    ],
+                    [
+                        197,
+                        31
+                    ],
+                    [
+                        197,
+                        0
+                    ],
+                    [
+                        255,
+                        1
+                    ],
+                    [
+                        255,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

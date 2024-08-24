@@ -1,0 +1,200 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4051096,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, sports and leisure, tennis_court outdoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:23:17.358Z",
+            "updatedAt": "2023-09-15T12:23:17.358Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44169542,
+            "classId": 55624,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:23:17.359Z",
+            "updatedAt": "2023-09-15T12:23:17.359Z",
+            "tags": [],
+            "classTitle": "fence",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        255,
+                        0
+                    ],
+                    [
+                        255,
+                        40
+                    ],
+                    [
+                        212,
+                        36
+                    ],
+                    [
+                        0,
+                        107
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44169541,
+            "classId": 56059,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:23:17.358Z",
+            "updatedAt": "2023-09-15T12:23:17.358Z",
+            "tags": [],
+            "classTitle": "ground",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        107
+                    ],
+                    [
+                        212,
+                        35
+                    ],
+                    [
+                        255,
+                        39
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        0,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44169540,
+            "classId": 54893,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:23:17.358Z",
+            "updatedAt": "2023-09-15T12:23:17.358Z",
+            "tags": [],
+            "classTitle": "net",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        96
+                    ],
+                    [
+                        85,
+                        75
+                    ],
+                    [
+                        86,
+                        75
+                    ],
+                    [
+                        86,
+                        79
+                    ],
+                    [
+                        145,
+                        117
+                    ],
+                    [
+                        250,
+                        175
+                    ],
+                    [
+                        246,
+                        198
+                    ],
+                    [
+                        243,
+                        197
+                    ],
+                    [
+                        242,
+                        191
+                    ],
+                    [
+                        213,
+                        175
+                    ],
+                    [
+                        150,
+                        135
+                    ],
+                    [
+                        102,
+                        104
+                    ],
+                    [
+                        89,
+                        94
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44169539,
+            "classId": 811948,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:23:17.358Z",
+            "updatedAt": "2023-09-15T12:23:17.358Z",
+            "tags": [],
+            "classTitle": "tennis court",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        66
+                    ],
+                    [
+                        255,
+                        167
+                    ],
+                    [
+                        115,
+                        255
+                    ],
+                    [
+                        2,
+                        255
+                    ],
+                    [
+                        2,
+                        132
+                    ],
+                    [
+                        221,
+                        52
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

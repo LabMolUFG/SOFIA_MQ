@@ -1,0 +1,872 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4057808,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, kitchen",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.249Z",
+            "updatedAt": "2023-09-15T13:00:45.249Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44272741,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.252Z",
+            "updatedAt": "2023-09-15T13:00:45.252Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        38
+                    ],
+                    [
+                        252,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        32
+                    ],
+                    [
+                        46,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272740,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.252Z",
+            "updatedAt": "2023-09-15T13:00:45.252Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        90,
+                        156
+                    ],
+                    [
+                        90,
+                        121
+                    ],
+                    [
+                        123,
+                        118
+                    ],
+                    [
+                        123,
+                        96
+                    ],
+                    [
+                        173,
+                        93
+                    ],
+                    [
+                        174,
+                        121
+                    ],
+                    [
+                        206,
+                        122
+                    ],
+                    [
+                        206,
+                        124
+                    ],
+                    [
+                        255,
+                        127
+                    ],
+                    [
+                        255,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272739,
+            "classId": 113879,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.252Z",
+            "updatedAt": "2023-09-15T13:00:45.252Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        67
+                    ],
+                    [
+                        255,
+                        126
+                    ],
+                    [
+                        207,
+                        124
+                    ],
+                    [
+                        209,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272738,
+            "classId": 250508,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.252Z",
+            "updatedAt": "2023-09-15T13:00:45.252Z",
+            "tags": [],
+            "classTitle": "food processor",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        174
+                    ],
+                    [
+                        184,
+                        174
+                    ],
+                    [
+                        184,
+                        170
+                    ],
+                    [
+                        180,
+                        169
+                    ],
+                    [
+                        183,
+                        158
+                    ],
+                    [
+                        187,
+                        156
+                    ],
+                    [
+                        185,
+                        135
+                    ],
+                    [
+                        200,
+                        136
+                    ],
+                    [
+                        198,
+                        126
+                    ],
+                    [
+                        203,
+                        127
+                    ],
+                    [
+                        206,
+                        136
+                    ],
+                    [
+                        210,
+                        136
+                    ],
+                    [
+                        210,
+                        157
+                    ],
+                    [
+                        216,
+                        156
+                    ],
+                    [
+                        217,
+                        168
+                    ],
+                    [
+                        215,
+                        170
+                    ],
+                    [
+                        214,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272737,
+            "classId": 112853,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.252Z",
+            "updatedAt": "2023-09-15T13:00:45.252Z",
+            "tags": [],
+            "classTitle": "stove",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        201
+                    ],
+                    [
+                        79,
+                        166
+                    ],
+                    [
+                        119,
+                        160
+                    ],
+                    [
+                        180,
+                        167
+                    ],
+                    [
+                        146,
+                        176
+                    ],
+                    [
+                        146,
+                        182
+                    ],
+                    [
+                        143,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272736,
+            "classId": 55379,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.252Z",
+            "updatedAt": "2023-09-15T13:00:45.252Z",
+            "tags": [],
+            "classTitle": "cabinet",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        242
+                    ],
+                    [
+                        255,
+                        177
+                    ],
+                    [
+                        178,
+                        166
+                    ],
+                    [
+                        146,
+                        178
+                    ],
+                    [
+                        144,
+                        217
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272735,
+            "classId": 55379,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.251Z",
+            "updatedAt": "2023-09-15T13:00:45.251Z",
+            "tags": [],
+            "classTitle": "cabinet",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        199
+                    ],
+                    [
+                        0,
+                        162
+                    ],
+                    [
+                        32,
+                        157
+                    ],
+                    [
+                        74,
+                        161
+                    ],
+                    [
+                        90,
+                        157
+                    ],
+                    [
+                        115,
+                        159
+                    ],
+                    [
+                        80,
+                        166
+                    ],
+                    [
+                        77,
+                        202
+                    ],
+                    [
+                        43,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272734,
+            "classId": 111836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.251Z",
+            "updatedAt": "2023-09-15T13:00:45.251Z",
+            "tags": [],
+            "classTitle": "work surface",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        199
+                    ],
+                    [
+                        43,
+                        190
+                    ],
+                    [
+                        255,
+                        243
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        0,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272733,
+            "classId": 73411,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.251Z",
+            "updatedAt": "2023-09-15T13:00:45.251Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        218
+                    ],
+                    [
+                        72,
+                        205
+                    ],
+                    [
+                        209,
+                        239
+                    ],
+                    [
+                        215,
+                        241
+                    ],
+                    [
+                        218,
+                        242
+                    ],
+                    [
+                        197,
+                        255
+                    ],
+                    [
+                        28,
+                        255
+                    ],
+                    [
+                        0,
+                        242
+                    ],
+                    [
+                        0,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272732,
+            "classId": 73993,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.251Z",
+            "updatedAt": "2023-09-15T13:00:45.251Z",
+            "tags": [],
+            "classTitle": "faucet",
+            "points": {
+                "exterior": [
+                    [
+                        16,
+                        239
+                    ],
+                    [
+                        16,
+                        216
+                    ],
+                    [
+                        42,
+                        190
+                    ],
+                    [
+                        43,
+                        192
+                    ],
+                    [
+                        24,
+                        214
+                    ],
+                    [
+                        25,
+                        217
+                    ],
+                    [
+                        26,
+                        228
+                    ],
+                    [
+                        68,
+                        208
+                    ],
+                    [
+                        81,
+                        209
+                    ],
+                    [
+                        82,
+                        217
+                    ],
+                    [
+                        76,
+                        218
+                    ],
+                    [
+                        77,
+                        213
+                    ],
+                    [
+                        69,
+                        211
+                    ],
+                    [
+                        27,
+                        233
+                    ],
+                    [
+                        26,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272731,
+            "classId": 55114,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.251Z",
+            "updatedAt": "2023-09-15T13:00:45.251Z",
+            "tags": [],
+            "classTitle": "ceiling recessed light",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        17
+                    ],
+                    [
+                        115,
+                        18
+                    ],
+                    [
+                        111,
+                        20
+                    ],
+                    [
+                        115,
+                        23
+                    ],
+                    [
+                        123,
+                        24
+                    ],
+                    [
+                        128,
+                        23
+                    ],
+                    [
+                        132,
+                        21
+                    ],
+                    [
+                        132,
+                        19
+                    ],
+                    [
+                        126,
+                        16
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272730,
+            "classId": 55114,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.250Z",
+            "updatedAt": "2023-09-15T13:00:45.250Z",
+            "tags": [],
+            "classTitle": "ceiling recessed light",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        5
+                    ],
+                    [
+                        190,
+                        0
+                    ],
+                    [
+                        208,
+                        0
+                    ],
+                    [
+                        213,
+                        3
+                    ],
+                    [
+                        207,
+                        7
+                    ],
+                    [
+                        199,
+                        8
+                    ],
+                    [
+                        192,
+                        8
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272729,
+            "classId": 55114,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.250Z",
+            "updatedAt": "2023-09-15T13:00:45.250Z",
+            "tags": [],
+            "classTitle": "ceiling recessed light",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        27
+                    ],
+                    [
+                        24,
+                        28
+                    ],
+                    [
+                        30,
+                        31
+                    ],
+                    [
+                        32,
+                        33
+                    ],
+                    [
+                        20,
+                        35
+                    ],
+                    [
+                        11,
+                        33
+                    ],
+                    [
+                        11,
+                        30
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272728,
+            "classId": 55379,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.250Z",
+            "updatedAt": "2023-09-15T13:00:45.250Z",
+            "tags": [],
+            "classTitle": "cabinet",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        70
+                    ],
+                    [
+                        206,
+                        11
+                    ],
+                    [
+                        252,
+                        1
+                    ],
+                    [
+                        255,
+                        2
+                    ],
+                    [
+                        255,
+                        67
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272727,
+            "classId": 55379,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.250Z",
+            "updatedAt": "2023-09-15T13:00:45.250Z",
+            "tags": [],
+            "classTitle": "cabinet",
+            "points": {
+                "exterior": [
+                    [
+                        176,
+                        21
+                    ],
+                    [
+                        176,
+                        16
+                    ],
+                    [
+                        207,
+                        10
+                    ],
+                    [
+                        205,
+                        123
+                    ],
+                    [
+                        174,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272726,
+            "classId": 55379,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.250Z",
+            "updatedAt": "2023-09-15T13:00:45.250Z",
+            "tags": [],
+            "classTitle": "cabinet",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        93
+                    ],
+                    [
+                        102,
+                        32
+                    ],
+                    [
+                        177,
+                        17
+                    ],
+                    [
+                        176,
+                        92
+                    ],
+                    [
+                        121,
+                        96
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272725,
+            "classId": 55379,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.250Z",
+            "updatedAt": "2023-09-15T13:00:45.250Z",
+            "tags": [],
+            "classTitle": "cabinet",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        117
+                    ],
+                    [
+                        75,
+                        38
+                    ],
+                    [
+                        102,
+                        32
+                    ],
+                    [
+                        104,
+                        94
+                    ],
+                    [
+                        123,
+                        95
+                    ],
+                    [
+                        124,
+                        117
+                    ],
+                    [
+                        102,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44272724,
+            "classId": 55379,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:00:45.250Z",
+            "updatedAt": "2023-09-15T13:00:45.250Z",
+            "tags": [],
+            "classTitle": "cabinet",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        117
+                    ],
+                    [
+                        1,
+                        33
+                    ],
+                    [
+                        47,
+                        38
+                    ],
+                    [
+                        76,
+                        38
+                    ],
+                    [
+                        76,
+                        118
+                    ],
+                    [
+                        90,
+                        119
+                    ],
+                    [
+                        90,
+                        157
+                    ],
+                    [
+                        76,
+                        161
+                    ],
+                    [
+                        32,
+                        157
+                    ],
+                    [
+                        1,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

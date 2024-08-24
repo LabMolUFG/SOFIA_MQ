@@ -1,0 +1,120 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4054177,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, nature landscape, beach",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:42:13.865Z",
+            "updatedAt": "2023-09-15T12:42:13.865Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44219255,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:42:13.868Z",
+            "updatedAt": "2023-09-15T12:42:13.868Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        1
+                    ],
+                    [
+                        255,
+                        150
+                    ],
+                    [
+                        1,
+                        156
+                    ],
+                    [
+                        1,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44219254,
+            "classId": 63661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:42:13.867Z",
+            "updatedAt": "2023-09-15T12:42:13.867Z",
+            "tags": [],
+            "classTitle": "sea water",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        156
+                    ],
+                    [
+                        255,
+                        149
+                    ],
+                    [
+                        255,
+                        231
+                    ],
+                    [
+                        0,
+                        214
+                    ],
+                    [
+                        0,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44219253,
+            "classId": 96211,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:42:13.866Z",
+            "updatedAt": "2023-09-15T12:42:13.866Z",
+            "tags": [],
+            "classTitle": "sand beach",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        214
+                    ],
+                    [
+                        255,
+                        231
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        0,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

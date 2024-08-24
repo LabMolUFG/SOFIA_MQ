@@ -1,0 +1,280 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4068051,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, urban, crosswalk",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:13.955Z",
+            "updatedAt": "2023-09-15T14:04:13.955Z"
+        }
+    ],
+    "size": {
+        "height": 285,
+        "width": 380
+    },
+    "objects": [
+        {
+            "id": 44599085,
+            "classId": 64199,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:13.956Z",
+            "updatedAt": "2023-09-15T14:04:13.956Z",
+            "tags": [],
+            "classTitle": "sidewalk",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        214
+                    ],
+                    [
+                        244,
+                        283
+                    ],
+                    [
+                        379,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44599084,
+            "classId": 56261,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:13.956Z",
+            "updatedAt": "2023-09-15T14:04:13.956Z",
+            "tags": [],
+            "classTitle": "road",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        284
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        379,
+                        0
+                    ],
+                    [
+                        379,
+                        214
+                    ],
+                    [
+                        244,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44599083,
+            "classId": 468478,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:13.956Z",
+            "updatedAt": "2023-09-15T14:04:13.956Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        9
+                    ],
+                    [
+                        53,
+                        2
+                    ],
+                    [
+                        190,
+                        1
+                    ],
+                    [
+                        354,
+                        228
+                    ],
+                    [
+                        244,
+                        284
+                    ],
+                    [
+                        173,
+                        284
+                    ],
+                    [
+                        65,
+                        29
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44599082,
+            "classId": 54898,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:13.956Z",
+            "updatedAt": "2023-09-15T14:04:13.956Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        333,
+                        269
+                    ],
+                    [
+                        326,
+                        266
+                    ],
+                    [
+                        323,
+                        260
+                    ],
+                    [
+                        323,
+                        258
+                    ],
+                    [
+                        329,
+                        260
+                    ],
+                    [
+                        332,
+                        252
+                    ],
+                    [
+                        339,
+                        254
+                    ],
+                    [
+                        343,
+                        254
+                    ],
+                    [
+                        344,
+                        254
+                    ],
+                    [
+                        340,
+                        258
+                    ],
+                    [
+                        336,
+                        262
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44599081,
+            "classId": 60136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:13.956Z",
+            "updatedAt": "2023-09-15T14:04:13.956Z",
+            "tags": [],
+            "classTitle": "umbrella",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        222
+                    ],
+                    [
+                        328,
+                        212
+                    ],
+                    [
+                        340,
+                        211
+                    ],
+                    [
+                        354,
+                        216
+                    ],
+                    [
+                        363,
+                        229
+                    ],
+                    [
+                        363,
+                        242
+                    ],
+                    [
+                        353,
+                        254
+                    ],
+                    [
+                        338,
+                        253
+                    ],
+                    [
+                        326,
+                        248
+                    ],
+                    [
+                        318,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44599080,
+            "classId": 68911,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:13.955Z",
+            "updatedAt": "2023-09-15T14:04:13.955Z",
+            "tags": [],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        245
+                    ],
+                    [
+                        2,
+                        119
+                    ],
+                    [
+                        2,
+                        152
+                    ],
+                    [
+                        97,
+                        282
+                    ],
+                    [
+                        113,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,648 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4075614,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, work place, home or hotel, stable",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.054Z",
+            "updatedAt": "2023-09-15T14:40:28.054Z"
+        }
+    ],
+    "size": {
+        "height": 209,
+        "width": 348
+    },
+    "objects": [
+        {
+            "id": 44839368,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.057Z",
+            "updatedAt": "2023-09-15T14:40:28.057Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        0
+                    ],
+                    [
+                        98,
+                        64
+                    ],
+                    [
+                        115,
+                        65
+                    ],
+                    [
+                        208,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839367,
+            "classId": 56899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.057Z",
+            "updatedAt": "2023-09-15T14:40:28.057Z",
+            "tags": [],
+            "classTitle": "gate",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        85
+                    ],
+                    [
+                        98,
+                        65
+                    ],
+                    [
+                        114,
+                        66
+                    ],
+                    [
+                        115,
+                        84
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839366,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.057Z",
+            "updatedAt": "2023-09-15T14:40:28.057Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        85
+                    ],
+                    [
+                        115,
+                        85
+                    ],
+                    [
+                        265,
+                        208
+                    ],
+                    [
+                        30,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839365,
+            "classId": 5654425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.057Z",
+            "updatedAt": "2023-09-15T14:40:28.057Z",
+            "tags": [],
+            "classTitle": "stables",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        208
+                    ],
+                    [
+                        115,
+                        85
+                    ],
+                    [
+                        115,
+                        65
+                    ],
+                    [
+                        208,
+                        0
+                    ],
+                    [
+                        347,
+                        0
+                    ],
+                    [
+                        347,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839364,
+            "classId": 5654425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.057Z",
+            "updatedAt": "2023-09-15T14:40:28.057Z",
+            "tags": [],
+            "classTitle": "stables",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        47,
+                        0
+                    ],
+                    [
+                        97,
+                        64
+                    ],
+                    [
+                        96,
+                        87
+                    ],
+                    [
+                        29,
+                        208
+                    ],
+                    [
+                        0,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839363,
+            "classId": 62633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.057Z",
+            "updatedAt": "2023-09-15T14:40:28.057Z",
+            "tags": [],
+            "classTitle": "fluorescent tube",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        16
+                    ],
+                    [
+                        123,
+                        14
+                    ],
+                    [
+                        123,
+                        12
+                    ],
+                    [
+                        128,
+                        12
+                    ],
+                    [
+                        128,
+                        15
+                    ],
+                    [
+                        132,
+                        17
+                    ],
+                    [
+                        126,
+                        29
+                    ],
+                    [
+                        115,
+                        28
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839362,
+            "classId": 62633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.057Z",
+            "updatedAt": "2023-09-15T14:40:28.057Z",
+            "tags": [],
+            "classTitle": "fluorescent tube",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        43
+                    ],
+                    [
+                        121,
+                        45
+                    ],
+                    [
+                        120,
+                        38
+                    ],
+                    [
+                        118,
+                        35
+                    ],
+                    [
+                        115,
+                        35
+                    ],
+                    [
+                        115,
+                        36
+                    ],
+                    [
+                        111,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839361,
+            "classId": 62633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.056Z",
+            "updatedAt": "2023-09-15T14:40:28.056Z",
+            "tags": [],
+            "classTitle": "fluorescent tube",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        52
+                    ],
+                    [
+                        116,
+                        48
+                    ],
+                    [
+                        112,
+                        46
+                    ],
+                    [
+                        110,
+                        46
+                    ],
+                    [
+                        109,
+                        50
+                    ],
+                    [
+                        109,
+                        51
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839360,
+            "classId": 62633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.056Z",
+            "updatedAt": "2023-09-15T14:40:28.056Z",
+            "tags": [],
+            "classTitle": "fluorescent tube",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        56
+                    ],
+                    [
+                        109,
+                        64
+                    ],
+                    [
+                        106,
+                        64
+                    ],
+                    [
+                        108,
+                        53
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839359,
+            "classId": 54919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.056Z",
+            "updatedAt": "2023-09-15T14:40:28.056Z",
+            "tags": [],
+            "classTitle": "grille",
+            "points": {
+                "exterior": [
+                    [
+                        275,
+                        100
+                    ],
+                    [
+                        278,
+                        1
+                    ],
+                    [
+                        326,
+                        0
+                    ],
+                    [
+                        320,
+                        106
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839358,
+            "classId": 54919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.055Z",
+            "updatedAt": "2023-09-15T14:40:28.055Z",
+            "tags": [],
+            "classTitle": "grille",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        93
+                    ],
+                    [
+                        268,
+                        96
+                    ],
+                    [
+                        273,
+                        0
+                    ],
+                    [
+                        247,
+                        8
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839357,
+            "classId": 54919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.055Z",
+            "updatedAt": "2023-09-15T14:40:28.055Z",
+            "tags": [],
+            "classTitle": "grille",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        89
+                    ],
+                    [
+                        240,
+                        93
+                    ],
+                    [
+                        242,
+                        11
+                    ],
+                    [
+                        221,
+                        21
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839356,
+            "classId": 54919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.055Z",
+            "updatedAt": "2023-09-15T14:40:28.055Z",
+            "tags": [],
+            "classTitle": "grille",
+            "points": {
+                "exterior": [
+                    [
+                        22,
+                        98
+                    ],
+                    [
+                        17,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        2,
+                        105
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839355,
+            "classId": 54919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.055Z",
+            "updatedAt": "2023-09-15T14:40:28.055Z",
+            "tags": [],
+            "classTitle": "grille",
+            "points": {
+                "exterior": [
+                    [
+                        25,
+                        95
+                    ],
+                    [
+                        42,
+                        91
+                    ],
+                    [
+                        42,
+                        13
+                    ],
+                    [
+                        23,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839354,
+            "classId": 54919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.055Z",
+            "updatedAt": "2023-09-15T14:40:28.055Z",
+            "tags": [],
+            "classTitle": "grille",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        87
+                    ],
+                    [
+                        212,
+                        90
+                    ],
+                    [
+                        214,
+                        25
+                    ],
+                    [
+                        201,
+                        31
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839353,
+            "classId": 54919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.055Z",
+            "updatedAt": "2023-09-15T14:40:28.055Z",
+            "tags": [],
+            "classTitle": "grille",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        87
+                    ],
+                    [
+                        48,
+                        90
+                    ],
+                    [
+                        48,
+                        16
+                    ],
+                    [
+                        56,
+                        22
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44839352,
+            "classId": 5664469,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:40:28.054Z",
+            "updatedAt": "2023-09-15T14:40:28.054Z",
+            "tags": [],
+            "classTitle": "bolt",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        115
+                    ],
+                    [
+                        318,
+                        113
+                    ],
+                    [
+                        317,
+                        118
+                    ],
+                    [
+                        318,
+                        115
+                    ],
+                    [
+                        327,
+                        116
+                    ],
+                    [
+                        329,
+                        113
+                    ],
+                    [
+                        332,
+                        119
+                    ],
+                    [
+                        327,
+                        120
+                    ],
+                    [
+                        325,
+                        127
+                    ],
+                    [
+                        320,
+                        126
+                    ],
+                    [
+                        324,
+                        120
+                    ],
+                    [
+                        323,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

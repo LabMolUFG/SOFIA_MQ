@@ -1,0 +1,472 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4074527,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, work place, home or hotel, kennel indoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.633Z",
+            "updatedAt": "2023-09-15T14:36:22.633Z"
+        }
+    ],
+    "size": {
+        "height": 225,
+        "width": 360
+    },
+    "objects": [
+        {
+            "id": 44817145,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.635Z",
+            "updatedAt": "2023-09-15T14:36:22.635Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        49,
+                        38
+                    ],
+                    [
+                        142,
+                        41
+                    ],
+                    [
+                        231,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44817144,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.635Z",
+            "updatedAt": "2023-09-15T14:36:22.635Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        107
+                    ],
+                    [
+                        58,
+                        52
+                    ],
+                    [
+                        46,
+                        37
+                    ],
+                    [
+                        140,
+                        41
+                    ],
+                    [
+                        116,
+                        53
+                    ],
+                    [
+                        113,
+                        105
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44817143,
+            "classId": 622528,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.635Z",
+            "updatedAt": "2023-09-15T14:36:22.635Z",
+            "tags": [],
+            "classTitle": "cages",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        19,
+                        0
+                    ],
+                    [
+                        58,
+                        51
+                    ],
+                    [
+                        58,
+                        108
+                    ],
+                    [
+                        10,
+                        224
+                    ],
+                    [
+                        0,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44817142,
+            "classId": 622528,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.634Z",
+            "updatedAt": "2023-09-15T14:36:22.634Z",
+            "tags": [],
+            "classTitle": "cages",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        106
+                    ],
+                    [
+                        116,
+                        52
+                    ],
+                    [
+                        231,
+                        0
+                    ],
+                    [
+                        359,
+                        0
+                    ],
+                    [
+                        359,
+                        224
+                    ],
+                    [
+                        276,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44817141,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.634Z",
+            "updatedAt": "2023-09-15T14:36:22.634Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        107
+                    ],
+                    [
+                        114,
+                        105
+                    ],
+                    [
+                        275,
+                        224
+                    ],
+                    [
+                        10,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44817140,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.634Z",
+            "updatedAt": "2023-09-15T14:36:22.634Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        50
+                    ],
+                    [
+                        100,
+                        50
+                    ],
+                    [
+                        100,
+                        105
+                    ],
+                    [
+                        72,
+                        106
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44817139,
+            "classId": 62633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.634Z",
+            "updatedAt": "2023-09-15T14:36:22.634Z",
+            "tags": [],
+            "classTitle": "fluorescent tube",
+            "points": {
+                "exterior": [
+                    [
+                        95,
+                        17
+                    ],
+                    [
+                        101,
+                        1
+                    ],
+                    [
+                        109,
+                        1
+                    ],
+                    [
+                        101,
+                        20
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44817138,
+            "classId": 62633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.634Z",
+            "updatedAt": "2023-09-15T14:36:22.634Z",
+            "tags": [],
+            "classTitle": "fluorescent tube",
+            "points": {
+                "exterior": [
+                    [
+                        90,
+                        27
+                    ],
+                    [
+                        96,
+                        28
+                    ],
+                    [
+                        90,
+                        42
+                    ],
+                    [
+                        85,
+                        41
+                    ],
+                    [
+                        85,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44817137,
+            "classId": 623594,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.634Z",
+            "updatedAt": "2023-09-15T14:36:22.634Z",
+            "tags": [],
+            "classTitle": "grille door",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        194
+                    ],
+                    [
+                        252,
+                        3
+                    ],
+                    [
+                        260,
+                        0
+                    ],
+                    [
+                        359,
+                        0
+                    ],
+                    [
+                        352,
+                        224
+                    ],
+                    [
+                        287,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44817136,
+            "classId": 623594,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.634Z",
+            "updatedAt": "2023-09-15T14:36:22.634Z",
+            "tags": [],
+            "classTitle": "grille door",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        23
+                    ],
+                    [
+                        245,
+                        2
+                    ],
+                    [
+                        238,
+                        190
+                    ],
+                    [
+                        192,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44817135,
+            "classId": 623594,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.634Z",
+            "updatedAt": "2023-09-15T14:36:22.634Z",
+            "tags": [],
+            "classTitle": "grille door",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        36
+                    ],
+                    [
+                        192,
+                        24
+                    ],
+                    [
+                        189,
+                        155
+                    ],
+                    [
+                        165,
+                        138
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44817134,
+            "classId": 623594,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.634Z",
+            "updatedAt": "2023-09-15T14:36:22.634Z",
+            "tags": [],
+            "classTitle": "grille door",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        42
+                    ],
+                    [
+                        163,
+                        36
+                    ],
+                    [
+                        162,
+                        137
+                    ],
+                    [
+                        146,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44817133,
+            "classId": 623594,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:36:22.634Z",
+            "updatedAt": "2023-09-15T14:36:22.634Z",
+            "tags": [],
+            "classTitle": "grille door",
+            "points": {
+                "exterior": [
+                    [
+                        31,
+                        22
+                    ],
+                    [
+                        40,
+                        34
+                    ],
+                    [
+                        37,
+                        148
+                    ],
+                    [
+                        29,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

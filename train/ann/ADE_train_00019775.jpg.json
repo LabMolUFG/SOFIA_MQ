@@ -1,0 +1,892 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4071967,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, watchtower",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.195Z",
+            "updatedAt": "2023-09-15T14:25:51.195Z"
+        }
+    ],
+    "size": {
+        "height": 267,
+        "width": 400
+    },
+    "objects": [
+        {
+            "id": 44755071,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.211Z",
+            "updatedAt": "2023-09-15T14:25:51.211Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        101
+                    ],
+                    [
+                        102,
+                        123
+                    ],
+                    [
+                        102,
+                        102
+                    ],
+                    [
+                        101,
+                        99
+                    ],
+                    [
+                        101,
+                        95
+                    ],
+                    [
+                        95,
+                        80
+                    ],
+                    [
+                        90,
+                        79
+                    ],
+                    [
+                        90,
+                        76
+                    ],
+                    [
+                        126,
+                        65
+                    ],
+                    [
+                        127,
+                        58
+                    ],
+                    [
+                        129,
+                        55
+                    ],
+                    [
+                        129,
+                        52
+                    ],
+                    [
+                        126,
+                        52
+                    ],
+                    [
+                        127,
+                        47
+                    ],
+                    [
+                        131,
+                        46
+                    ],
+                    [
+                        131,
+                        50
+                    ],
+                    [
+                        131,
+                        54
+                    ],
+                    [
+                        133,
+                        58
+                    ],
+                    [
+                        132,
+                        65
+                    ],
+                    [
+                        170,
+                        78
+                    ],
+                    [
+                        169,
+                        81
+                    ],
+                    [
+                        164,
+                        82
+                    ],
+                    [
+                        157,
+                        95
+                    ],
+                    [
+                        157,
+                        103
+                    ],
+                    [
+                        155,
+                        148
+                    ],
+                    [
+                        398,
+                        180
+                    ],
+                    [
+                        399,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755070,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.209Z",
+            "updatedAt": "2023-09-15T14:25:51.209Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        132
+                    ],
+                    [
+                        2,
+                        101
+                    ],
+                    [
+                        103,
+                        125
+                    ],
+                    [
+                        103,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755069,
+            "classId": 585848,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.208Z",
+            "updatedAt": "2023-09-15T14:25:51.208Z",
+            "tags": [],
+            "classTitle": "watchtower",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        206
+                    ],
+                    [
+                        102,
+                        101
+                    ],
+                    [
+                        101,
+                        99
+                    ],
+                    [
+                        102,
+                        95
+                    ],
+                    [
+                        95,
+                        80
+                    ],
+                    [
+                        89,
+                        79
+                    ],
+                    [
+                        89,
+                        75
+                    ],
+                    [
+                        126,
+                        65
+                    ],
+                    [
+                        127,
+                        57
+                    ],
+                    [
+                        129,
+                        53
+                    ],
+                    [
+                        127,
+                        52
+                    ],
+                    [
+                        127,
+                        48
+                    ],
+                    [
+                        130,
+                        46
+                    ],
+                    [
+                        131,
+                        47
+                    ],
+                    [
+                        131,
+                        48
+                    ],
+                    [
+                        131,
+                        54
+                    ],
+                    [
+                        131,
+                        56
+                    ],
+                    [
+                        132,
+                        66
+                    ],
+                    [
+                        169,
+                        77
+                    ],
+                    [
+                        168,
+                        81
+                    ],
+                    [
+                        163,
+                        82
+                    ],
+                    [
+                        156,
+                        96
+                    ],
+                    [
+                        158,
+                        99
+                    ],
+                    [
+                        156,
+                        102
+                    ],
+                    [
+                        154,
+                        205
+                    ],
+                    [
+                        145,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755068,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.207Z",
+            "updatedAt": "2023-09-15T14:25:51.207Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        110,
+                        174
+                    ],
+                    [
+                        123,
+                        174
+                    ],
+                    [
+                        122,
+                        205
+                    ],
+                    [
+                        111,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755067,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.207Z",
+            "updatedAt": "2023-09-15T14:25:51.207Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        110,
+                        93
+                    ],
+                    [
+                        109,
+                        80
+                    ],
+                    [
+                        126,
+                        80
+                    ],
+                    [
+                        125,
+                        93
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755066,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.206Z",
+            "updatedAt": "2023-09-15T14:25:51.206Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        94
+                    ],
+                    [
+                        132,
+                        80
+                    ],
+                    [
+                        147,
+                        80
+                    ],
+                    [
+                        146,
+                        95
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755065,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.205Z",
+            "updatedAt": "2023-09-15T14:25:51.205Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        96
+                    ],
+                    [
+                        148,
+                        95
+                    ],
+                    [
+                        154,
+                        81
+                    ],
+                    [
+                        161,
+                        81
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755064,
+            "classId": 55624,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.205Z",
+            "updatedAt": "2023-09-15T14:25:51.205Z",
+            "tags": [],
+            "classTitle": "fence",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        206
+                    ],
+                    [
+                        101,
+                        205
+                    ],
+                    [
+                        101,
+                        145
+                    ],
+                    [
+                        0,
+                        133
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755063,
+            "classId": 55624,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.202Z",
+            "updatedAt": "2023-09-15T14:25:51.202Z",
+            "tags": [],
+            "classTitle": "fence",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        208
+                    ],
+                    [
+                        398,
+                        179
+                    ],
+                    [
+                        156,
+                        148
+                    ],
+                    [
+                        155,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755062,
+            "classId": 55444,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.202Z",
+            "updatedAt": "2023-09-15T14:25:51.202Z",
+            "tags": [],
+            "classTitle": "grass",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        206
+                    ],
+                    [
+                        101,
+                        206
+                    ],
+                    [
+                        145,
+                        206
+                    ],
+                    [
+                        209,
+                        206
+                    ],
+                    [
+                        399,
+                        208
+                    ],
+                    [
+                        399,
+                        266
+                    ],
+                    [
+                        0,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755061,
+            "classId": 65323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.201Z",
+            "updatedAt": "2023-09-15T14:25:51.201Z",
+            "tags": [],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        191
+                    ],
+                    [
+                        214,
+                        205
+                    ],
+                    [
+                        218,
+                        205
+                    ],
+                    [
+                        215,
+                        117
+                    ],
+                    [
+                        212,
+                        107
+                    ],
+                    [
+                        203,
+                        99
+                    ],
+                    [
+                        192,
+                        97
+                    ],
+                    [
+                        183,
+                        97
+                    ],
+                    [
+                        184,
+                        99
+                    ],
+                    [
+                        188,
+                        101
+                    ],
+                    [
+                        192,
+                        99
+                    ],
+                    [
+                        203,
+                        101
+                    ],
+                    [
+                        211,
+                        109
+                    ],
+                    [
+                        213,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755060,
+            "classId": 65323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.201Z",
+            "updatedAt": "2023-09-15T14:25:51.201Z",
+            "tags": [],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        197
+                    ],
+                    [
+                        325,
+                        206
+                    ],
+                    [
+                        328,
+                        206
+                    ],
+                    [
+                        329,
+                        137
+                    ],
+                    [
+                        326,
+                        129
+                    ],
+                    [
+                        320,
+                        124
+                    ],
+                    [
+                        315,
+                        123
+                    ],
+                    [
+                        305,
+                        121
+                    ],
+                    [
+                        302,
+                        123
+                    ],
+                    [
+                        307,
+                        125
+                    ],
+                    [
+                        310,
+                        123
+                    ],
+                    [
+                        320,
+                        126
+                    ],
+                    [
+                        325,
+                        131
+                    ],
+                    [
+                        327,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755059,
+            "classId": 65323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.197Z",
+            "updatedAt": "2023-09-15T14:25:51.197Z",
+            "tags": [],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        13,
+                        190
+                    ],
+                    [
+                        11,
+                        206
+                    ],
+                    [
+                        17,
+                        205
+                    ],
+                    [
+                        18,
+                        28
+                    ],
+                    [
+                        22,
+                        28
+                    ],
+                    [
+                        26,
+                        27
+                    ],
+                    [
+                        25,
+                        24
+                    ],
+                    [
+                        17,
+                        22
+                    ],
+                    [
+                        11,
+                        22
+                    ],
+                    [
+                        5,
+                        24
+                    ],
+                    [
+                        6,
+                        28
+                    ],
+                    [
+                        15,
+                        29
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755058,
+            "classId": 55786,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.197Z",
+            "updatedAt": "2023-09-15T14:25:51.197Z",
+            "tags": [],
+            "classTitle": "tree",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        149
+                    ],
+                    [
+                        234,
+                        151
+                    ],
+                    [
+                        238,
+                        154
+                    ],
+                    [
+                        242,
+                        151
+                    ],
+                    [
+                        246,
+                        158
+                    ],
+                    [
+                        245,
+                        160
+                    ],
+                    [
+                        233,
+                        158
+                    ],
+                    [
+                        219,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755057,
+            "classId": 55663,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.196Z",
+            "updatedAt": "2023-09-15T14:25:51.196Z",
+            "tags": [],
+            "classTitle": "trees",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        169
+                    ],
+                    [
+                        373,
+                        170
+                    ],
+                    [
+                        380,
+                        173
+                    ],
+                    [
+                        387,
+                        176
+                    ],
+                    [
+                        388,
+                        172
+                    ],
+                    [
+                        380,
+                        168
+                    ],
+                    [
+                        388,
+                        166
+                    ],
+                    [
+                        392,
+                        166
+                    ],
+                    [
+                        392,
+                        165
+                    ],
+                    [
+                        395,
+                        168
+                    ],
+                    [
+                        397,
+                        175
+                    ],
+                    [
+                        397,
+                        178
+                    ],
+                    [
+                        355,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44755056,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:25:51.196Z",
+            "updatedAt": "2023-09-15T14:25:51.196Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        94
+                    ],
+                    [
+                        104,
+                        80
+                    ],
+                    [
+                        97,
+                        81
+                    ],
+                    [
+                        103,
+                        95
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

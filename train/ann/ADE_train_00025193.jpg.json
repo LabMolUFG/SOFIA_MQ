@@ -1,0 +1,116 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4052619,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, transportation, subway_station platform",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:17.152Z",
+            "updatedAt": "2023-09-15T12:34:17.152Z"
+        }
+    ],
+    "size": {
+        "height": 900,
+        "width": 1200
+    },
+    "objects": [
+        {
+            "id": 44198955,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:17.154Z",
+            "updatedAt": "2023-09-15T12:34:17.154Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        1
+                    ],
+                    [
+                        895,
+                        1
+                    ],
+                    [
+                        1,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44198954,
+            "classId": 497153,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:17.153Z",
+            "updatedAt": "2023-09-15T12:34:17.153Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        581
+                    ],
+                    [
+                        622,
+                        899
+                    ],
+                    [
+                        1199,
+                        899
+                    ],
+                    [
+                        1199,
+                        1
+                    ],
+                    [
+                        893,
+                        1
+                    ],
+                    [
+                        1,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44198953,
+            "classId": 68086,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:17.153Z",
+            "updatedAt": "2023-09-15T12:34:17.153Z",
+            "tags": [],
+            "classTitle": "platform",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        582
+                    ],
+                    [
+                        619,
+                        899
+                    ],
+                    [
+                        1,
+                        899
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

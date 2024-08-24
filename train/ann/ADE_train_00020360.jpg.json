@@ -1,0 +1,224 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4062976,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, bedroom",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:34:26.464Z",
+            "updatedAt": "2023-09-15T13:34:26.464Z"
+        }
+    ],
+    "size": {
+        "height": 240,
+        "width": 300
+    },
+    "objects": [
+        {
+            "id": 44470003,
+            "classId": 73604,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:34:26.467Z",
+            "updatedAt": "2023-09-15T13:34:26.467Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        106,
+                        45
+                    ],
+                    [
+                        14,
+                        76
+                    ],
+                    [
+                        14,
+                        80
+                    ],
+                    [
+                        18,
+                        107
+                    ],
+                    [
+                        23,
+                        109
+                    ],
+                    [
+                        30,
+                        126
+                    ],
+                    [
+                        34,
+                        116
+                    ],
+                    [
+                        147,
+                        158
+                    ],
+                    [
+                        152,
+                        167
+                    ],
+                    [
+                        152,
+                        180
+                    ],
+                    [
+                        155,
+                        180
+                    ],
+                    [
+                        159,
+                        171
+                    ],
+                    [
+                        165,
+                        164
+                    ],
+                    [
+                        202,
+                        177
+                    ],
+                    [
+                        211,
+                        174
+                    ],
+                    [
+                        283,
+                        100
+                    ],
+                    [
+                        283,
+                        98
+                    ],
+                    [
+                        274,
+                        95
+                    ],
+                    [
+                        277,
+                        78
+                    ],
+                    [
+                        273,
+                        72
+                    ],
+                    [
+                        262,
+                        69
+                    ],
+                    [
+                        111,
+                        45
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44470002,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:34:26.466Z",
+            "updatedAt": "2023-09-15T13:34:26.466Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        85
+                    ],
+                    [
+                        299,
+                        115
+                    ],
+                    [
+                        299,
+                        239
+                    ],
+                    [
+                        0,
+                        239
+                    ],
+                    [
+                        0,
+                        131
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44470001,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:34:26.464Z",
+            "updatedAt": "2023-09-15T13:34:26.464Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        1
+                    ],
+                    [
+                        107,
+                        85
+                    ],
+                    [
+                        2,
+                        130
+                    ],
+                    [
+                        0,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44470000,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:34:26.464Z",
+            "updatedAt": "2023-09-15T13:34:26.464Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        85
+                    ],
+                    [
+                        99,
+                        0
+                    ],
+                    [
+                        299,
+                        0
+                    ],
+                    [
+                        299,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,276 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4070799,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, building_facade",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:20:54.522Z",
+            "updatedAt": "2023-09-15T14:20:54.522Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44734873,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:20:54.524Z",
+            "updatedAt": "2023-09-15T14:20:54.524Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        68
+                    ],
+                    [
+                        21,
+                        165
+                    ],
+                    [
+                        67,
+                        165
+                    ],
+                    [
+                        68,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44734872,
+            "classId": 56158,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:20:54.523Z",
+            "updatedAt": "2023-09-15T14:20:54.523Z",
+            "tags": [],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        173
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        255,
+                        0
+                    ],
+                    [
+                        255,
+                        176
+                    ],
+                    [
+                        224,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44734871,
+            "classId": 64199,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:20:54.523Z",
+            "updatedAt": "2023-09-15T14:20:54.523Z",
+            "tags": [],
+            "classTitle": "sidewalk",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        173
+                    ],
+                    [
+                        255,
+                        176
+                    ],
+                    [
+                        255,
+                        240
+                    ],
+                    [
+                        0,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44734870,
+            "classId": 56261,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:20:54.523Z",
+            "updatedAt": "2023-09-15T14:20:54.523Z",
+            "tags": [],
+            "classTitle": "road",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        230
+                    ],
+                    [
+                        255,
+                        240
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        2,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44734869,
+            "classId": 59443,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:20:54.523Z",
+            "updatedAt": "2023-09-15T14:20:54.523Z",
+            "tags": [],
+            "classTitle": "plant",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        154
+                    ],
+                    [
+                        222,
+                        125
+                    ],
+                    [
+                        228,
+                        123
+                    ],
+                    [
+                        235,
+                        124
+                    ],
+                    [
+                        236,
+                        116
+                    ],
+                    [
+                        250,
+                        110
+                    ],
+                    [
+                        255,
+                        116
+                    ],
+                    [
+                        254,
+                        190
+                    ],
+                    [
+                        242,
+                        189
+                    ],
+                    [
+                        234,
+                        197
+                    ],
+                    [
+                        204,
+                        203
+                    ],
+                    [
+                        193,
+                        193
+                    ],
+                    [
+                        171,
+                        182
+                    ],
+                    [
+                        188,
+                        172
+                    ],
+                    [
+                        207,
+                        173
+                    ],
+                    [
+                        227,
+                        173
+                    ],
+                    [
+                        227,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44734868,
+            "classId": 115958,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:20:54.523Z",
+            "updatedAt": "2023-09-15T14:20:54.523Z",
+            "tags": [],
+            "classTitle": "pot",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        213
+                    ],
+                    [
+                        209,
+                        228
+                    ],
+                    [
+                        255,
+                        231
+                    ],
+                    [
+                        254,
+                        190
+                    ],
+                    [
+                        209,
+                        188
+                    ],
+                    [
+                        196,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

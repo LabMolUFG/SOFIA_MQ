@@ -1,0 +1,116 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4068154,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, urban, doorway outdoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:47.665Z",
+            "updatedAt": "2023-09-15T14:04:47.665Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44602072,
+            "classId": 61904,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:47.668Z",
+            "updatedAt": "2023-09-15T14:04:47.668Z",
+            "tags": [],
+            "classTitle": "double door",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        41
+                    ],
+                    [
+                        60,
+                        215
+                    ],
+                    [
+                        212,
+                        211
+                    ],
+                    [
+                        211,
+                        41
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44602071,
+            "classId": 56261,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:47.667Z",
+            "updatedAt": "2023-09-15T14:04:47.667Z",
+            "tags": [],
+            "classTitle": "road",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        210
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        2,
+                        255
+                    ],
+                    [
+                        0,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44602070,
+            "classId": 56158,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:47.666Z",
+            "updatedAt": "2023-09-15T14:04:47.666Z",
+            "tags": [],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        0
+                    ],
+                    [
+                        255,
+                        210
+                    ],
+                    [
+                        0,
+                        220
+                    ],
+                    [
+                        0,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

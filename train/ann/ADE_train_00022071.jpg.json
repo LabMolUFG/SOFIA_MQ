@@ -1,0 +1,144 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4073604,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, roof",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:32:39.157Z",
+            "updatedAt": "2023-09-15T14:32:39.157Z"
+        }
+    ],
+    "size": {
+        "height": 254,
+        "width": 288
+    },
+    "objects": [
+        {
+            "id": 44787328,
+            "classId": 55873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:32:39.159Z",
+            "updatedAt": "2023-09-15T14:32:39.159Z",
+            "tags": [],
+            "classTitle": "roof",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        6
+                    ],
+                    [
+                        114,
+                        4
+                    ],
+                    [
+                        247,
+                        47
+                    ],
+                    [
+                        246,
+                        59
+                    ],
+                    [
+                        287,
+                        72
+                    ],
+                    [
+                        287,
+                        253
+                    ],
+                    [
+                        0,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44787327,
+            "classId": 56158,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:32:39.159Z",
+            "updatedAt": "2023-09-15T14:32:39.159Z",
+            "tags": [],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        21
+                    ],
+                    [
+                        248,
+                        46
+                    ],
+                    [
+                        111,
+                        3
+                    ],
+                    [
+                        0,
+                        6
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        287,
+                        0
+                    ],
+                    [
+                        287,
+                        22
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44787326,
+            "classId": 139961,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:32:39.159Z",
+            "updatedAt": "2023-09-15T14:32:39.159Z",
+            "tags": [],
+            "classTitle": "chimney",
+            "points": {
+                "exterior": [
+                    [
+                        287,
+                        52
+                    ],
+                    [
+                        287,
+                        21
+                    ],
+                    [
+                        249,
+                        22
+                    ],
+                    [
+                        247,
+                        57
+                    ],
+                    [
+                        287,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

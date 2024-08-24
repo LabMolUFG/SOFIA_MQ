@@ -1,0 +1,168 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4064586,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "unclassified, unclassified, unclassified",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:42:50.287Z",
+            "updatedAt": "2023-09-15T13:42:50.287Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44504614,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:42:50.290Z",
+            "updatedAt": "2023-09-15T13:42:50.290Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        2
+                    ],
+                    [
+                        255,
+                        1
+                    ],
+                    [
+                        255,
+                        54
+                    ],
+                    [
+                        2,
+                        57
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44504613,
+            "classId": 63661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:42:50.289Z",
+            "updatedAt": "2023-09-15T13:42:50.289Z",
+            "tags": [],
+            "classTitle": "sea water",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        57
+                    ],
+                    [
+                        255,
+                        54
+                    ],
+                    [
+                        255,
+                        122
+                    ],
+                    [
+                        2,
+                        98
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44504612,
+            "classId": 142454,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:42:50.288Z",
+            "updatedAt": "2023-09-15T13:42:50.288Z",
+            "tags": [],
+            "classTitle": "sun",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        58
+                    ],
+                    [
+                        244,
+                        57
+                    ],
+                    [
+                        242,
+                        54
+                    ],
+                    [
+                        244,
+                        51
+                    ],
+                    [
+                        247,
+                        50
+                    ],
+                    [
+                        249,
+                        51
+                    ],
+                    [
+                        251,
+                        52
+                    ],
+                    [
+                        252,
+                        55
+                    ],
+                    [
+                        252,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44504611,
+            "classId": 96211,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:42:50.288Z",
+            "updatedAt": "2023-09-15T13:42:50.288Z",
+            "tags": [],
+            "classTitle": "sand beach",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        98
+                    ],
+                    [
+                        255,
+                        122
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        0,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

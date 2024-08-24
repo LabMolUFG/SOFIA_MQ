@@ -1,0 +1,152 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4072133,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, urban, balcony exterior",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:26:38.717Z",
+            "updatedAt": "2023-09-15T14:26:38.717Z"
+        }
+    ],
+    "size": {
+        "height": 469,
+        "width": 325
+    },
+    "objects": [
+        {
+            "id": 44757780,
+            "classId": 56158,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:26:38.718Z",
+            "updatedAt": "2023-09-15T14:26:38.718Z",
+            "tags": [],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        467
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        324,
+                        0
+                    ],
+                    [
+                        324,
+                        467
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44757779,
+            "classId": 122044,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:26:38.718Z",
+            "updatedAt": "2023-09-15T14:26:38.718Z",
+            "tags": [],
+            "classTitle": "balcony",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        275
+                    ],
+                    [
+                        96,
+                        261
+                    ],
+                    [
+                        95,
+                        224
+                    ],
+                    [
+                        92,
+                        218
+                    ],
+                    [
+                        113,
+                        216
+                    ],
+                    [
+                        112,
+                        70
+                    ],
+                    [
+                        210,
+                        70
+                    ],
+                    [
+                        214,
+                        218
+                    ],
+                    [
+                        232,
+                        218
+                    ],
+                    [
+                        232,
+                        223
+                    ],
+                    [
+                        228,
+                        223
+                    ],
+                    [
+                        226,
+                        257
+                    ],
+                    [
+                        218,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44757778,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:26:38.718Z",
+            "updatedAt": "2023-09-15T14:26:38.718Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        338
+                    ],
+                    [
+                        183,
+                        338
+                    ],
+                    [
+                        182,
+                        401
+                    ],
+                    [
+                        140,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

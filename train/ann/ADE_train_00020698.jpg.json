@@ -1,0 +1,120 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4068162,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, urban, doorway outdoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:47.677Z",
+            "updatedAt": "2023-09-15T14:04:47.677Z"
+        }
+    ],
+    "size": {
+        "height": 288,
+        "width": 216
+    },
+    "objects": [
+        {
+            "id": 44602125,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:47.680Z",
+            "updatedAt": "2023-09-15T14:04:47.680Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        98
+                    ],
+                    [
+                        131,
+                        100
+                    ],
+                    [
+                        134,
+                        239
+                    ],
+                    [
+                        72,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44602124,
+            "classId": 56158,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:47.679Z",
+            "updatedAt": "2023-09-15T14:04:47.679Z",
+            "tags": [],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        215,
+                        0
+                    ],
+                    [
+                        215,
+                        287
+                    ],
+                    [
+                        0,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44602123,
+            "classId": 122779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:47.679Z",
+            "updatedAt": "2023-09-15T14:04:47.679Z",
+            "tags": [],
+            "classTitle": "wall spotlight",
+            "points": {
+                "exterior": [
+                    [
+                        35,
+                        54
+                    ],
+                    [
+                        36,
+                        76
+                    ],
+                    [
+                        47,
+                        76
+                    ],
+                    [
+                        45,
+                        56
+                    ],
+                    [
+                        44,
+                        54
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4071543,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, field_road",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:23:41.647Z",
+            "updatedAt": "2023-09-15T14:23:41.647Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44746790,
+            "classId": 56261,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:23:41.652Z",
+            "updatedAt": "2023-09-15T14:23:41.652Z",
+            "tags": [],
+            "classTitle": "road",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        125
+                    ],
+                    [
+                        228,
+                        125
+                    ],
+                    [
+                        255,
+                        141
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44746789,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:23:41.648Z",
+            "updatedAt": "2023-09-15T14:23:41.648Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        1
+                    ],
+                    [
+                        255,
+                        118
+                    ],
+                    [
+                        171,
+                        118
+                    ],
+                    [
+                        155,
+                        116
+                    ],
+                    [
+                        134,
+                        116
+                    ],
+                    [
+                        101,
+                        114
+                    ],
+                    [
+                        82,
+                        113
+                    ],
+                    [
+                        56,
+                        112
+                    ],
+                    [
+                        38,
+                        111
+                    ],
+                    [
+                        23,
+                        110
+                    ],
+                    [
+                        1,
+                        110
+                    ],
+                    [
+                        1,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44746788,
+            "classId": 55513,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:23:41.648Z",
+            "updatedAt": "2023-09-15T14:23:41.648Z",
+            "tags": [],
+            "classTitle": "sand",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        112
+                    ],
+                    [
+                        1,
+                        223
+                    ],
+                    [
+                        221,
+                        126
+                    ],
+                    [
+                        229,
+                        126
+                    ],
+                    [
+                        255,
+                        143
+                    ],
+                    [
+                        255,
+                        120
+                    ],
+                    [
+                        143,
+                        116
+                    ],
+                    [
+                        87,
+                        114
+                    ],
+                    [
+                        10,
+                        110
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

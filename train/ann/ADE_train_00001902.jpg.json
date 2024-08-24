@@ -1,0 +1,2020 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4060313,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, attic",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.768Z",
+            "updatedAt": "2023-09-15T13:19:01.768Z"
+        }
+    ],
+    "size": {
+        "height": 250,
+        "width": 350
+    },
+    "objects": [
+        {
+            "id": 44368681,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.781Z",
+            "updatedAt": "2023-09-15T13:19:01.781Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        55,
+                        0
+                    ],
+                    [
+                        82,
+                        23
+                    ],
+                    [
+                        252,
+                        24
+                    ],
+                    [
+                        290,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368680,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.781Z",
+            "updatedAt": "2023-09-15T13:19:01.781Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        235
+                    ],
+                    [
+                        13,
+                        223
+                    ],
+                    [
+                        10,
+                        96
+                    ],
+                    [
+                        83,
+                        23
+                    ],
+                    [
+                        57,
+                        1
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368679,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.780Z",
+            "updatedAt": "2023-09-15T13:19:01.780Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        0
+                    ],
+                    [
+                        290,
+                        0
+                    ],
+                    [
+                        252,
+                        24
+                    ],
+                    [
+                        323,
+                        97
+                    ],
+                    [
+                        349,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368678,
+            "classId": 156809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.780Z",
+            "updatedAt": "2023-09-15T13:19:01.780Z",
+            "tags": [],
+            "classTitle": "bookcase",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        215
+                    ],
+                    [
+                        223,
+                        223
+                    ],
+                    [
+                        298,
+                        223
+                    ],
+                    [
+                        300,
+                        99
+                    ],
+                    [
+                        322,
+                        98
+                    ],
+                    [
+                        253,
+                        24
+                    ],
+                    [
+                        83,
+                        23
+                    ],
+                    [
+                        10,
+                        95
+                    ],
+                    [
+                        13,
+                        224
+                    ],
+                    [
+                        113,
+                        222
+                    ],
+                    [
+                        114,
+                        217
+                    ],
+                    [
+                        111,
+                        47
+                    ],
+                    [
+                        223,
+                        48
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368677,
+            "classId": 106243,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.780Z",
+            "updatedAt": "2023-09-15T13:19:01.780Z",
+            "tags": [],
+            "classTitle": "door frame",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        212
+                    ],
+                    [
+                        119,
+                        217
+                    ],
+                    [
+                        114,
+                        216
+                    ],
+                    [
+                        111,
+                        47
+                    ],
+                    [
+                        224,
+                        47
+                    ],
+                    [
+                        220,
+                        217
+                    ],
+                    [
+                        217,
+                        217
+                    ],
+                    [
+                        213,
+                        214
+                    ],
+                    [
+                        215,
+                        56
+                    ],
+                    [
+                        120,
+                        57
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368676,
+            "classId": 61904,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.780Z",
+            "updatedAt": "2023-09-15T13:19:01.780Z",
+            "tags": [],
+            "classTitle": "double door",
+            "points": {
+                "exterior": [
+                    [
+                        167,
+                        213
+                    ],
+                    [
+                        213,
+                        214
+                    ],
+                    [
+                        215,
+                        56
+                    ],
+                    [
+                        120,
+                        57
+                    ],
+                    [
+                        122,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368675,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.780Z",
+            "updatedAt": "2023-09-15T13:19:01.780Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        70
+                    ],
+                    [
+                        252,
+                        50
+                    ],
+                    [
+                        227,
+                        50
+                    ],
+                    [
+                        228,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368674,
+            "classId": 79193,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.780Z",
+            "updatedAt": "2023-09-15T13:19:01.780Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        277,
+                        71
+                    ],
+                    [
+                        276,
+                        65
+                    ],
+                    [
+                        257,
+                        66
+                    ],
+                    [
+                        256,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368673,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.779Z",
+            "updatedAt": "2023-09-15T13:19:01.779Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        125
+                    ],
+                    [
+                        255,
+                        106
+                    ],
+                    [
+                        228,
+                        106
+                    ],
+                    [
+                        228,
+                        125
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368672,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.779Z",
+            "updatedAt": "2023-09-15T13:19:01.779Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        146
+                    ],
+                    [
+                        242,
+                        139
+                    ],
+                    [
+                        229,
+                        140
+                    ],
+                    [
+                        229,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368671,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.778Z",
+            "updatedAt": "2023-09-15T13:19:01.778Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        147
+                    ],
+                    [
+                        243,
+                        146
+                    ],
+                    [
+                        243,
+                        130
+                    ],
+                    [
+                        254,
+                        130
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368670,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.778Z",
+            "updatedAt": "2023-09-15T13:19:01.778Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        277,
+                        146
+                    ],
+                    [
+                        275,
+                        139
+                    ],
+                    [
+                        276,
+                        139
+                    ],
+                    [
+                        275,
+                        136
+                    ],
+                    [
+                        272,
+                        135
+                    ],
+                    [
+                        257,
+                        135
+                    ],
+                    [
+                        254,
+                        144
+                    ],
+                    [
+                        258,
+                        144
+                    ],
+                    [
+                        259,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368669,
+            "classId": 79193,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.778Z",
+            "updatedAt": "2023-09-15T13:19:01.778Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        146
+                    ],
+                    [
+                        277,
+                        130
+                    ],
+                    [
+                        273,
+                        132
+                    ],
+                    [
+                        278,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368668,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.778Z",
+            "updatedAt": "2023-09-15T13:19:01.778Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        145
+                    ],
+                    [
+                        284,
+                        146
+                    ],
+                    [
+                        282,
+                        139
+                    ],
+                    [
+                        286,
+                        128
+                    ],
+                    [
+                        294,
+                        130
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368667,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.778Z",
+            "updatedAt": "2023-09-15T13:19:01.778Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        124
+                    ],
+                    [
+                        292,
+                        126
+                    ],
+                    [
+                        293,
+                        104
+                    ],
+                    [
+                        283,
+                        106
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368666,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.777Z",
+            "updatedAt": "2023-09-15T13:19:01.777Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        163
+                    ],
+                    [
+                        283,
+                        167
+                    ],
+                    [
+                        290,
+                        167
+                    ],
+                    [
+                        293,
+                        151
+                    ],
+                    [
+                        283,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368665,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.777Z",
+            "updatedAt": "2023-09-15T13:19:01.777Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        187
+                    ],
+                    [
+                        239,
+                        181
+                    ],
+                    [
+                        237,
+                        172
+                    ],
+                    [
+                        228,
+                        171
+                    ],
+                    [
+                        229,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368664,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.777Z",
+            "updatedAt": "2023-09-15T13:19:01.777Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        187
+                    ],
+                    [
+                        258,
+                        180
+                    ],
+                    [
+                        239,
+                        180
+                    ],
+                    [
+                        238,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368663,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.777Z",
+            "updatedAt": "2023-09-15T13:19:01.777Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        187
+                    ],
+                    [
+                        292,
+                        187
+                    ],
+                    [
+                        293,
+                        171
+                    ],
+                    [
+                        283,
+                        170
+                    ],
+                    [
+                        280,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368662,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.777Z",
+            "updatedAt": "2023-09-15T13:19:01.777Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        70,
+                        71
+                    ],
+                    [
+                        72,
+                        50
+                    ],
+                    [
+                        107,
+                        50
+                    ],
+                    [
+                        107,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368661,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.777Z",
+            "updatedAt": "2023-09-15T13:19:01.777Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        125
+                    ],
+                    [
+                        15,
+                        126
+                    ],
+                    [
+                        16,
+                        104
+                    ],
+                    [
+                        42,
+                        104
+                    ],
+                    [
+                        42,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368660,
+            "classId": 79193,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.777Z",
+            "updatedAt": "2023-09-15T13:19:01.777Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        56,
+                        126
+                    ],
+                    [
+                        39,
+                        126
+                    ],
+                    [
+                        42,
+                        122
+                    ],
+                    [
+                        58,
+                        122
+                    ],
+                    [
+                        59,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368659,
+            "classId": 79193,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.776Z",
+            "updatedAt": "2023-09-15T13:19:01.776Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        126
+                    ],
+                    [
+                        98,
+                        125
+                    ],
+                    [
+                        96,
+                        123
+                    ],
+                    [
+                        102,
+                        107
+                    ],
+                    [
+                        108,
+                        107
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368658,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.776Z",
+            "updatedAt": "2023-09-15T13:19:01.776Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        146
+                    ],
+                    [
+                        15,
+                        146
+                    ],
+                    [
+                        16,
+                        129
+                    ],
+                    [
+                        35,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368657,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.776Z",
+            "updatedAt": "2023-09-15T13:19:01.776Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        16,
+                        172
+                    ],
+                    [
+                        71,
+                        172
+                    ],
+                    [
+                        73,
+                        169
+                    ],
+                    [
+                        66,
+                        155
+                    ],
+                    [
+                        52,
+                        154
+                    ],
+                    [
+                        52,
+                        151
+                    ],
+                    [
+                        17,
+                        152
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368656,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.776Z",
+            "updatedAt": "2023-09-15T13:19:01.776Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        89,
+                        171
+                    ],
+                    [
+                        91,
+                        153
+                    ],
+                    [
+                        107,
+                        154
+                    ],
+                    [
+                        107,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368655,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.775Z",
+            "updatedAt": "2023-09-15T13:19:01.775Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        172
+                    ],
+                    [
+                        72,
+                        163
+                    ],
+                    [
+                        71,
+                        161
+                    ],
+                    [
+                        71,
+                        157
+                    ],
+                    [
+                        73,
+                        157
+                    ],
+                    [
+                        74,
+                        155
+                    ],
+                    [
+                        84,
+                        154
+                    ],
+                    [
+                        92,
+                        158
+                    ],
+                    [
+                        90,
+                        162
+                    ],
+                    [
+                        89,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368654,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.775Z",
+            "updatedAt": "2023-09-15T13:19:01.775Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        67,
+                        204
+                    ],
+                    [
+                        67,
+                        200
+                    ],
+                    [
+                        63,
+                        198
+                    ],
+                    [
+                        67,
+                        190
+                    ],
+                    [
+                        96,
+                        192
+                    ],
+                    [
+                        96,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368653,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.775Z",
+            "updatedAt": "2023-09-15T13:19:01.775Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        178
+                    ],
+                    [
+                        107,
+                        178
+                    ],
+                    [
+                        108,
+                        204
+                    ],
+                    [
+                        96,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368652,
+            "classId": 155908,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.775Z",
+            "updatedAt": "2023-09-15T13:19:01.775Z",
+            "tags": [],
+            "classTitle": "books",
+            "points": {
+                "exterior": [
+                    [
+                        25,
+                        183
+                    ],
+                    [
+                        19,
+                        183
+                    ],
+                    [
+                        16,
+                        186
+                    ],
+                    [
+                        17,
+                        204
+                    ],
+                    [
+                        23,
+                        202
+                    ],
+                    [
+                        25,
+                        200
+                    ],
+                    [
+                        25,
+                        202
+                    ],
+                    [
+                        27,
+                        203
+                    ],
+                    [
+                        30,
+                        200
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368651,
+            "classId": 82849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.774Z",
+            "updatedAt": "2023-09-15T13:19:01.774Z",
+            "tags": [],
+            "classTitle": "table lamp",
+            "points": {
+                "exterior": [
+                    [
+                        89,
+                        97
+                    ],
+                    [
+                        91,
+                        95
+                    ],
+                    [
+                        87,
+                        90
+                    ],
+                    [
+                        89,
+                        89
+                    ],
+                    [
+                        91,
+                        87
+                    ],
+                    [
+                        87,
+                        85
+                    ],
+                    [
+                        90,
+                        74
+                    ],
+                    [
+                        96,
+                        74
+                    ],
+                    [
+                        100,
+                        85
+                    ],
+                    [
+                        94,
+                        85
+                    ],
+                    [
+                        95,
+                        88
+                    ],
+                    [
+                        96,
+                        89
+                    ],
+                    [
+                        96,
+                        91
+                    ],
+                    [
+                        93,
+                        92
+                    ],
+                    [
+                        96,
+                        97
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368650,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.774Z",
+            "updatedAt": "2023-09-15T13:19:01.774Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        235
+                    ],
+                    [
+                        11,
+                        224
+                    ],
+                    [
+                        112,
+                        223
+                    ],
+                    [
+                        115,
+                        217
+                    ],
+                    [
+                        119,
+                        216
+                    ],
+                    [
+                        122,
+                        213
+                    ],
+                    [
+                        213,
+                        213
+                    ],
+                    [
+                        215,
+                        217
+                    ],
+                    [
+                        220,
+                        217
+                    ],
+                    [
+                        223,
+                        223
+                    ],
+                    [
+                        299,
+                        223
+                    ],
+                    [
+                        301,
+                        226
+                    ],
+                    [
+                        300,
+                        233
+                    ],
+                    [
+                        316,
+                        249
+                    ],
+                    [
+                        0,
+                        249
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368649,
+            "classId": 55379,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.774Z",
+            "updatedAt": "2023-09-15T13:19:01.774Z",
+            "tags": [],
+            "classTitle": "cabinet",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        232
+                    ],
+                    [
+                        302,
+                        226
+                    ],
+                    [
+                        298,
+                        224
+                    ],
+                    [
+                        300,
+                        98
+                    ],
+                    [
+                        323,
+                        98
+                    ],
+                    [
+                        349,
+                        99
+                    ],
+                    [
+                        349,
+                        249
+                    ],
+                    [
+                        316,
+                        249
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368648,
+            "classId": 55114,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.774Z",
+            "updatedAt": "2023-09-15T13:19:01.774Z",
+            "tags": [],
+            "classTitle": "ceiling recessed light",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        14
+                    ],
+                    [
+                        225,
+                        14
+                    ],
+                    [
+                        223,
+                        17
+                    ],
+                    [
+                        224,
+                        19
+                    ],
+                    [
+                        230,
+                        20
+                    ],
+                    [
+                        236,
+                        20
+                    ],
+                    [
+                        239,
+                        20
+                    ],
+                    [
+                        239,
+                        17
+                    ],
+                    [
+                        237,
+                        15
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368647,
+            "classId": 55114,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.774Z",
+            "updatedAt": "2023-09-15T13:19:01.774Z",
+            "tags": [],
+            "classTitle": "ceiling recessed light",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        15
+                    ],
+                    [
+                        100,
+                        15
+                    ],
+                    [
+                        97,
+                        17
+                    ],
+                    [
+                        98,
+                        19
+                    ],
+                    [
+                        105,
+                        20
+                    ],
+                    [
+                        109,
+                        20
+                    ],
+                    [
+                        112,
+                        19
+                    ],
+                    [
+                        112,
+                        17
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368646,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.773Z",
+            "updatedAt": "2023-09-15T13:19:01.773Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        167,
+                        57
+                    ],
+                    [
+                        215,
+                        55
+                    ],
+                    [
+                        213,
+                        213
+                    ],
+                    [
+                        167,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368645,
+            "classId": 110161,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.773Z",
+            "updatedAt": "2023-09-15T13:19:01.773Z",
+            "tags": [],
+            "classTitle": "knob",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        140
+                    ],
+                    [
+                        169,
+                        141
+                    ],
+                    [
+                        169,
+                        144
+                    ],
+                    [
+                        169,
+                        145
+                    ],
+                    [
+                        171,
+                        146
+                    ],
+                    [
+                        174,
+                        146
+                    ],
+                    [
+                        175,
+                        144
+                    ],
+                    [
+                        175,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368644,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.773Z",
+            "updatedAt": "2023-09-15T13:19:01.773Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        167,
+                        213
+                    ],
+                    [
+                        121,
+                        213
+                    ],
+                    [
+                        120,
+                        57
+                    ],
+                    [
+                        167,
+                        57
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368643,
+            "classId": 110161,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.772Z",
+            "updatedAt": "2023-09-15T13:19:01.772Z",
+            "tags": [],
+            "classTitle": "knob",
+            "points": {
+                "exterior": [
+                    [
+                        162,
+                        140
+                    ],
+                    [
+                        160,
+                        141
+                    ],
+                    [
+                        160,
+                        143
+                    ],
+                    [
+                        160,
+                        145
+                    ],
+                    [
+                        161,
+                        146
+                    ],
+                    [
+                        164,
+                        146
+                    ],
+                    [
+                        165,
+                        145
+                    ],
+                    [
+                        165,
+                        141
+                    ],
+                    [
+                        164,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368642,
+            "classId": 116308,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.772Z",
+            "updatedAt": "2023-09-15T13:19:01.772Z",
+            "tags": [],
+            "classTitle": "shelf",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        75
+                    ],
+                    [
+                        228,
+                        72
+                    ],
+                    [
+                        293,
+                        71
+                    ],
+                    [
+                        296,
+                        75
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368641,
+            "classId": 116308,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.772Z",
+            "updatedAt": "2023-09-15T13:19:01.772Z",
+            "tags": [],
+            "classTitle": "shelf",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        126
+                    ],
+                    [
+                        228,
+                        129
+                    ],
+                    [
+                        293,
+                        129
+                    ],
+                    [
+                        292,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368640,
+            "classId": 116308,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.771Z",
+            "updatedAt": "2023-09-15T13:19:01.771Z",
+            "tags": [],
+            "classTitle": "shelf",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        150
+                    ],
+                    [
+                        228,
+                        147
+                    ],
+                    [
+                        293,
+                        146
+                    ],
+                    [
+                        293,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368639,
+            "classId": 116308,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.771Z",
+            "updatedAt": "2023-09-15T13:19:01.771Z",
+            "tags": [],
+            "classTitle": "shelf",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        167
+                    ],
+                    [
+                        228,
+                        171
+                    ],
+                    [
+                        293,
+                        171
+                    ],
+                    [
+                        293,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368638,
+            "classId": 116308,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.771Z",
+            "updatedAt": "2023-09-15T13:19:01.771Z",
+            "tags": [],
+            "classTitle": "shelf",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        192
+                    ],
+                    [
+                        229,
+                        188
+                    ],
+                    [
+                        293,
+                        188
+                    ],
+                    [
+                        293,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368637,
+            "classId": 116308,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.771Z",
+            "updatedAt": "2023-09-15T13:19:01.771Z",
+            "tags": [],
+            "classTitle": "shelf",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        176
+                    ],
+                    [
+                        16,
+                        173
+                    ],
+                    [
+                        108,
+                        173
+                    ],
+                    [
+                        107,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368636,
+            "classId": 116308,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.770Z",
+            "updatedAt": "2023-09-15T13:19:01.770Z",
+            "tags": [],
+            "classTitle": "shelf",
+            "points": {
+                "exterior": [
+                    [
+                        16,
+                        147
+                    ],
+                    [
+                        16,
+                        150
+                    ],
+                    [
+                        107,
+                        151
+                    ],
+                    [
+                        107,
+                        148
+                    ],
+                    [
+                        107,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368635,
+            "classId": 116308,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.770Z",
+            "updatedAt": "2023-09-15T13:19:01.770Z",
+            "tags": [],
+            "classTitle": "shelf",
+            "points": {
+                "exterior": [
+                    [
+                        15,
+                        129
+                    ],
+                    [
+                        15,
+                        126
+                    ],
+                    [
+                        107,
+                        126
+                    ],
+                    [
+                        107,
+                        130
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368634,
+            "classId": 116308,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.769Z",
+            "updatedAt": "2023-09-15T13:19:01.769Z",
+            "tags": [],
+            "classTitle": "shelf",
+            "points": {
+                "exterior": [
+                    [
+                        15,
+                        104
+                    ],
+                    [
+                        17,
+                        98
+                    ],
+                    [
+                        107,
+                        98
+                    ],
+                    [
+                        108,
+                        105
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368633,
+            "classId": 116308,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.769Z",
+            "updatedAt": "2023-09-15T13:19:01.769Z",
+            "tags": [],
+            "classTitle": "shelf",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        75
+                    ],
+                    [
+                        107,
+                        74
+                    ],
+                    [
+                        106,
+                        70
+                    ],
+                    [
+                        43,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368632,
+            "classId": 116308,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.769Z",
+            "updatedAt": "2023-09-15T13:19:01.769Z",
+            "tags": [],
+            "classTitle": "shelf",
+            "points": {
+                "exterior": [
+                    [
+                        65,
+                        47
+                    ],
+                    [
+                        106,
+                        48
+                    ],
+                    [
+                        107,
+                        43
+                    ],
+                    [
+                        69,
+                        43
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368631,
+            "classId": 116308,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.769Z",
+            "updatedAt": "2023-09-15T13:19:01.769Z",
+            "tags": [],
+            "classTitle": "shelf",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        48
+                    ],
+                    [
+                        266,
+                        44
+                    ],
+                    [
+                        228,
+                        44
+                    ],
+                    [
+                        228,
+                        48
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

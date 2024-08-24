@@ -1,0 +1,272 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4061837,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, crawl_space",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.623Z",
+            "updatedAt": "2023-09-15T13:28:32.623Z"
+        }
+    ],
+    "size": {
+        "height": 1536,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 44437348,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.624Z",
+            "updatedAt": "2023-09-15T13:28:32.624Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        850
+                    ],
+                    [
+                        0,
+                        3
+                    ],
+                    [
+                        2043,
+                        0
+                    ],
+                    [
+                        2046,
+                        677
+                    ],
+                    [
+                        1235,
+                        149
+                    ],
+                    [
+                        313,
+                        775
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437347,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.624Z",
+            "updatedAt": "2023-09-15T13:28:32.624Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        453,
+                        764
+                    ],
+                    [
+                        310,
+                        769
+                    ],
+                    [
+                        1235,
+                        149
+                    ],
+                    [
+                        2046,
+                        686
+                    ],
+                    [
+                        2043,
+                        808
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437346,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.624Z",
+            "updatedAt": "2023-09-15T13:28:32.624Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1533
+                    ],
+                    [
+                        0,
+                        847
+                    ],
+                    [
+                        310,
+                        772
+                    ],
+                    [
+                        2046,
+                        808
+                    ],
+                    [
+                        2043,
+                        1533
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437345,
+            "classId": 80761,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.624Z",
+            "updatedAt": "2023-09-15T13:28:32.624Z",
+            "tags": [],
+            "classTitle": "board",
+            "points": {
+                "exterior": [
+                    [
+                        826,
+                        1017
+                    ],
+                    [
+                        1163,
+                        1041
+                    ],
+                    [
+                        1163,
+                        1059
+                    ],
+                    [
+                        907,
+                        1527
+                    ],
+                    [
+                        259,
+                        1521
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437344,
+            "classId": 80761,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.623Z",
+            "updatedAt": "2023-09-15T13:28:32.623Z",
+            "tags": [],
+            "classTitle": "board",
+            "points": {
+                "exterior": [
+                    [
+                        1220,
+                        1038
+                    ],
+                    [
+                        1461,
+                        1041
+                    ],
+                    [
+                        1539,
+                        1032
+                    ],
+                    [
+                        1545,
+                        1050
+                    ],
+                    [
+                        1557,
+                        1527
+                    ],
+                    [
+                        984,
+                        1527
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437343,
+            "classId": 64613,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.623Z",
+            "updatedAt": "2023-09-15T13:28:32.623Z",
+            "tags": [],
+            "classTitle": "bulb",
+            "points": {
+                "exterior": [
+                    [
+                        1003,
+                        7
+                    ],
+                    [
+                        1019,
+                        24
+                    ],
+                    [
+                        1008,
+                        60
+                    ],
+                    [
+                        1014,
+                        83
+                    ],
+                    [
+                        1019,
+                        100
+                    ],
+                    [
+                        1050,
+                        111
+                    ],
+                    [
+                        1083,
+                        109
+                    ],
+                    [
+                        1095,
+                        89
+                    ],
+                    [
+                        1099,
+                        56
+                    ],
+                    [
+                        1086,
+                        33
+                    ],
+                    [
+                        1070,
+                        15
+                    ],
+                    [
+                        1070,
+                        5
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4055172,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, nature landscape, ocean",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:33.692Z",
+            "updatedAt": "2023-09-15T12:46:33.692Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44227961,
+            "classId": 63661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:33.697Z",
+            "updatedAt": "2023-09-15T12:46:33.697Z",
+            "tags": [],
+            "classTitle": "sea water",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        128
+                    ],
+                    [
+                        255,
+                        124
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        0,
+                        255
+                    ],
+                    [
+                        1,
+                        131
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44227960,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:33.696Z",
+            "updatedAt": "2023-09-15T12:46:33.696Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        0
+                    ],
+                    [
+                        255,
+                        121
+                    ],
+                    [
+                        253,
+                        124
+                    ],
+                    [
+                        64,
+                        130
+                    ],
+                    [
+                        3,
+                        131
+                    ],
+                    [
+                        0,
+                        129
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,972 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4068819,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, street",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.231Z",
+            "updatedAt": "2023-09-15T14:08:56.231Z"
+        }
+    ],
+    "size": {
+        "height": 1200,
+        "width": 1600
+    },
+    "objects": [
+        {
+            "id": 44626304,
+            "classId": 61099,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.237Z",
+            "updatedAt": "2023-09-15T14:08:56.237Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        930,
+                        861
+                    ],
+                    [
+                        973,
+                        775
+                    ],
+                    [
+                        1119,
+                        772
+                    ],
+                    [
+                        1197,
+                        789
+                    ],
+                    [
+                        1253,
+                        858
+                    ],
+                    [
+                        1381,
+                        782
+                    ],
+                    [
+                        1399,
+                        863
+                    ],
+                    [
+                        1398,
+                        958
+                    ],
+                    [
+                        1334,
+                        971
+                    ],
+                    [
+                        1315,
+                        1038
+                    ],
+                    [
+                        1245,
+                        1045
+                    ],
+                    [
+                        1064,
+                        1047
+                    ],
+                    [
+                        1002,
+                        1056
+                    ],
+                    [
+                        980,
+                        1023
+                    ],
+                    [
+                        977,
+                        987
+                    ],
+                    [
+                        944,
+                        940
+                    ],
+                    [
+                        940,
+                        956
+                    ],
+                    [
+                        925,
+                        946
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626303,
+            "classId": 570503,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.237Z",
+            "updatedAt": "2023-09-15T14:08:56.237Z",
+            "tags": [],
+            "classTitle": "garage door",
+            "points": {
+                "exterior": [
+                    [
+                        659,
+                        786
+                    ],
+                    [
+                        662,
+                        947
+                    ],
+                    [
+                        923,
+                        949
+                    ],
+                    [
+                        926,
+                        860
+                    ],
+                    [
+                        973,
+                        783
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626302,
+            "classId": 56261,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.235Z",
+            "updatedAt": "2023-09-15T14:08:56.235Z",
+            "tags": [],
+            "classTitle": "road",
+            "points": {
+                "exterior": [
+                    [
+                        333,
+                        1043
+                    ],
+                    [
+                        440,
+                        1049
+                    ],
+                    [
+                        494,
+                        1043
+                    ],
+                    [
+                        719,
+                        1053
+                    ],
+                    [
+                        969,
+                        1052
+                    ],
+                    [
+                        1345,
+                        1042
+                    ],
+                    [
+                        1378,
+                        1049
+                    ],
+                    [
+                        1599,
+                        1043
+                    ],
+                    [
+                        1599,
+                        1199
+                    ],
+                    [
+                        2,
+                        1199
+                    ],
+                    [
+                        2,
+                        1025
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626301,
+            "classId": 56158,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.235Z",
+            "updatedAt": "2023-09-15T14:08:56.235Z",
+            "tags": [],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        1
+                    ],
+                    [
+                        666,
+                        1
+                    ],
+                    [
+                        682,
+                        13
+                    ],
+                    [
+                        1063,
+                        11
+                    ],
+                    [
+                        1094,
+                        1
+                    ],
+                    [
+                        1599,
+                        1
+                    ],
+                    [
+                        1599,
+                        949
+                    ],
+                    [
+                        1279,
+                        956
+                    ],
+                    [
+                        1103,
+                        950
+                    ],
+                    [
+                        653,
+                        946
+                    ],
+                    [
+                        582,
+                        946
+                    ],
+                    [
+                        546,
+                        962
+                    ],
+                    [
+                        251,
+                        950
+                    ],
+                    [
+                        2,
+                        941
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626300,
+            "classId": 64199,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.235Z",
+            "updatedAt": "2023-09-15T14:08:56.235Z",
+            "tags": [],
+            "classTitle": "sidewalk",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        939
+                    ],
+                    [
+                        550,
+                        962
+                    ],
+                    [
+                        577,
+                        945
+                    ],
+                    [
+                        902,
+                        950
+                    ],
+                    [
+                        1125,
+                        953
+                    ],
+                    [
+                        1290,
+                        956
+                    ],
+                    [
+                        1599,
+                        948
+                    ],
+                    [
+                        1599,
+                        1045
+                    ],
+                    [
+                        1376,
+                        1048
+                    ],
+                    [
+                        1344,
+                        1041
+                    ],
+                    [
+                        922,
+                        1053
+                    ],
+                    [
+                        705,
+                        1056
+                    ],
+                    [
+                        481,
+                        1045
+                    ],
+                    [
+                        437,
+                        1051
+                    ],
+                    [
+                        2,
+                        1025
+                    ],
+                    [
+                        2,
+                        979
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626299,
+            "classId": 91198,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.235Z",
+            "updatedAt": "2023-09-15T14:08:56.235Z",
+            "tags": [],
+            "classTitle": "license plate",
+            "points": {
+                "exterior": [
+                    [
+                        1145,
+                        990
+                    ],
+                    [
+                        1146,
+                        1024
+                    ],
+                    [
+                        1257,
+                        1018
+                    ],
+                    [
+                        1254,
+                        992
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626298,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.235Z",
+            "updatedAt": "2023-09-15T14:08:56.235Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        1255,
+                        845
+                    ],
+                    [
+                        1313,
+                        801
+                    ],
+                    [
+                        1375,
+                        776
+                    ],
+                    [
+                        1393,
+                        838
+                    ],
+                    [
+                        1400,
+                        954
+                    ],
+                    [
+                        1338,
+                        974
+                    ],
+                    [
+                        1313,
+                        921
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626297,
+            "classId": 122044,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.234Z",
+            "updatedAt": "2023-09-15T14:08:56.234Z",
+            "tags": [],
+            "classTitle": "balcony",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        282
+                    ],
+                    [
+                        401,
+                        404
+                    ],
+                    [
+                        7,
+                        395
+                    ],
+                    [
+                        4,
+                        268
+                    ],
+                    [
+                        175,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626296,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.234Z",
+            "updatedAt": "2023-09-15T14:08:56.234Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        470
+                    ],
+                    [
+                        209,
+                        617
+                    ],
+                    [
+                        375,
+                        626
+                    ],
+                    [
+                        384,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626295,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.234Z",
+            "updatedAt": "2023-09-15T14:08:56.234Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        1435,
+                        484
+                    ],
+                    [
+                        1437,
+                        637
+                    ],
+                    [
+                        1595,
+                        639
+                    ],
+                    [
+                        1595,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626294,
+            "classId": 122044,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.234Z",
+            "updatedAt": "2023-09-15T14:08:56.234Z",
+            "tags": [],
+            "classTitle": "balcony",
+            "points": {
+                "exterior": [
+                    [
+                        1593,
+                        286
+                    ],
+                    [
+                        1414,
+                        292
+                    ],
+                    [
+                        1417,
+                        415
+                    ],
+                    [
+                        1590,
+                        418
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626293,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.233Z",
+            "updatedAt": "2023-09-15T14:08:56.233Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        776,
+                        641
+                    ],
+                    [
+                        719,
+                        635
+                    ],
+                    [
+                        710,
+                        591
+                    ],
+                    [
+                        738,
+                        556
+                    ],
+                    [
+                        779,
+                        565
+                    ],
+                    [
+                        792,
+                        591
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626292,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.233Z",
+            "updatedAt": "2023-09-15T14:08:56.233Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        954,
+                        579
+                    ],
+                    [
+                        984,
+                        553
+                    ],
+                    [
+                        1017,
+                        566
+                    ],
+                    [
+                        1026,
+                        606
+                    ],
+                    [
+                        1000,
+                        634
+                    ],
+                    [
+                        958,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626291,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.233Z",
+            "updatedAt": "2023-09-15T14:08:56.233Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        956,
+                        362
+                    ],
+                    [
+                        962,
+                        309
+                    ],
+                    [
+                        1010,
+                        309
+                    ],
+                    [
+                        1027,
+                        352
+                    ],
+                    [
+                        998,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626290,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.233Z",
+            "updatedAt": "2023-09-15T14:08:56.233Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        732,
+                        372
+                    ],
+                    [
+                        716,
+                        340
+                    ],
+                    [
+                        737,
+                        306
+                    ],
+                    [
+                        774,
+                        307
+                    ],
+                    [
+                        795,
+                        333
+                    ],
+                    [
+                        781,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626289,
+            "classId": 59069,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.233Z",
+            "updatedAt": "2023-09-15T14:08:56.233Z",
+            "tags": [],
+            "classTitle": "column",
+            "points": {
+                "exterior": [
+                    [
+                        1266,
+                        210
+                    ],
+                    [
+                        1257,
+                        38
+                    ],
+                    [
+                        1228,
+                        44
+                    ],
+                    [
+                        1260,
+                        842
+                    ],
+                    [
+                        1297,
+                        864
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626288,
+            "classId": 59069,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.233Z",
+            "updatedAt": "2023-09-15T14:08:56.233Z",
+            "tags": [],
+            "classTitle": "column",
+            "points": {
+                "exterior": [
+                    [
+                        550,
+                        154
+                    ],
+                    [
+                        553,
+                        35
+                    ],
+                    [
+                        578,
+                        35
+                    ],
+                    [
+                        534,
+                        933
+                    ],
+                    [
+                        506,
+                        933
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626287,
+            "classId": 58286,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.232Z",
+            "updatedAt": "2023-09-15T14:08:56.232Z",
+            "tags": [],
+            "classTitle": "sign",
+            "points": {
+                "exterior": [
+                    [
+                        742,
+                        803
+                    ],
+                    [
+                        739,
+                        835
+                    ],
+                    [
+                        763,
+                        834
+                    ],
+                    [
+                        763,
+                        803
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626286,
+            "classId": 4665054,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.232Z",
+            "updatedAt": "2023-09-15T14:08:56.232Z",
+            "tags": [],
+            "classTitle": "curb cut",
+            "points": {
+                "exterior": [
+                    [
+                        408,
+                        1019
+                    ],
+                    [
+                        431,
+                        1002
+                    ],
+                    [
+                        1353,
+                        981
+                    ],
+                    [
+                        1404,
+                        1032
+                    ],
+                    [
+                        1351,
+                        1057
+                    ],
+                    [
+                        439,
+                        1047
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626285,
+            "classId": 3682354,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.232Z",
+            "updatedAt": "2023-09-15T14:08:56.232Z",
+            "tags": [],
+            "classTitle": "driveway",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        1032
+                    ],
+                    [
+                        475,
+                        996
+                    ],
+                    [
+                        519,
+                        969
+                    ],
+                    [
+                        586,
+                        946
+                    ],
+                    [
+                        1335,
+                        958
+                    ],
+                    [
+                        1408,
+                        1032
+                    ],
+                    [
+                        1374,
+                        1042
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626284,
+            "classId": 140788,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.232Z",
+            "updatedAt": "2023-09-15T14:08:56.232Z",
+            "tags": [],
+            "classTitle": "curb",
+            "points": {
+                "exterior": [
+                    [
+                        15,
+                        996
+                    ],
+                    [
+                        15,
+                        1023
+                    ],
+                    [
+                        437,
+                        1055
+                    ],
+                    [
+                        429,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44626283,
+            "classId": 140788,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:08:56.232Z",
+            "updatedAt": "2023-09-15T14:08:56.232Z",
+            "tags": [],
+            "classTitle": "curb",
+            "points": {
+                "exterior": [
+                    [
+                        1589,
+                        1009
+                    ],
+                    [
+                        1587,
+                        1047
+                    ],
+                    [
+                        1387,
+                        1049
+                    ],
+                    [
+                        1391,
+                        1011
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

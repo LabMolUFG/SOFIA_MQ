@@ -1,0 +1,228 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4052599,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, transportation, doorway indoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:02.728Z",
+            "updatedAt": "2023-09-15T12:34:02.728Z"
+        }
+    ],
+    "size": {
+        "height": 350,
+        "width": 263
+    },
+    "objects": [
+        {
+            "id": 44198684,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:02.730Z",
+            "updatedAt": "2023-09-15T12:34:02.730Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        262,
+                        0
+                    ],
+                    [
+                        262,
+                        289
+                    ],
+                    [
+                        206,
+                        294
+                    ],
+                    [
+                        202,
+                        290
+                    ],
+                    [
+                        207,
+                        13
+                    ],
+                    [
+                        29,
+                        3
+                    ],
+                    [
+                        43,
+                        303
+                    ],
+                    [
+                        44,
+                        309
+                    ],
+                    [
+                        2,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44198683,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:02.730Z",
+            "updatedAt": "2023-09-15T12:34:02.730Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        295
+                    ],
+                    [
+                        138,
+                        65
+                    ],
+                    [
+                        137,
+                        58
+                    ],
+                    [
+                        204,
+                        60
+                    ],
+                    [
+                        201,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44198682,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:02.729Z",
+            "updatedAt": "2023-09-15T12:34:02.729Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        45,
+                        301
+                    ],
+                    [
+                        142,
+                        294
+                    ],
+                    [
+                        135,
+                        64
+                    ],
+                    [
+                        135,
+                        57
+                    ],
+                    [
+                        34,
+                        56
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44198681,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:02.729Z",
+            "updatedAt": "2023-09-15T12:34:02.729Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        33,
+                        54
+                    ],
+                    [
+                        29,
+                        3
+                    ],
+                    [
+                        208,
+                        13
+                    ],
+                    [
+                        205,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44198680,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:02.728Z",
+            "updatedAt": "2023-09-15T12:34:02.728Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        349
+                    ],
+                    [
+                        2,
+                        311
+                    ],
+                    [
+                        43,
+                        310
+                    ],
+                    [
+                        44,
+                        301
+                    ],
+                    [
+                        201,
+                        290
+                    ],
+                    [
+                        204,
+                        294
+                    ],
+                    [
+                        262,
+                        289
+                    ],
+                    [
+                        261,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

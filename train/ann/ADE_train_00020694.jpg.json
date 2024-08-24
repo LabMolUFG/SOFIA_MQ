@@ -1,0 +1,188 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4068208,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, urban, doorway outdoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:54.951Z",
+            "updatedAt": "2023-09-15T14:04:54.951Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44602518,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:54.951Z",
+            "updatedAt": "2023-09-15T14:04:54.951Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        43,
+                        229
+                    ],
+                    [
+                        43,
+                        89
+                    ],
+                    [
+                        45,
+                        75
+                    ],
+                    [
+                        56,
+                        54
+                    ],
+                    [
+                        67,
+                        45
+                    ],
+                    [
+                        80,
+                        39
+                    ],
+                    [
+                        92,
+                        37
+                    ],
+                    [
+                        108,
+                        38
+                    ],
+                    [
+                        118,
+                        45
+                    ],
+                    [
+                        127,
+                        54
+                    ],
+                    [
+                        137,
+                        80
+                    ],
+                    [
+                        137,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44602517,
+            "classId": 56158,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:54.951Z",
+            "updatedAt": "2023-09-15T14:04:54.951Z",
+            "tags": [],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        255,
+                        0
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        176,
+                        255
+                    ],
+                    [
+                        140,
+                        252
+                    ],
+                    [
+                        0,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44602516,
+            "classId": 64199,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:54.951Z",
+            "updatedAt": "2023-09-15T14:04:54.951Z",
+            "tags": [],
+            "classTitle": "sidewalk",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        234
+                    ],
+                    [
+                        149,
+                        252
+                    ],
+                    [
+                        185,
+                        255
+                    ],
+                    [
+                        0,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44602515,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:54.951Z",
+            "updatedAt": "2023-09-15T14:04:54.951Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        17
+                    ],
+                    [
+                        255,
+                        178
+                    ],
+                    [
+                        198,
+                        176
+                    ],
+                    [
+                        197,
+                        25
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

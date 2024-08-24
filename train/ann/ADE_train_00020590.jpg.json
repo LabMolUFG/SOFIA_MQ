@@ -1,0 +1,180 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4061839,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, crawl_space",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.624Z",
+            "updatedAt": "2023-09-15T13:28:32.624Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1534
+    },
+    "objects": [
+        {
+            "id": 44437364,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.625Z",
+            "updatedAt": "2023-09-15T13:28:32.625Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        221
+                    ],
+                    [
+                        66,
+                        161
+                    ],
+                    [
+                        381,
+                        184
+                    ],
+                    [
+                        676,
+                        493
+                    ],
+                    [
+                        1530,
+                        788
+                    ],
+                    [
+                        1528,
+                        4
+                    ],
+                    [
+                        1530,
+                        0
+                    ],
+                    [
+                        2,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437363,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.625Z",
+            "updatedAt": "2023-09-15T13:28:32.625Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        540
+                    ],
+                    [
+                        680,
+                        495
+                    ],
+                    [
+                        384,
+                        179
+                    ],
+                    [
+                        62,
+                        159
+                    ],
+                    [
+                        0,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437362,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.624Z",
+            "updatedAt": "2023-09-15T13:28:32.624Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1021
+                    ],
+                    [
+                        2,
+                        536
+                    ],
+                    [
+                        685,
+                        497
+                    ],
+                    [
+                        1532,
+                        788
+                    ],
+                    [
+                        1532,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437361,
+            "classId": 224536,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.624Z",
+            "updatedAt": "2023-09-15T13:28:32.624Z",
+            "tags": [],
+            "classTitle": "tube",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        555
+                    ],
+                    [
+                        192,
+                        151
+                    ],
+                    [
+                        225,
+                        155
+                    ],
+                    [
+                        252,
+                        157
+                    ],
+                    [
+                        262,
+                        553
+                    ],
+                    [
+                        221,
+                        561
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

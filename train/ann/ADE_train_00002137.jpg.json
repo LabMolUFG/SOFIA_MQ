@@ -1,0 +1,1384 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4052559,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, transportation, baggage_claim",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.840Z",
+            "updatedAt": "2023-09-15T12:33:46.840Z"
+        }
+    ],
+    "size": {
+        "height": 292,
+        "width": 450
+    },
+    "objects": [
+        {
+            "id": 44197883,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.852Z",
+            "updatedAt": "2023-09-15T12:33:46.852Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        86
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        449,
+                        1
+                    ],
+                    [
+                        449,
+                        85
+                    ],
+                    [
+                        253,
+                        84
+                    ],
+                    [
+                        253,
+                        2
+                    ],
+                    [
+                        192,
+                        1
+                    ],
+                    [
+                        194,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197882,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.851Z",
+            "updatedAt": "2023-09-15T12:33:46.851Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        167
+                    ],
+                    [
+                        72,
+                        167
+                    ],
+                    [
+                        72,
+                        155
+                    ],
+                    [
+                        75,
+                        154
+                    ],
+                    [
+                        75,
+                        140
+                    ],
+                    [
+                        94,
+                        140
+                    ],
+                    [
+                        94,
+                        155
+                    ],
+                    [
+                        194,
+                        154
+                    ],
+                    [
+                        194,
+                        82
+                    ],
+                    [
+                        0,
+                        85
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197881,
+            "classId": 56899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.851Z",
+            "updatedAt": "2023-09-15T12:33:46.851Z",
+            "tags": [],
+            "classTitle": "gate",
+            "points": {
+                "exterior": [
+                    [
+                        80,
+                        154
+                    ],
+                    [
+                        74,
+                        154
+                    ],
+                    [
+                        75,
+                        140
+                    ],
+                    [
+                        93,
+                        140
+                    ],
+                    [
+                        94,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197880,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.851Z",
+            "updatedAt": "2023-09-15T12:33:46.851Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        449,
+                        156
+                    ],
+                    [
+                        448,
+                        85
+                    ],
+                    [
+                        253,
+                        84
+                    ],
+                    [
+                        253,
+                        155
+                    ],
+                    [
+                        299,
+                        155
+                    ],
+                    [
+                        305,
+                        155
+                    ],
+                    [
+                        305,
+                        150
+                    ],
+                    [
+                        385,
+                        150
+                    ],
+                    [
+                        386,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197879,
+            "classId": 108511,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.850Z",
+            "updatedAt": "2023-09-15T12:33:46.850Z",
+            "tags": [],
+            "classTitle": "conveyor belt",
+            "points": {
+                "exterior": [
+                    [
+                        83,
+                        168
+                    ],
+                    [
+                        149,
+                        167
+                    ],
+                    [
+                        147,
+                        172
+                    ],
+                    [
+                        147,
+                        176
+                    ],
+                    [
+                        120,
+                        178
+                    ],
+                    [
+                        114,
+                        186
+                    ],
+                    [
+                        115,
+                        192
+                    ],
+                    [
+                        108,
+                        195
+                    ],
+                    [
+                        94,
+                        198
+                    ],
+                    [
+                        88,
+                        206
+                    ],
+                    [
+                        77,
+                        210
+                    ],
+                    [
+                        71,
+                        219
+                    ],
+                    [
+                        71,
+                        245
+                    ],
+                    [
+                        82,
+                        251
+                    ],
+                    [
+                        82,
+                        256
+                    ],
+                    [
+                        116,
+                        270
+                    ],
+                    [
+                        139,
+                        274
+                    ],
+                    [
+                        197,
+                        275
+                    ],
+                    [
+                        275,
+                        275
+                    ],
+                    [
+                        324,
+                        270
+                    ],
+                    [
+                        351,
+                        263
+                    ],
+                    [
+                        363,
+                        258
+                    ],
+                    [
+                        365,
+                        250
+                    ],
+                    [
+                        376,
+                        241
+                    ],
+                    [
+                        374,
+                        216
+                    ],
+                    [
+                        354,
+                        203
+                    ],
+                    [
+                        279,
+                        169
+                    ],
+                    [
+                        324,
+                        169
+                    ],
+                    [
+                        406,
+                        168
+                    ],
+                    [
+                        444,
+                        168
+                    ],
+                    [
+                        449,
+                        170
+                    ],
+                    [
+                        449,
+                        155
+                    ],
+                    [
+                        386,
+                        155
+                    ],
+                    [
+                        383,
+                        151
+                    ],
+                    [
+                        305,
+                        149
+                    ],
+                    [
+                        305,
+                        154
+                    ],
+                    [
+                        253,
+                        155
+                    ],
+                    [
+                        253,
+                        192
+                    ],
+                    [
+                        232,
+                        194
+                    ],
+                    [
+                        192,
+                        194
+                    ],
+                    [
+                        193,
+                        166
+                    ],
+                    [
+                        195,
+                        153
+                    ],
+                    [
+                        73,
+                        155
+                    ],
+                    [
+                        73,
+                        163
+                    ],
+                    [
+                        73,
+                        166
+                    ],
+                    [
+                        75,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197878,
+            "classId": 59069,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.850Z",
+            "updatedAt": "2023-09-15T12:33:46.850Z",
+            "tags": [],
+            "classTitle": "column",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        191
+                    ],
+                    [
+                        192,
+                        2
+                    ],
+                    [
+                        253,
+                        0
+                    ],
+                    [
+                        252,
+                        192
+                    ],
+                    [
+                        245,
+                        193
+                    ],
+                    [
+                        217,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197877,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.850Z",
+            "updatedAt": "2023-09-15T12:33:46.850Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        157
+                    ],
+                    [
+                        228,
+                        158
+                    ],
+                    [
+                        229,
+                        192
+                    ],
+                    [
+                        207,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197876,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.849Z",
+            "updatedAt": "2023-09-15T12:33:46.849Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        167
+                    ],
+                    [
+                        72,
+                        167
+                    ],
+                    [
+                        77,
+                        168
+                    ],
+                    [
+                        149,
+                        167
+                    ],
+                    [
+                        147,
+                        175
+                    ],
+                    [
+                        122,
+                        176
+                    ],
+                    [
+                        115,
+                        180
+                    ],
+                    [
+                        114,
+                        189
+                    ],
+                    [
+                        114,
+                        192
+                    ],
+                    [
+                        96,
+                        196
+                    ],
+                    [
+                        91,
+                        201
+                    ],
+                    [
+                        89,
+                        206
+                    ],
+                    [
+                        78,
+                        209
+                    ],
+                    [
+                        71,
+                        218
+                    ],
+                    [
+                        70,
+                        239
+                    ],
+                    [
+                        71,
+                        246
+                    ],
+                    [
+                        81,
+                        249
+                    ],
+                    [
+                        82,
+                        257
+                    ],
+                    [
+                        103,
+                        267
+                    ],
+                    [
+                        126,
+                        275
+                    ],
+                    [
+                        127,
+                        275
+                    ],
+                    [
+                        148,
+                        275
+                    ],
+                    [
+                        223,
+                        276
+                    ],
+                    [
+                        302,
+                        275
+                    ],
+                    [
+                        342,
+                        267
+                    ],
+                    [
+                        362,
+                        260
+                    ],
+                    [
+                        367,
+                        249
+                    ],
+                    [
+                        377,
+                        241
+                    ],
+                    [
+                        374,
+                        215
+                    ],
+                    [
+                        353,
+                        201
+                    ],
+                    [
+                        356,
+                        194
+                    ],
+                    [
+                        348,
+                        185
+                    ],
+                    [
+                        328,
+                        183
+                    ],
+                    [
+                        313,
+                        183
+                    ],
+                    [
+                        313,
+                        173
+                    ],
+                    [
+                        305,
+                        170
+                    ],
+                    [
+                        445,
+                        168
+                    ],
+                    [
+                        449,
+                        170
+                    ],
+                    [
+                        449,
+                        291
+                    ],
+                    [
+                        0,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197875,
+            "classId": 108839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.848Z",
+            "updatedAt": "2023-09-15T12:33:46.848Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        177
+                    ],
+                    [
+                        177,
+                        171
+                    ],
+                    [
+                        171,
+                        167
+                    ],
+                    [
+                        154,
+                        167
+                    ],
+                    [
+                        148,
+                        168
+                    ],
+                    [
+                        146,
+                        172
+                    ],
+                    [
+                        151,
+                        175
+                    ],
+                    [
+                        163,
+                        179
+                    ],
+                    [
+                        166,
+                        182
+                    ],
+                    [
+                        172,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197874,
+            "classId": 108839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.848Z",
+            "updatedAt": "2023-09-15T12:33:46.848Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        186
+                    ],
+                    [
+                        160,
+                        179
+                    ],
+                    [
+                        151,
+                        175
+                    ],
+                    [
+                        123,
+                        177
+                    ],
+                    [
+                        114,
+                        180
+                    ],
+                    [
+                        115,
+                        190
+                    ],
+                    [
+                        118,
+                        193
+                    ],
+                    [
+                        134,
+                        193
+                    ],
+                    [
+                        146,
+                        195
+                    ],
+                    [
+                        162,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197873,
+            "classId": 108839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.847Z",
+            "updatedAt": "2023-09-15T12:33:46.847Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        220
+                    ],
+                    [
+                        164,
+                        217
+                    ],
+                    [
+                        165,
+                        203
+                    ],
+                    [
+                        163,
+                        203
+                    ],
+                    [
+                        168,
+                        201
+                    ],
+                    [
+                        164,
+                        198
+                    ],
+                    [
+                        157,
+                        199
+                    ],
+                    [
+                        143,
+                        195
+                    ],
+                    [
+                        118,
+                        192
+                    ],
+                    [
+                        103,
+                        195
+                    ],
+                    [
+                        93,
+                        198
+                    ],
+                    [
+                        87,
+                        204
+                    ],
+                    [
+                        88,
+                        213
+                    ],
+                    [
+                        89,
+                        215
+                    ],
+                    [
+                        91,
+                        217
+                    ],
+                    [
+                        122,
+                        225
+                    ],
+                    [
+                        147,
+                        224
+                    ],
+                    [
+                        157,
+                        220
+                    ],
+                    [
+                        157,
+                        220
+                    ],
+                    [
+                        161,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197872,
+            "classId": 108839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.847Z",
+            "updatedAt": "2023-09-15T12:33:46.847Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        188,
+                        224
+                    ],
+                    [
+                        188,
+                        210
+                    ],
+                    [
+                        190,
+                        201
+                    ],
+                    [
+                        202,
+                        196
+                    ],
+                    [
+                        224,
+                        194
+                    ],
+                    [
+                        248,
+                        195
+                    ],
+                    [
+                        262,
+                        200
+                    ],
+                    [
+                        266,
+                        207
+                    ],
+                    [
+                        261,
+                        218
+                    ],
+                    [
+                        255,
+                        224
+                    ],
+                    [
+                        226,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197871,
+            "classId": 108839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.846Z",
+            "updatedAt": "2023-09-15T12:33:46.846Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        204
+                    ],
+                    [
+                        294,
+                        196
+                    ],
+                    [
+                        296,
+                        189
+                    ],
+                    [
+                        311,
+                        183
+                    ],
+                    [
+                        349,
+                        184
+                    ],
+                    [
+                        354,
+                        191
+                    ],
+                    [
+                        353,
+                        203
+                    ],
+                    [
+                        344,
+                        207
+                    ],
+                    [
+                        327,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197870,
+            "classId": 108839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.846Z",
+            "updatedAt": "2023-09-15T12:33:46.846Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        185
+                    ],
+                    [
+                        270,
+                        177
+                    ],
+                    [
+                        275,
+                        171
+                    ],
+                    [
+                        293,
+                        170
+                    ],
+                    [
+                        309,
+                        171
+                    ],
+                    [
+                        313,
+                        175
+                    ],
+                    [
+                        313,
+                        181
+                    ],
+                    [
+                        306,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197869,
+            "classId": 108839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.845Z",
+            "updatedAt": "2023-09-15T12:33:46.845Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        169
+                    ],
+                    [
+                        259,
+                        163
+                    ],
+                    [
+                        272,
+                        160
+                    ],
+                    [
+                        282,
+                        161
+                    ],
+                    [
+                        286,
+                        163
+                    ],
+                    [
+                        286,
+                        168
+                    ],
+                    [
+                        278,
+                        169
+                    ],
+                    [
+                        272,
+                        171
+                    ],
+                    [
+                        272,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197868,
+            "classId": 108839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.845Z",
+            "updatedAt": "2023-09-15T12:33:46.845Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        168
+                    ],
+                    [
+                        175,
+                        168
+                    ],
+                    [
+                        173,
+                        165
+                    ],
+                    [
+                        174,
+                        160
+                    ],
+                    [
+                        178,
+                        159
+                    ],
+                    [
+                        194,
+                        159
+                    ],
+                    [
+                        194,
+                        166
+                    ],
+                    [
+                        190,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197867,
+            "classId": 108839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.844Z",
+            "updatedAt": "2023-09-15T12:33:46.844Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        125,
+                        160
+                    ],
+                    [
+                        126,
+                        154
+                    ],
+                    [
+                        142,
+                        154
+                    ],
+                    [
+                        142,
+                        159
+                    ],
+                    [
+                        138,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197866,
+            "classId": 108839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.843Z",
+            "updatedAt": "2023-09-15T12:33:46.843Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        161
+                    ],
+                    [
+                        161,
+                        155
+                    ],
+                    [
+                        179,
+                        156
+                    ],
+                    [
+                        179,
+                        157
+                    ],
+                    [
+                        175,
+                        159
+                    ],
+                    [
+                        173,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197865,
+            "classId": 108839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.843Z",
+            "updatedAt": "2023-09-15T12:33:46.843Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        328,
+                        160
+                    ],
+                    [
+                        324,
+                        157
+                    ],
+                    [
+                        325,
+                        155
+                    ],
+                    [
+                        343,
+                        153
+                    ],
+                    [
+                        345,
+                        156
+                    ],
+                    [
+                        344,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197864,
+            "classId": 108839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.842Z",
+            "updatedAt": "2023-09-15T12:33:46.842Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        162
+                    ],
+                    [
+                        356,
+                        154
+                    ],
+                    [
+                        363,
+                        154
+                    ],
+                    [
+                        374,
+                        154
+                    ],
+                    [
+                        375,
+                        156
+                    ],
+                    [
+                        374,
+                        161
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197863,
+            "classId": 93664,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.841Z",
+            "updatedAt": "2023-09-15T12:33:46.841Z",
+            "tags": [],
+            "classTitle": "monitor",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        63
+                    ],
+                    [
+                        158,
+                        73
+                    ],
+                    [
+                        156,
+                        94
+                    ],
+                    [
+                        160,
+                        96
+                    ],
+                    [
+                        158,
+                        101
+                    ],
+                    [
+                        155,
+                        102
+                    ],
+                    [
+                        144,
+                        96
+                    ],
+                    [
+                        144,
+                        92
+                    ],
+                    [
+                        146,
+                        91
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44197862,
+            "classId": 93664,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:33:46.841Z",
+            "updatedAt": "2023-09-15T12:33:46.841Z",
+            "tags": [],
+            "classTitle": "monitor",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        63
+                    ],
+                    [
+                        306,
+                        63
+                    ],
+                    [
+                        305,
+                        96
+                    ],
+                    [
+                        295,
+                        102
+                    ],
+                    [
+                        291,
+                        102
+                    ],
+                    [
+                        289,
+                        97
+                    ],
+                    [
+                        293,
+                        94
+                    ],
+                    [
+                        292,
+                        74
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

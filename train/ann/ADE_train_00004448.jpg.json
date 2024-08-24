@@ -1,0 +1,3796 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4059419,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, bow_window indoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.167Z",
+            "updatedAt": "2023-09-15T13:13:05.167Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 291
+    },
+    "objects": [
+        {
+            "id": 44336500,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        10
+                    ],
+                    [
+                        288,
+                        4
+                    ],
+                    [
+                        289,
+                        0
+                    ],
+                    [
+                        107,
+                        0
+                    ],
+                    [
+                        164,
+                        7
+                    ],
+                    [
+                        186,
+                        9
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336499,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        108,
+                        0
+                    ],
+                    [
+                        165,
+                        8
+                    ],
+                    [
+                        192,
+                        10
+                    ],
+                    [
+                        203,
+                        10
+                    ],
+                    [
+                        290,
+                        3
+                    ],
+                    [
+                        290,
+                        179
+                    ],
+                    [
+                        283,
+                        179
+                    ],
+                    [
+                        279,
+                        181
+                    ],
+                    [
+                        280,
+                        186
+                    ],
+                    [
+                        210,
+                        187
+                    ],
+                    [
+                        185,
+                        188
+                    ],
+                    [
+                        101,
+                        197
+                    ],
+                    [
+                        18,
+                        223
+                    ],
+                    [
+                        0,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336498,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        16,
+                        12
+                    ],
+                    [
+                        95,
+                        33
+                    ],
+                    [
+                        88,
+                        37
+                    ],
+                    [
+                        86,
+                        196
+                    ],
+                    [
+                        56,
+                        199
+                    ],
+                    [
+                        19,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336497,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        33
+                    ],
+                    [
+                        197,
+                        40
+                    ],
+                    [
+                        197,
+                        42
+                    ],
+                    [
+                        194,
+                        45
+                    ],
+                    [
+                        192,
+                        186
+                    ],
+                    [
+                        101,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336496,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        39
+                    ],
+                    [
+                        281,
+                        37
+                    ],
+                    [
+                        276,
+                        43
+                    ],
+                    [
+                        275,
+                        185
+                    ],
+                    [
+                        206,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336495,
+            "classId": 55379,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "cabinet",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        235
+                    ],
+                    [
+                        19,
+                        223
+                    ],
+                    [
+                        102,
+                        196
+                    ],
+                    [
+                        192,
+                        187
+                    ],
+                    [
+                        207,
+                        185
+                    ],
+                    [
+                        280,
+                        188
+                    ],
+                    [
+                        283,
+                        197
+                    ],
+                    [
+                        273,
+                        239
+                    ],
+                    [
+                        289,
+                        254
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336494,
+            "classId": 92284,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "armchair",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        246
+                    ],
+                    [
+                        290,
+                        255
+                    ],
+                    [
+                        269,
+                        240
+                    ],
+                    [
+                        271,
+                        215
+                    ],
+                    [
+                        271,
+                        204
+                    ],
+                    [
+                        271,
+                        199
+                    ],
+                    [
+                        284,
+                        199
+                    ],
+                    [
+                        279,
+                        188
+                    ],
+                    [
+                        280,
+                        180
+                    ],
+                    [
+                        290,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336493,
+            "classId": 68413,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "clock",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        192
+                    ],
+                    [
+                        250,
+                        192
+                    ],
+                    [
+                        249,
+                        183
+                    ],
+                    [
+                        246,
+                        178
+                    ],
+                    [
+                        241,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336492,
+            "classId": 59348,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "flowerpot",
+            "points": {
+                "exterior": [
+                    [
+                        78,
+                        219
+                    ],
+                    [
+                        96,
+                        212
+                    ],
+                    [
+                        96,
+                        197
+                    ],
+                    [
+                        77,
+                        202
+                    ],
+                    [
+                        62,
+                        200
+                    ],
+                    [
+                        67,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336491,
+            "classId": 59443,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "plant",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        185
+                    ],
+                    [
+                        64,
+                        182
+                    ],
+                    [
+                        71,
+                        184
+                    ],
+                    [
+                        75,
+                        183
+                    ],
+                    [
+                        81,
+                        182
+                    ],
+                    [
+                        86,
+                        185
+                    ],
+                    [
+                        91,
+                        184
+                    ],
+                    [
+                        95,
+                        184
+                    ],
+                    [
+                        98,
+                        185
+                    ],
+                    [
+                        99,
+                        191
+                    ],
+                    [
+                        100,
+                        197
+                    ],
+                    [
+                        94,
+                        200
+                    ],
+                    [
+                        84,
+                        201
+                    ],
+                    [
+                        76,
+                        201
+                    ],
+                    [
+                        68,
+                        199
+                    ],
+                    [
+                        62,
+                        203
+                    ],
+                    [
+                        57,
+                        202
+                    ],
+                    [
+                        51,
+                        199
+                    ],
+                    [
+                        51,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336490,
+            "classId": 82849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "table lamp",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        193
+                    ],
+                    [
+                        23,
+                        180
+                    ],
+                    [
+                        14,
+                        167
+                    ],
+                    [
+                        8,
+                        158
+                    ],
+                    [
+                        2,
+                        150
+                    ],
+                    [
+                        2,
+                        254
+                    ],
+                    [
+                        9,
+                        249
+                    ],
+                    [
+                        14,
+                        238
+                    ],
+                    [
+                        11,
+                        219
+                    ],
+                    [
+                        8,
+                        208
+                    ],
+                    [
+                        4,
+                        206
+                    ],
+                    [
+                        13,
+                        201
+                    ],
+                    [
+                        22,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336489,
+            "classId": 238804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "figurine",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        192
+                    ],
+                    [
+                        198,
+                        196
+                    ],
+                    [
+                        206,
+                        194
+                    ],
+                    [
+                        210,
+                        190
+                    ],
+                    [
+                        213,
+                        186
+                    ],
+                    [
+                        210,
+                        186
+                    ],
+                    [
+                        203,
+                        188
+                    ],
+                    [
+                        198,
+                        188
+                    ],
+                    [
+                        195,
+                        184
+                    ],
+                    [
+                        197,
+                        179
+                    ],
+                    [
+                        195,
+                        176
+                    ],
+                    [
+                        191,
+                        176
+                    ],
+                    [
+                        191,
+                        180
+                    ],
+                    [
+                        193,
+                        179
+                    ],
+                    [
+                        193,
+                        182
+                    ],
+                    [
+                        191,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336488,
+            "classId": 238804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.185Z",
+            "updatedAt": "2023-09-15T13:13:05.185Z",
+            "tags": [],
+            "classTitle": "figurine",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        243
+                    ],
+                    [
+                        234,
+                        243
+                    ],
+                    [
+                        247,
+                        243
+                    ],
+                    [
+                        250,
+                        241
+                    ],
+                    [
+                        237,
+                        234
+                    ],
+                    [
+                        224,
+                        229
+                    ],
+                    [
+                        211,
+                        214
+                    ],
+                    [
+                        210,
+                        207
+                    ],
+                    [
+                        207,
+                        207
+                    ],
+                    [
+                        207,
+                        210
+                    ],
+                    [
+                        208,
+                        218
+                    ],
+                    [
+                        204,
+                        227
+                    ],
+                    [
+                        205,
+                        232
+                    ],
+                    [
+                        200,
+                        231
+                    ],
+                    [
+                        192,
+                        234
+                    ],
+                    [
+                        185,
+                        234
+                    ],
+                    [
+                        179,
+                        238
+                    ],
+                    [
+                        190,
+                        237
+                    ],
+                    [
+                        194,
+                        243
+                    ],
+                    [
+                        196,
+                        245
+                    ],
+                    [
+                        204,
+                        246
+                    ],
+                    [
+                        208,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336487,
+            "classId": 95353,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "coffee table",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        235
+                    ],
+                    [
+                        227,
+                        215
+                    ],
+                    [
+                        287,
+                        254
+                    ],
+                    [
+                        132,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336486,
+            "classId": 289838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "casing",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        182
+                    ],
+                    [
+                        76,
+                        47
+                    ],
+                    [
+                        27,
+                        37
+                    ],
+                    [
+                        26,
+                        121
+                    ],
+                    [
+                        27,
+                        207
+                    ],
+                    [
+                        20,
+                        209
+                    ],
+                    [
+                        18,
+                        150
+                    ],
+                    [
+                        17,
+                        31
+                    ],
+                    [
+                        16,
+                        31
+                    ],
+                    [
+                        17,
+                        12
+                    ],
+                    [
+                        94,
+                        33
+                    ],
+                    [
+                        94,
+                        34
+                    ],
+                    [
+                        88,
+                        37
+                    ],
+                    [
+                        87,
+                        49
+                    ],
+                    [
+                        87,
+                        184
+                    ],
+                    [
+                        84,
+                        184
+                    ],
+                    [
+                        81,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336485,
+            "classId": 166511,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "upper sash",
+            "points": {
+                "exterior": [
+                    [
+                        74,
+                        119
+                    ],
+                    [
+                        75,
+                        47
+                    ],
+                    [
+                        27,
+                        37
+                    ],
+                    [
+                        26,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336484,
+            "classId": 82144,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "rail",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        52
+                    ],
+                    [
+                        75,
+                        47
+                    ],
+                    [
+                        28,
+                        37
+                    ],
+                    [
+                        26,
+                        45
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336483,
+            "classId": 120224,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "stile",
+            "points": {
+                "exterior": [
+                    [
+                        67,
+                        118
+                    ],
+                    [
+                        67,
+                        52
+                    ],
+                    [
+                        75,
+                        47
+                    ],
+                    [
+                        74,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336482,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        48
+                    ],
+                    [
+                        38,
+                        121
+                    ],
+                    [
+                        40,
+                        121
+                    ],
+                    [
+                        41,
+                        48
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336481,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        54,
+                        50
+                    ],
+                    [
+                        54,
+                        119
+                    ],
+                    [
+                        56,
+                        119
+                    ],
+                    [
+                        56,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336480,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        84
+                    ],
+                    [
+                        67,
+                        85
+                    ],
+                    [
+                        66,
+                        87
+                    ],
+                    [
+                        27,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336479,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        46
+                    ],
+                    [
+                        38,
+                        47
+                    ],
+                    [
+                        38,
+                        84
+                    ],
+                    [
+                        27,
+                        84
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336478,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        42,
+                        48
+                    ],
+                    [
+                        54,
+                        49
+                    ],
+                    [
+                        54,
+                        84
+                    ],
+                    [
+                        41,
+                        84
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336477,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        50
+                    ],
+                    [
+                        67,
+                        52
+                    ],
+                    [
+                        67,
+                        85
+                    ],
+                    [
+                        56,
+                        84
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336476,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        86
+                    ],
+                    [
+                        38,
+                        87
+                    ],
+                    [
+                        38,
+                        121
+                    ],
+                    [
+                        26,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336475,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        87
+                    ],
+                    [
+                        54,
+                        87
+                    ],
+                    [
+                        53,
+                        120
+                    ],
+                    [
+                        40,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336474,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        87
+                    ],
+                    [
+                        66,
+                        87
+                    ],
+                    [
+                        67,
+                        119
+                    ],
+                    [
+                        56,
+                        119
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336473,
+            "classId": 166984,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "lower sash",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        119
+                    ],
+                    [
+                        25,
+                        122
+                    ],
+                    [
+                        27,
+                        207
+                    ],
+                    [
+                        43,
+                        203
+                    ],
+                    [
+                        51,
+                        200
+                    ],
+                    [
+                        51,
+                        197
+                    ],
+                    [
+                        52,
+                        190
+                    ],
+                    [
+                        55,
+                        187
+                    ],
+                    [
+                        59,
+                        184
+                    ],
+                    [
+                        64,
+                        182
+                    ],
+                    [
+                        69,
+                        184
+                    ],
+                    [
+                        72,
+                        184
+                    ],
+                    [
+                        75,
+                        183
+                    ],
+                    [
+                        75,
+                        182
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336472,
+            "classId": 82144,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.184Z",
+            "updatedAt": "2023-09-15T13:13:05.184Z",
+            "tags": [],
+            "classTitle": "rail",
+            "points": {
+                "exterior": [
+                    [
+                        70,
+                        125
+                    ],
+                    [
+                        74,
+                        120
+                    ],
+                    [
+                        27,
+                        122
+                    ],
+                    [
+                        27,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336471,
+            "classId": 120224,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.183Z",
+            "updatedAt": "2023-09-15T13:13:05.183Z",
+            "tags": [],
+            "classTitle": "stile",
+            "points": {
+                "exterior": [
+                    [
+                        70,
+                        182
+                    ],
+                    [
+                        70,
+                        125
+                    ],
+                    [
+                        75,
+                        119
+                    ],
+                    [
+                        74,
+                        182
+                    ],
+                    [
+                        72,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336470,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.183Z",
+            "updatedAt": "2023-09-15T13:13:05.183Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        42,
+                        127
+                    ],
+                    [
+                        41,
+                        203
+                    ],
+                    [
+                        43,
+                        202
+                    ],
+                    [
+                        44,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336469,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.183Z",
+            "updatedAt": "2023-09-15T13:13:05.183Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        126
+                    ],
+                    [
+                        56,
+                        186
+                    ],
+                    [
+                        58,
+                        185
+                    ],
+                    [
+                        58,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336468,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.183Z",
+            "updatedAt": "2023-09-15T13:13:05.183Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        166
+                    ],
+                    [
+                        69,
+                        158
+                    ],
+                    [
+                        69,
+                        159
+                    ],
+                    [
+                        28,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336467,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.183Z",
+            "updatedAt": "2023-09-15T13:13:05.183Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        128
+                    ],
+                    [
+                        42,
+                        127
+                    ],
+                    [
+                        41,
+                        163
+                    ],
+                    [
+                        27,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336466,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.183Z",
+            "updatedAt": "2023-09-15T13:13:05.183Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        45,
+                        127
+                    ],
+                    [
+                        57,
+                        126
+                    ],
+                    [
+                        56,
+                        160
+                    ],
+                    [
+                        44,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336465,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.183Z",
+            "updatedAt": "2023-09-15T13:13:05.183Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        126
+                    ],
+                    [
+                        69,
+                        126
+                    ],
+                    [
+                        70,
+                        158
+                    ],
+                    [
+                        58,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336464,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.183Z",
+            "updatedAt": "2023-09-15T13:13:05.183Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        169
+                    ],
+                    [
+                        42,
+                        166
+                    ],
+                    [
+                        41,
+                        203
+                    ],
+                    [
+                        28,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336463,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.183Z",
+            "updatedAt": "2023-09-15T13:13:05.183Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        44,
+                        165
+                    ],
+                    [
+                        56,
+                        163
+                    ],
+                    [
+                        56,
+                        186
+                    ],
+                    [
+                        53,
+                        189
+                    ],
+                    [
+                        52,
+                        192
+                    ],
+                    [
+                        51,
+                        195
+                    ],
+                    [
+                        51,
+                        200
+                    ],
+                    [
+                        44,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336462,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.182Z",
+            "updatedAt": "2023-09-15T13:13:05.182Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        162
+                    ],
+                    [
+                        70,
+                        160
+                    ],
+                    [
+                        69,
+                        183
+                    ],
+                    [
+                        65,
+                        182
+                    ],
+                    [
+                        62,
+                        182
+                    ],
+                    [
+                        58,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336461,
+            "classId": 289838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.182Z",
+            "updatedAt": "2023-09-15T13:13:05.182Z",
+            "tags": [],
+            "classTitle": "casing",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        195
+                    ],
+                    [
+                        100,
+                        33
+                    ],
+                    [
+                        197,
+                        40
+                    ],
+                    [
+                        197,
+                        42
+                    ],
+                    [
+                        194,
+                        45
+                    ],
+                    [
+                        193,
+                        186
+                    ],
+                    [
+                        189,
+                        186
+                    ],
+                    [
+                        184,
+                        182
+                    ],
+                    [
+                        183,
+                        54
+                    ],
+                    [
+                        109,
+                        51
+                    ],
+                    [
+                        108,
+                        192
+                    ],
+                    [
+                        184,
+                        183
+                    ],
+                    [
+                        188,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336460,
+            "classId": 166511,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.182Z",
+            "updatedAt": "2023-09-15T13:13:05.182Z",
+            "tags": [],
+            "classTitle": "upper sash",
+            "points": {
+                "exterior": [
+                    [
+                        109,
+                        117
+                    ],
+                    [
+                        183,
+                        116
+                    ],
+                    [
+                        182,
+                        54
+                    ],
+                    [
+                        109,
+                        52
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336459,
+            "classId": 82144,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.182Z",
+            "updatedAt": "2023-09-15T13:13:05.182Z",
+            "tags": [],
+            "classTitle": "rail",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        56
+                    ],
+                    [
+                        110,
+                        52
+                    ],
+                    [
+                        182,
+                        55
+                    ],
+                    [
+                        176,
+                        59
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336458,
+            "classId": 120224,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.182Z",
+            "updatedAt": "2023-09-15T13:13:05.182Z",
+            "tags": [],
+            "classTitle": "stile",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        115
+                    ],
+                    [
+                        176,
+                        60
+                    ],
+                    [
+                        182,
+                        55
+                    ],
+                    [
+                        182,
+                        115
+                    ],
+                    [
+                        178,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336457,
+            "classId": 120224,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.182Z",
+            "updatedAt": "2023-09-15T13:13:05.182Z",
+            "tags": [],
+            "classTitle": "stile",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        116
+                    ],
+                    [
+                        112,
+                        56
+                    ],
+                    [
+                        109,
+                        52
+                    ],
+                    [
+                        109,
+                        117
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336456,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.181Z",
+            "updatedAt": "2023-09-15T13:13:05.181Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        57
+                    ],
+                    [
+                        127,
+                        116
+                    ],
+                    [
+                        129,
+                        116
+                    ],
+                    [
+                        129,
+                        56
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336455,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.181Z",
+            "updatedAt": "2023-09-15T13:13:05.181Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        144,
+                        58
+                    ],
+                    [
+                        144,
+                        116
+                    ],
+                    [
+                        146,
+                        116
+                    ],
+                    [
+                        146,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336454,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.181Z",
+            "updatedAt": "2023-09-15T13:13:05.181Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        59
+                    ],
+                    [
+                        161,
+                        116
+                    ],
+                    [
+                        162,
+                        116
+                    ],
+                    [
+                        163,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336453,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.181Z",
+            "updatedAt": "2023-09-15T13:13:05.181Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        86
+                    ],
+                    [
+                        176,
+                        87
+                    ],
+                    [
+                        176,
+                        88
+                    ],
+                    [
+                        113,
+                        88
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336452,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.181Z",
+            "updatedAt": "2023-09-15T13:13:05.181Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        56
+                    ],
+                    [
+                        126,
+                        57
+                    ],
+                    [
+                        127,
+                        86
+                    ],
+                    [
+                        113,
+                        85
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336451,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.181Z",
+            "updatedAt": "2023-09-15T13:13:05.181Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        57
+                    ],
+                    [
+                        143,
+                        58
+                    ],
+                    [
+                        144,
+                        86
+                    ],
+                    [
+                        129,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336450,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.181Z",
+            "updatedAt": "2023-09-15T13:13:05.181Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        58
+                    ],
+                    [
+                        161,
+                        59
+                    ],
+                    [
+                        161,
+                        86
+                    ],
+                    [
+                        146,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336449,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.180Z",
+            "updatedAt": "2023-09-15T13:13:05.180Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        59
+                    ],
+                    [
+                        175,
+                        59
+                    ],
+                    [
+                        176,
+                        87
+                    ],
+                    [
+                        163,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336448,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.180Z",
+            "updatedAt": "2023-09-15T13:13:05.180Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        89
+                    ],
+                    [
+                        127,
+                        88
+                    ],
+                    [
+                        126,
+                        116
+                    ],
+                    [
+                        113,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336447,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.180Z",
+            "updatedAt": "2023-09-15T13:13:05.180Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        88
+                    ],
+                    [
+                        144,
+                        88
+                    ],
+                    [
+                        144,
+                        116
+                    ],
+                    [
+                        129,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336446,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.180Z",
+            "updatedAt": "2023-09-15T13:13:05.180Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        89
+                    ],
+                    [
+                        161,
+                        89
+                    ],
+                    [
+                        161,
+                        116
+                    ],
+                    [
+                        146,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336445,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.180Z",
+            "updatedAt": "2023-09-15T13:13:05.180Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        89
+                    ],
+                    [
+                        176,
+                        88
+                    ],
+                    [
+                        177,
+                        115
+                    ],
+                    [
+                        163,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336444,
+            "classId": 166984,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.180Z",
+            "updatedAt": "2023-09-15T13:13:05.180Z",
+            "tags": [],
+            "classTitle": "lower sash",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        117
+                    ],
+                    [
+                        109,
+                        117
+                    ],
+                    [
+                        108,
+                        191
+                    ],
+                    [
+                        184,
+                        182
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336443,
+            "classId": 82144,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.179Z",
+            "updatedAt": "2023-09-15T13:13:05.179Z",
+            "tags": [],
+            "classTitle": "rail",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        122
+                    ],
+                    [
+                        109,
+                        117
+                    ],
+                    [
+                        183,
+                        117
+                    ],
+                    [
+                        177,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336442,
+            "classId": 120224,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.179Z",
+            "updatedAt": "2023-09-15T13:13:05.179Z",
+            "tags": [],
+            "classTitle": "stile",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        177
+                    ],
+                    [
+                        178,
+                        120
+                    ],
+                    [
+                        183,
+                        117
+                    ],
+                    [
+                        184,
+                        182
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336441,
+            "classId": 120224,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.179Z",
+            "updatedAt": "2023-09-15T13:13:05.179Z",
+            "tags": [],
+            "classTitle": "stile",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        122
+                    ],
+                    [
+                        109,
+                        117
+                    ],
+                    [
+                        108,
+                        191
+                    ],
+                    [
+                        112,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336440,
+            "classId": 82144,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.177Z",
+            "updatedAt": "2023-09-15T13:13:05.177Z",
+            "tags": [],
+            "classTitle": "rail",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        184
+                    ],
+                    [
+                        178,
+                        177
+                    ],
+                    [
+                        183,
+                        182
+                    ],
+                    [
+                        108,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336439,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.177Z",
+            "updatedAt": "2023-09-15T13:13:05.177Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        122
+                    ],
+                    [
+                        128,
+                        182
+                    ],
+                    [
+                        130,
+                        181
+                    ],
+                    [
+                        130,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336438,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.177Z",
+            "updatedAt": "2023-09-15T13:13:05.177Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        145,
+                        122
+                    ],
+                    [
+                        145,
+                        180
+                    ],
+                    [
+                        147,
+                        179
+                    ],
+                    [
+                        147,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336437,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.177Z",
+            "updatedAt": "2023-09-15T13:13:05.177Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        162,
+                        121
+                    ],
+                    [
+                        162,
+                        178
+                    ],
+                    [
+                        164,
+                        177
+                    ],
+                    [
+                        164,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336436,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.177Z",
+            "updatedAt": "2023-09-15T13:13:05.177Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        152
+                    ],
+                    [
+                        113,
+                        154
+                    ],
+                    [
+                        177,
+                        150
+                    ],
+                    [
+                        177,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336435,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.176Z",
+            "updatedAt": "2023-09-15T13:13:05.176Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        122
+                    ],
+                    [
+                        127,
+                        121
+                    ],
+                    [
+                        128,
+                        150
+                    ],
+                    [
+                        113,
+                        152
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336434,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.176Z",
+            "updatedAt": "2023-09-15T13:13:05.176Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        122
+                    ],
+                    [
+                        145,
+                        122
+                    ],
+                    [
+                        144,
+                        150
+                    ],
+                    [
+                        130,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336433,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.176Z",
+            "updatedAt": "2023-09-15T13:13:05.176Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        121
+                    ],
+                    [
+                        161,
+                        121
+                    ],
+                    [
+                        162,
+                        149
+                    ],
+                    [
+                        147,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336432,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.176Z",
+            "updatedAt": "2023-09-15T13:13:05.176Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        121
+                    ],
+                    [
+                        177,
+                        120
+                    ],
+                    [
+                        178,
+                        147
+                    ],
+                    [
+                        165,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336431,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.175Z",
+            "updatedAt": "2023-09-15T13:13:05.175Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        154
+                    ],
+                    [
+                        128,
+                        154
+                    ],
+                    [
+                        127,
+                        182
+                    ],
+                    [
+                        113,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336430,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.175Z",
+            "updatedAt": "2023-09-15T13:13:05.175Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        153
+                    ],
+                    [
+                        145,
+                        152
+                    ],
+                    [
+                        144,
+                        180
+                    ],
+                    [
+                        130,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336429,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.175Z",
+            "updatedAt": "2023-09-15T13:13:05.175Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        152
+                    ],
+                    [
+                        161,
+                        152
+                    ],
+                    [
+                        162,
+                        178
+                    ],
+                    [
+                        147,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336428,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.175Z",
+            "updatedAt": "2023-09-15T13:13:05.175Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        151
+                    ],
+                    [
+                        177,
+                        151
+                    ],
+                    [
+                        178,
+                        176
+                    ],
+                    [
+                        165,
+                        177
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336427,
+            "classId": 289838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.175Z",
+            "updatedAt": "2023-09-15T13:13:05.175Z",
+            "tags": [],
+            "classTitle": "casing",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        39
+                    ],
+                    [
+                        280,
+                        38
+                    ],
+                    [
+                        279,
+                        40
+                    ],
+                    [
+                        277,
+                        42
+                    ],
+                    [
+                        276,
+                        43
+                    ],
+                    [
+                        274,
+                        184
+                    ],
+                    [
+                        206,
+                        185
+                    ],
+                    [
+                        215,
+                        178
+                    ],
+                    [
+                        265,
+                        179
+                    ],
+                    [
+                        264,
+                        52
+                    ],
+                    [
+                        213,
+                        53
+                    ],
+                    [
+                        215,
+                        178
+                    ],
+                    [
+                        206,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336426,
+            "classId": 166511,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.175Z",
+            "updatedAt": "2023-09-15T13:13:05.175Z",
+            "tags": [],
+            "classTitle": "upper sash",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        53
+                    ],
+                    [
+                        263,
+                        52
+                    ],
+                    [
+                        263,
+                        116
+                    ],
+                    [
+                        215,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336425,
+            "classId": 82144,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.174Z",
+            "updatedAt": "2023-09-15T13:13:05.174Z",
+            "tags": [],
+            "classTitle": "rail",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        59
+                    ],
+                    [
+                        214,
+                        53
+                    ],
+                    [
+                        263,
+                        53
+                    ],
+                    [
+                        258,
+                        59
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336424,
+            "classId": 120224,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.174Z",
+            "updatedAt": "2023-09-15T13:13:05.174Z",
+            "tags": [],
+            "classTitle": "stile",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        114
+                    ],
+                    [
+                        218,
+                        59
+                    ],
+                    [
+                        214,
+                        53
+                    ],
+                    [
+                        215,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336423,
+            "classId": 120224,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.174Z",
+            "updatedAt": "2023-09-15T13:13:05.174Z",
+            "tags": [],
+            "classTitle": "stile",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        115
+                    ],
+                    [
+                        258,
+                        59
+                    ],
+                    [
+                        263,
+                        53
+                    ],
+                    [
+                        263,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336422,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.174Z",
+            "updatedAt": "2023-09-15T13:13:05.174Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        59
+                    ],
+                    [
+                        231,
+                        115
+                    ],
+                    [
+                        232,
+                        115
+                    ],
+                    [
+                        233,
+                        59
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336421,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.174Z",
+            "updatedAt": "2023-09-15T13:13:05.174Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        60
+                    ],
+                    [
+                        246,
+                        115
+                    ],
+                    [
+                        247,
+                        115
+                    ],
+                    [
+                        247,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336420,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.173Z",
+            "updatedAt": "2023-09-15T13:13:05.173Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        87
+                    ],
+                    [
+                        259,
+                        87
+                    ],
+                    [
+                        258,
+                        88
+                    ],
+                    [
+                        219,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336419,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.173Z",
+            "updatedAt": "2023-09-15T13:13:05.173Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        59
+                    ],
+                    [
+                        231,
+                        59
+                    ],
+                    [
+                        231,
+                        87
+                    ],
+                    [
+                        219,
+                        87
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336418,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.173Z",
+            "updatedAt": "2023-09-15T13:13:05.173Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        59
+                    ],
+                    [
+                        245,
+                        59
+                    ],
+                    [
+                        245,
+                        87
+                    ],
+                    [
+                        233,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336417,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.173Z",
+            "updatedAt": "2023-09-15T13:13:05.173Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        60
+                    ],
+                    [
+                        258,
+                        59
+                    ],
+                    [
+                        258,
+                        86
+                    ],
+                    [
+                        248,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336416,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.172Z",
+            "updatedAt": "2023-09-15T13:13:05.172Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        89
+                    ],
+                    [
+                        231,
+                        89
+                    ],
+                    [
+                        231,
+                        115
+                    ],
+                    [
+                        219,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336415,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.172Z",
+            "updatedAt": "2023-09-15T13:13:05.172Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        89
+                    ],
+                    [
+                        245,
+                        89
+                    ],
+                    [
+                        246,
+                        115
+                    ],
+                    [
+                        233,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336414,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.171Z",
+            "updatedAt": "2023-09-15T13:13:05.171Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        89
+                    ],
+                    [
+                        258,
+                        88
+                    ],
+                    [
+                        259,
+                        115
+                    ],
+                    [
+                        248,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336413,
+            "classId": 166984,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.171Z",
+            "updatedAt": "2023-09-15T13:13:05.171Z",
+            "tags": [],
+            "classTitle": "lower sash",
+            "points": {
+                "exterior": [
+                    [
+                        215,
+                        115
+                    ],
+                    [
+                        264,
+                        116
+                    ],
+                    [
+                        265,
+                        179
+                    ],
+                    [
+                        215,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336412,
+            "classId": 82144,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.171Z",
+            "updatedAt": "2023-09-15T13:13:05.171Z",
+            "tags": [],
+            "classTitle": "rail",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        118
+                    ],
+                    [
+                        215,
+                        115
+                    ],
+                    [
+                        264,
+                        116
+                    ],
+                    [
+                        262,
+                        119
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336411,
+            "classId": 82144,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.171Z",
+            "updatedAt": "2023-09-15T13:13:05.171Z",
+            "tags": [],
+            "classTitle": "rail",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        174
+                    ],
+                    [
+                        215,
+                        178
+                    ],
+                    [
+                        264,
+                        179
+                    ],
+                    [
+                        259,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336410,
+            "classId": 120224,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.170Z",
+            "updatedAt": "2023-09-15T13:13:05.170Z",
+            "tags": [],
+            "classTitle": "stile",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        119
+                    ],
+                    [
+                        215,
+                        115
+                    ],
+                    [
+                        215,
+                        177
+                    ],
+                    [
+                        217,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336409,
+            "classId": 120224,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.170Z",
+            "updatedAt": "2023-09-15T13:13:05.170Z",
+            "tags": [],
+            "classTitle": "stile",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        120
+                    ],
+                    [
+                        264,
+                        117
+                    ],
+                    [
+                        265,
+                        179
+                    ],
+                    [
+                        260,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336408,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.170Z",
+            "updatedAt": "2023-09-15T13:13:05.170Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        119
+                    ],
+                    [
+                        231,
+                        174
+                    ],
+                    [
+                        233,
+                        174
+                    ],
+                    [
+                        233,
+                        119
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336407,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.169Z",
+            "updatedAt": "2023-09-15T13:13:05.169Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        119
+                    ],
+                    [
+                        246,
+                        174
+                    ],
+                    [
+                        247,
+                        174
+                    ],
+                    [
+                        248,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336406,
+            "classId": 119863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.169Z",
+            "updatedAt": "2023-09-15T13:13:05.169Z",
+            "tags": [],
+            "classTitle": "muntin",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        146
+                    ],
+                    [
+                        260,
+                        147
+                    ],
+                    [
+                        260,
+                        149
+                    ],
+                    [
+                        218,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336405,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.169Z",
+            "updatedAt": "2023-09-15T13:13:05.169Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        118
+                    ],
+                    [
+                        230,
+                        118
+                    ],
+                    [
+                        231,
+                        146
+                    ],
+                    [
+                        218,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336404,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.169Z",
+            "updatedAt": "2023-09-15T13:13:05.169Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        118
+                    ],
+                    [
+                        246,
+                        119
+                    ],
+                    [
+                        246,
+                        147
+                    ],
+                    [
+                        233,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336403,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.169Z",
+            "updatedAt": "2023-09-15T13:13:05.169Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        118
+                    ],
+                    [
+                        260,
+                        119
+                    ],
+                    [
+                        260,
+                        146
+                    ],
+                    [
+                        248,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336402,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.168Z",
+            "updatedAt": "2023-09-15T13:13:05.168Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        148
+                    ],
+                    [
+                        231,
+                        149
+                    ],
+                    [
+                        230,
+                        174
+                    ],
+                    [
+                        218,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336401,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.168Z",
+            "updatedAt": "2023-09-15T13:13:05.168Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        149
+                    ],
+                    [
+                        246,
+                        149
+                    ],
+                    [
+                        246,
+                        174
+                    ],
+                    [
+                        233,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336400,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:05.168Z",
+            "updatedAt": "2023-09-15T13:13:05.168Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        150
+                    ],
+                    [
+                        260,
+                        150
+                    ],
+                    [
+                        260,
+                        175
+                    ],
+                    [
+                        247,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

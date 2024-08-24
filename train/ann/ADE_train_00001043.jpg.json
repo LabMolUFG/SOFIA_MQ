@@ -1,0 +1,840 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4053047,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, transportation, airlock",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.049Z",
+            "updatedAt": "2023-09-15T12:36:36.049Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 768
+    },
+    "objects": [
+        {
+            "id": 44209196,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.060Z",
+            "updatedAt": "2023-09-15T12:36:36.060Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        762,
+                        1020
+                    ],
+                    [
+                        766,
+                        730
+                    ],
+                    [
+                        588,
+                        764
+                    ],
+                    [
+                        592,
+                        827
+                    ],
+                    [
+                        90,
+                        944
+                    ],
+                    [
+                        0,
+                        909
+                    ],
+                    [
+                        0,
+                        1020
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209195,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.060Z",
+            "updatedAt": "2023-09-15T12:36:36.060Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        766,
+                        0
+                    ],
+                    [
+                        338,
+                        0
+                    ],
+                    [
+                        497,
+                        46
+                    ],
+                    [
+                        499,
+                        166
+                    ],
+                    [
+                        585,
+                        180
+                    ],
+                    [
+                        590,
+                        760
+                    ],
+                    [
+                        764,
+                        726
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209194,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.059Z",
+            "updatedAt": "2023-09-15T12:36:36.059Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        78,
+                        2
+                    ],
+                    [
+                        76,
+                        90
+                    ],
+                    [
+                        2,
+                        117
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209193,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.059Z",
+            "updatedAt": "2023-09-15T12:36:36.059Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        739
+                    ],
+                    [
+                        0,
+                        118
+                    ],
+                    [
+                        73,
+                        88
+                    ],
+                    [
+                        76,
+                        0
+                    ],
+                    [
+                        348,
+                        0
+                    ],
+                    [
+                        497,
+                        44
+                    ],
+                    [
+                        499,
+                        166
+                    ],
+                    [
+                        583,
+                        178
+                    ],
+                    [
+                        590,
+                        820
+                    ],
+                    [
+                        474,
+                        844
+                    ],
+                    [
+                        533,
+                        508
+                    ],
+                    [
+                        470,
+                        195
+                    ],
+                    [
+                        243,
+                        168
+                    ],
+                    [
+                        166,
+                        522
+                    ],
+                    [
+                        258,
+                        898
+                    ],
+                    [
+                        90,
+                        942
+                    ],
+                    [
+                        0,
+                        909
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209192,
+            "classId": 481309,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.058Z",
+            "updatedAt": "2023-09-15T12:36:36.058Z",
+            "tags": [],
+            "classTitle": "entrance",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        883
+                    ],
+                    [
+                        262,
+                        900
+                    ],
+                    [
+                        164,
+                        522
+                    ],
+                    [
+                        245,
+                        168
+                    ],
+                    [
+                        468,
+                        195
+                    ],
+                    [
+                        531,
+                        506
+                    ],
+                    [
+                        472,
+                        850
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209191,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.057Z",
+            "updatedAt": "2023-09-15T12:36:36.057Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        313,
+                        329
+                    ],
+                    [
+                        208,
+                        323
+                    ],
+                    [
+                        204,
+                        373
+                    ],
+                    [
+                        204,
+                        667
+                    ],
+                    [
+                        216,
+                        705
+                    ],
+                    [
+                        315,
+                        695
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209190,
+            "classId": 225703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.057Z",
+            "updatedAt": "2023-09-15T12:36:36.057Z",
+            "tags": [],
+            "classTitle": "dial",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        573
+                    ],
+                    [
+                        136,
+                        569
+                    ],
+                    [
+                        139,
+                        560
+                    ],
+                    [
+                        141,
+                        541
+                    ],
+                    [
+                        130,
+                        529
+                    ],
+                    [
+                        115,
+                        529
+                    ],
+                    [
+                        101,
+                        533
+                    ],
+                    [
+                        90,
+                        544
+                    ],
+                    [
+                        88,
+                        554
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209189,
+            "classId": 225703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.057Z",
+            "updatedAt": "2023-09-15T12:36:36.057Z",
+            "tags": [],
+            "classTitle": "dial",
+            "points": {
+                "exterior": [
+                    [
+                        92,
+                        497
+                    ],
+                    [
+                        88,
+                        447
+                    ],
+                    [
+                        139,
+                        447
+                    ],
+                    [
+                        139,
+                        493
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209188,
+            "classId": 55348,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.057Z",
+            "updatedAt": "2023-09-15T12:36:36.057Z",
+            "tags": [],
+            "classTitle": "speaker",
+            "points": {
+                "exterior": [
+                    [
+                        686,
+                        808
+                    ],
+                    [
+                        682,
+                        663
+                    ],
+                    [
+                        695,
+                        650
+                    ],
+                    [
+                        766,
+                        655
+                    ],
+                    [
+                        764,
+                        820
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209187,
+            "classId": 225703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.056Z",
+            "updatedAt": "2023-09-15T12:36:36.056Z",
+            "tags": [],
+            "classTitle": "dial",
+            "points": {
+                "exterior": [
+                    [
+                        693,
+                        338
+                    ],
+                    [
+                        709,
+                        332
+                    ],
+                    [
+                        726,
+                        340
+                    ],
+                    [
+                        715,
+                        363
+                    ],
+                    [
+                        703,
+                        361
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209186,
+            "classId": 225703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.055Z",
+            "updatedAt": "2023-09-15T12:36:36.055Z",
+            "tags": [],
+            "classTitle": "dial",
+            "points": {
+                "exterior": [
+                    [
+                        693,
+                        294
+                    ],
+                    [
+                        711,
+                        287
+                    ],
+                    [
+                        726,
+                        298
+                    ],
+                    [
+                        715,
+                        317
+                    ],
+                    [
+                        701,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209185,
+            "classId": 225703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.055Z",
+            "updatedAt": "2023-09-15T12:36:36.055Z",
+            "tags": [],
+            "classTitle": "dial",
+            "points": {
+                "exterior": [
+                    [
+                        564,
+                        550
+                    ],
+                    [
+                        581,
+                        544
+                    ],
+                    [
+                        583,
+                        529
+                    ],
+                    [
+                        583,
+                        518
+                    ],
+                    [
+                        575,
+                        508
+                    ],
+                    [
+                        565,
+                        506
+                    ],
+                    [
+                        556,
+                        510
+                    ],
+                    [
+                        550,
+                        516
+                    ],
+                    [
+                        550,
+                        527
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209184,
+            "classId": 225703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.054Z",
+            "updatedAt": "2023-09-15T12:36:36.054Z",
+            "tags": [],
+            "classTitle": "dial",
+            "points": {
+                "exterior": [
+                    [
+                        693,
+                        246
+                    ],
+                    [
+                        711,
+                        243
+                    ],
+                    [
+                        726,
+                        254
+                    ],
+                    [
+                        715,
+                        271
+                    ],
+                    [
+                        703,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209183,
+            "classId": 88294,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.053Z",
+            "updatedAt": "2023-09-15T12:36:36.053Z",
+            "tags": [],
+            "classTitle": "pipe",
+            "points": {
+                "exterior": [
+                    [
+                        571,
+                        139
+                    ],
+                    [
+                        556,
+                        94
+                    ],
+                    [
+                        525,
+                        52
+                    ],
+                    [
+                        497,
+                        25
+                    ],
+                    [
+                        430,
+                        6
+                    ],
+                    [
+                        382,
+                        2
+                    ],
+                    [
+                        487,
+                        36
+                    ],
+                    [
+                        495,
+                        65
+                    ],
+                    [
+                        514,
+                        84
+                    ],
+                    [
+                        525,
+                        120
+                    ],
+                    [
+                        533,
+                        164
+                    ],
+                    [
+                        571,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209182,
+            "classId": 54919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.053Z",
+            "updatedAt": "2023-09-15T12:36:36.053Z",
+            "tags": [],
+            "classTitle": "grille",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        873
+                    ],
+                    [
+                        203,
+                        862
+                    ],
+                    [
+                        183,
+                        793
+                    ],
+                    [
+                        162,
+                        726
+                    ],
+                    [
+                        111,
+                        730
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209181,
+            "classId": 54919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.052Z",
+            "updatedAt": "2023-09-15T12:36:36.052Z",
+            "tags": [],
+            "classTitle": "grille",
+            "points": {
+                "exterior": [
+                    [
+                        569,
+                        672
+                    ],
+                    [
+                        535,
+                        676
+                    ],
+                    [
+                        508,
+                        795
+                    ],
+                    [
+                        567,
+                        787
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209180,
+            "classId": 225703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.051Z",
+            "updatedAt": "2023-09-15T12:36:36.051Z",
+            "tags": [],
+            "classTitle": "dial",
+            "points": {
+                "exterior": [
+                    [
+                        355,
+                        480
+                    ],
+                    [
+                        373,
+                        481
+                    ],
+                    [
+                        384,
+                        464
+                    ],
+                    [
+                        374,
+                        453
+                    ],
+                    [
+                        361,
+                        451
+                    ],
+                    [
+                        348,
+                        453
+                    ],
+                    [
+                        342,
+                        460
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209179,
+            "classId": 225703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.050Z",
+            "updatedAt": "2023-09-15T12:36:36.050Z",
+            "tags": [],
+            "classTitle": "dial",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        298
+                    ],
+                    [
+                        292,
+                        288
+                    ],
+                    [
+                        302,
+                        292
+                    ],
+                    [
+                        308,
+                        304
+                    ],
+                    [
+                        302,
+                        319
+                    ],
+                    [
+                        292,
+                        319
+                    ],
+                    [
+                        281,
+                        317
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44209178,
+            "classId": 225703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:36:36.050Z",
+            "updatedAt": "2023-09-15T12:36:36.050Z",
+            "tags": [],
+            "classTitle": "dial",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        340
+                    ],
+                    [
+                        352,
+                        313
+                    ],
+                    [
+                        386,
+                        315
+                    ],
+                    [
+                        384,
+                        342
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

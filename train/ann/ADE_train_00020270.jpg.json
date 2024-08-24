@@ -1,0 +1,120 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4050895,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, sports and leisure, badminton_court indoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:21:29.768Z",
+            "updatedAt": "2023-09-15T12:21:29.768Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 44166123,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:21:29.769Z",
+            "updatedAt": "2023-09-15T12:21:29.769Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        1
+                    ],
+                    [
+                        310,
+                        0
+                    ],
+                    [
+                        317,
+                        133
+                    ],
+                    [
+                        0,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44166122,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:21:29.768Z",
+            "updatedAt": "2023-09-15T12:21:29.768Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        0
+                    ],
+                    [
+                        310,
+                        0
+                    ],
+                    [
+                        318,
+                        133
+                    ],
+                    [
+                        639,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44166121,
+            "classId": 54889,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:21:29.768Z",
+            "updatedAt": "2023-09-15T12:21:29.768Z",
+            "tags": [],
+            "classTitle": "court",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        479
+                    ],
+                    [
+                        639,
+                        146
+                    ],
+                    [
+                        316,
+                        133
+                    ],
+                    [
+                        0,
+                        193
+                    ],
+                    [
+                        0,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

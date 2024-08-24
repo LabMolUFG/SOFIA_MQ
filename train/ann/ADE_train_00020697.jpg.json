@@ -1,0 +1,84 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4068203,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, urban, doorway outdoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:54.949Z",
+            "updatedAt": "2023-09-15T14:04:54.949Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44602473,
+            "classId": 56158,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:54.950Z",
+            "updatedAt": "2023-09-15T14:04:54.950Z",
+            "tags": [],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        1
+                    ],
+                    [
+                        255,
+                        1
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        2,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44602472,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:04:54.949Z",
+            "updatedAt": "2023-09-15T14:04:54.949Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        82,
+                        102
+                    ],
+                    [
+                        208,
+                        105
+                    ],
+                    [
+                        207,
+                        255
+                    ],
+                    [
+                        78,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

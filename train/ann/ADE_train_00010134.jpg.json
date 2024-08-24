@@ -1,0 +1,644 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4076510,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, shopping and dining, kiosk indoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:44:23.404Z",
+            "updatedAt": "2023-09-15T14:44:23.404Z"
+        }
+    ],
+    "size": {
+        "height": 200,
+        "width": 300
+    },
+    "objects": [
+        {
+            "id": 44855258,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:44:23.408Z",
+            "updatedAt": "2023-09-15T14:44:23.408Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        19
+                    ],
+                    [
+                        108,
+                        24
+                    ],
+                    [
+                        263,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44855257,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:44:23.408Z",
+            "updatedAt": "2023-09-15T14:44:23.408Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        129
+                    ],
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        108,
+                        25
+                    ],
+                    [
+                        108,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44855256,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:44:23.407Z",
+            "updatedAt": "2023-09-15T14:44:23.407Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        113
+                    ],
+                    [
+                        108,
+                        24
+                    ],
+                    [
+                        263,
+                        0
+                    ],
+                    [
+                        299,
+                        0
+                    ],
+                    [
+                        299,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44855255,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:44:23.407Z",
+            "updatedAt": "2023-09-15T14:44:23.407Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        129
+                    ],
+                    [
+                        107,
+                        113
+                    ],
+                    [
+                        299,
+                        148
+                    ],
+                    [
+                        299,
+                        199
+                    ],
+                    [
+                        0,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44855254,
+            "classId": 64063,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:44:23.407Z",
+            "updatedAt": "2023-09-15T14:44:23.407Z",
+            "tags": [],
+            "classTitle": "stand",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        140
+                    ],
+                    [
+                        38,
+                        100
+                    ],
+                    [
+                        44,
+                        99
+                    ],
+                    [
+                        44,
+                        67
+                    ],
+                    [
+                        37,
+                        67
+                    ],
+                    [
+                        38,
+                        60
+                    ],
+                    [
+                        62,
+                        41
+                    ],
+                    [
+                        83,
+                        60
+                    ],
+                    [
+                        85,
+                        66
+                    ],
+                    [
+                        81,
+                        67
+                    ],
+                    [
+                        80,
+                        96
+                    ],
+                    [
+                        86,
+                        96
+                    ],
+                    [
+                        86,
+                        104
+                    ],
+                    [
+                        84,
+                        114
+                    ],
+                    [
+                        77,
+                        112
+                    ],
+                    [
+                        69,
+                        121
+                    ],
+                    [
+                        84,
+                        123
+                    ],
+                    [
+                        85,
+                        132
+                    ],
+                    [
+                        79,
+                        131
+                    ],
+                    [
+                        71,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44855253,
+            "classId": 64063,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:44:23.406Z",
+            "updatedAt": "2023-09-15T14:44:23.406Z",
+            "tags": [],
+            "classTitle": "stand",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        159
+                    ],
+                    [
+                        85,
+                        144
+                    ],
+                    [
+                        69,
+                        144
+                    ],
+                    [
+                        77,
+                        131
+                    ],
+                    [
+                        83,
+                        131
+                    ],
+                    [
+                        84,
+                        124
+                    ],
+                    [
+                        69,
+                        121
+                    ],
+                    [
+                        77,
+                        113
+                    ],
+                    [
+                        85,
+                        113
+                    ],
+                    [
+                        85,
+                        106
+                    ],
+                    [
+                        92,
+                        102
+                    ],
+                    [
+                        95,
+                        103
+                    ],
+                    [
+                        93,
+                        83
+                    ],
+                    [
+                        84,
+                        84
+                    ],
+                    [
+                        85,
+                        81
+                    ],
+                    [
+                        93,
+                        80
+                    ],
+                    [
+                        92,
+                        63
+                    ],
+                    [
+                        85,
+                        63
+                    ],
+                    [
+                        85,
+                        56
+                    ],
+                    [
+                        83,
+                        56
+                    ],
+                    [
+                        83,
+                        54
+                    ],
+                    [
+                        87,
+                        54
+                    ],
+                    [
+                        114,
+                        30
+                    ],
+                    [
+                        138,
+                        53
+                    ],
+                    [
+                        142,
+                        52
+                    ],
+                    [
+                        142,
+                        63
+                    ],
+                    [
+                        134,
+                        63
+                    ],
+                    [
+                        134,
+                        79
+                    ],
+                    [
+                        143,
+                        79
+                    ],
+                    [
+                        143,
+                        81
+                    ],
+                    [
+                        135,
+                        83
+                    ],
+                    [
+                        135,
+                        102
+                    ],
+                    [
+                        144,
+                        101
+                    ],
+                    [
+                        143,
+                        112
+                    ],
+                    [
+                        155,
+                        112
+                    ],
+                    [
+                        158,
+                        119
+                    ],
+                    [
+                        144,
+                        121
+                    ],
+                    [
+                        144,
+                        130
+                    ],
+                    [
+                        157,
+                        131
+                    ],
+                    [
+                        159,
+                        141
+                    ],
+                    [
+                        146,
+                        143
+                    ],
+                    [
+                        145,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44855252,
+            "classId": 64063,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:44:23.406Z",
+            "updatedAt": "2023-09-15T14:44:23.406Z",
+            "tags": [],
+            "classTitle": "stand",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        192
+                    ],
+                    [
+                        167,
+                        171
+                    ],
+                    [
+                        166,
+                        112
+                    ],
+                    [
+                        178,
+                        112
+                    ],
+                    [
+                        178,
+                        60
+                    ],
+                    [
+                        166,
+                        62
+                    ],
+                    [
+                        166,
+                        50
+                    ],
+                    [
+                        173,
+                        46
+                    ],
+                    [
+                        177,
+                        46
+                    ],
+                    [
+                        207,
+                        13
+                    ],
+                    [
+                        248,
+                        44
+                    ],
+                    [
+                        255,
+                        45
+                    ],
+                    [
+                        255,
+                        57
+                    ],
+                    [
+                        239,
+                        59
+                    ],
+                    [
+                        240,
+                        112
+                    ],
+                    [
+                        254,
+                        118
+                    ],
+                    [
+                        255,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44855251,
+            "classId": 62633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:44:23.406Z",
+            "updatedAt": "2023-09-15T14:44:23.406Z",
+            "tags": [],
+            "classTitle": "fluorescent tube",
+            "points": {
+                "exterior": [
+                    [
+                        90,
+                        12
+                    ],
+                    [
+                        91,
+                        16
+                    ],
+                    [
+                        89,
+                        18
+                    ],
+                    [
+                        90,
+                        21
+                    ],
+                    [
+                        96,
+                        21
+                    ],
+                    [
+                        148,
+                        8
+                    ],
+                    [
+                        147,
+                        3
+                    ],
+                    [
+                        142,
+                        3
+                    ],
+                    [
+                        141,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44855250,
+            "classId": 62633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:44:23.405Z",
+            "updatedAt": "2023-09-15T14:44:23.405Z",
+            "tags": [],
+            "classTitle": "fluorescent tube",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        15
+                    ],
+                    [
+                        3,
+                        20
+                    ],
+                    [
+                        2,
+                        23
+                    ],
+                    [
+                        85,
+                        27
+                    ],
+                    [
+                        85,
+                        23
+                    ],
+                    [
+                        84,
+                        19
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44855249,
+            "classId": 62633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:44:23.404Z",
+            "updatedAt": "2023-09-15T14:44:23.404Z",
+            "tags": [],
+            "classTitle": "fluorescent tube",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        6
+                    ],
+                    [
+                        185,
+                        13
+                    ],
+                    [
+                        252,
+                        1
+                    ],
+                    [
+                        228,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

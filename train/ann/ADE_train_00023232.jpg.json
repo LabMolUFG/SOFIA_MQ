@@ -1,0 +1,84 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4055490,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, nature landscape, industrial, dam",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:47:50.116Z",
+            "updatedAt": "2023-09-15T12:47:50.116Z"
+        }
+    ],
+    "size": {
+        "height": 577,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 44230365,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:47:50.117Z",
+            "updatedAt": "2023-09-15T12:47:50.117Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        1
+                    ],
+                    [
+                        0,
+                        162
+                    ],
+                    [
+                        1023,
+                        161
+                    ],
+                    [
+                        1023,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44230364,
+            "classId": 56158,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:47:50.117Z",
+            "updatedAt": "2023-09-15T12:47:50.117Z",
+            "tags": [],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        161
+                    ],
+                    [
+                        1023,
+                        159
+                    ],
+                    [
+                        1023,
+                        576
+                    ],
+                    [
+                        1,
+                        576
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

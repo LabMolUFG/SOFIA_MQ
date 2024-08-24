@@ -1,0 +1,84 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4066090,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "unclassified, unclassified, unclassified",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:52:51.066Z",
+            "updatedAt": "2023-09-15T13:52:51.066Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44552872,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:52:51.066Z",
+            "updatedAt": "2023-09-15T13:52:51.066Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        1
+                    ],
+                    [
+                        255,
+                        104
+                    ],
+                    [
+                        2,
+                        95
+                    ],
+                    [
+                        0,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44552871,
+            "classId": 63661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:52:51.066Z",
+            "updatedAt": "2023-09-15T13:52:51.066Z",
+            "tags": [],
+            "classTitle": "sea water",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        102
+                    ],
+                    [
+                        254,
+                        107
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        2,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

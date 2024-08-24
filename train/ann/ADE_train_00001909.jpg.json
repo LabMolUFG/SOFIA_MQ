@@ -1,0 +1,444 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4060308,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, attic",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.772Z",
+            "updatedAt": "2023-09-15T13:19:01.772Z"
+        }
+    ],
+    "size": {
+        "height": 240,
+        "width": 320
+    },
+    "objects": [
+        {
+            "id": 44368535,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.775Z",
+            "updatedAt": "2023-09-15T13:19:01.775Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        94
+                    ],
+                    [
+                        186,
+                        49
+                    ],
+                    [
+                        94,
+                        120
+                    ],
+                    [
+                        0,
+                        134
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        319,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368534,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.775Z",
+            "updatedAt": "2023-09-15T13:19:01.775Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        96,
+                        120
+                    ],
+                    [
+                        185,
+                        49
+                    ],
+                    [
+                        319,
+                        94
+                    ],
+                    [
+                        319,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368533,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.774Z",
+            "updatedAt": "2023-09-15T13:19:01.774Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        205,
+                        91
+                    ],
+                    [
+                        204,
+                        75
+                    ],
+                    [
+                        189,
+                        76
+                    ],
+                    [
+                        189,
+                        91
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368532,
+            "classId": 87014,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.774Z",
+            "updatedAt": "2023-09-15T13:19:01.774Z",
+            "tags": [],
+            "classTitle": "beam",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        49
+                    ],
+                    [
+                        271,
+                        6
+                    ],
+                    [
+                        257,
+                        1
+                    ],
+                    [
+                        319,
+                        0
+                    ],
+                    [
+                        319,
+                        19
+                    ],
+                    [
+                        0,
+                        66
+                    ],
+                    [
+                        0,
+                        49
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368531,
+            "classId": 87014,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.774Z",
+            "updatedAt": "2023-09-15T13:19:01.774Z",
+            "tags": [],
+            "classTitle": "beam",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        53
+                    ],
+                    [
+                        50,
+                        81
+                    ],
+                    [
+                        58,
+                        73
+                    ],
+                    [
+                        263,
+                        45
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368530,
+            "classId": 59069,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.774Z",
+            "updatedAt": "2023-09-15T13:19:01.774Z",
+            "tags": [],
+            "classTitle": "column",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        129
+                    ],
+                    [
+                        158,
+                        130
+                    ],
+                    [
+                        154,
+                        129
+                    ],
+                    [
+                        149,
+                        42
+                    ],
+                    [
+                        148,
+                        10
+                    ],
+                    [
+                        154,
+                        11
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368529,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.774Z",
+            "updatedAt": "2023-09-15T13:19:01.774Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        133
+                    ],
+                    [
+                        96,
+                        120
+                    ],
+                    [
+                        319,
+                        115
+                    ],
+                    [
+                        319,
+                        239
+                    ],
+                    [
+                        0,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368528,
+            "classId": 87014,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.773Z",
+            "updatedAt": "2023-09-15T13:19:01.773Z",
+            "tags": [],
+            "classTitle": "beam",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        154
+                    ],
+                    [
+                        38,
+                        154
+                    ],
+                    [
+                        44,
+                        151
+                    ],
+                    [
+                        37,
+                        61
+                    ],
+                    [
+                        24,
+                        64
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368527,
+            "classId": 87014,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.773Z",
+            "updatedAt": "2023-09-15T13:19:01.773Z",
+            "tags": [],
+            "classTitle": "beam",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        147
+                    ],
+                    [
+                        66,
+                        146
+                    ],
+                    [
+                        69,
+                        144
+                    ],
+                    [
+                        62,
+                        58
+                    ],
+                    [
+                        51,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368526,
+            "classId": 87014,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.773Z",
+            "updatedAt": "2023-09-15T13:19:01.773Z",
+            "tags": [],
+            "classTitle": "beam",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        143
+                    ],
+                    [
+                        89,
+                        141
+                    ],
+                    [
+                        82,
+                        62
+                    ],
+                    [
+                        73,
+                        64
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368525,
+            "classId": 87014,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.772Z",
+            "updatedAt": "2023-09-15T13:19:01.772Z",
+            "tags": [],
+            "classTitle": "beam",
+            "points": {
+                "exterior": [
+                    [
+                        105,
+                        138
+                    ],
+                    [
+                        97,
+                        138
+                    ],
+                    [
+                        94,
+                        77
+                    ],
+                    [
+                        102,
+                        76
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44368524,
+            "classId": 87014,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:19:01.772Z",
+            "updatedAt": "2023-09-15T13:19:01.772Z",
+            "tags": [],
+            "classTitle": "beam",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        132
+                    ],
+                    [
+                        111,
+                        133
+                    ],
+                    [
+                        107,
+                        76
+                    ],
+                    [
+                        115,
+                        75
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

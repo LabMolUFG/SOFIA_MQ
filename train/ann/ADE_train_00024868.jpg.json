@@ -1,0 +1,152 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4059442,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, bow_window indoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:18.277Z",
+            "updatedAt": "2023-09-15T13:13:18.277Z"
+        }
+    ],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 44336966,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:18.277Z",
+            "updatedAt": "2023-09-15T13:13:18.277Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        2
+                    ],
+                    [
+                        1023,
+                        0
+                    ],
+                    [
+                        1023,
+                        766
+                    ],
+                    [
+                        506,
+                        767
+                    ],
+                    [
+                        0,
+                        630
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336965,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:18.277Z",
+            "updatedAt": "2023-09-15T13:13:18.277Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        629
+                    ],
+                    [
+                        502,
+                        767
+                    ],
+                    [
+                        2,
+                        767
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336964,
+            "classId": 58286,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:18.277Z",
+            "updatedAt": "2023-09-15T13:13:18.277Z",
+            "tags": [],
+            "classTitle": "sign",
+            "points": {
+                "exterior": [
+                    [
+                        368,
+                        402
+                    ],
+                    [
+                        365,
+                        289
+                    ],
+                    [
+                        642,
+                        296
+                    ],
+                    [
+                        643,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44336963,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:13:18.277Z",
+            "updatedAt": "2023-09-15T13:13:18.277Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        103,
+                        270
+                    ],
+                    [
+                        95,
+                        2
+                    ],
+                    [
+                        1023,
+                        1
+                    ],
+                    [
+                        1023,
+                        71
+                    ],
+                    [
+                        1020,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

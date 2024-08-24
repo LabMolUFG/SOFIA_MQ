@@ -1,0 +1,160 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4056875,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, cultural, voting_booth",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:55:04.139Z",
+            "updatedAt": "2023-09-15T12:55:04.139Z"
+        }
+    ],
+    "size": {
+        "height": 500,
+        "width": 375
+    },
+    "objects": [
+        {
+            "id": 44250786,
+            "classId": 1949314,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:55:04.140Z",
+            "updatedAt": "2023-09-15T12:55:04.140Z",
+            "tags": [],
+            "classTitle": "voting booth",
+            "points": {
+                "exterior": [
+                    [
+                        372,
+                        478
+                    ],
+                    [
+                        374,
+                        44
+                    ],
+                    [
+                        260,
+                        60
+                    ],
+                    [
+                        251,
+                        58
+                    ],
+                    [
+                        234,
+                        58
+                    ],
+                    [
+                        223,
+                        45
+                    ],
+                    [
+                        26,
+                        46
+                    ],
+                    [
+                        2,
+                        52
+                    ],
+                    [
+                        0,
+                        498
+                    ],
+                    [
+                        373,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44250785,
+            "classId": 1953209,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:55:04.140Z",
+            "updatedAt": "2023-09-15T12:55:04.140Z",
+            "tags": [],
+            "classTitle": "voting instructions",
+            "points": {
+                "exterior": [
+                    [
+                        43,
+                        111
+                    ],
+                    [
+                        190,
+                        108
+                    ],
+                    [
+                        185,
+                        218
+                    ],
+                    [
+                        46,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44250784,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:55:04.140Z",
+            "updatedAt": "2023-09-15T12:55:04.140Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        2,
+                        51
+                    ],
+                    [
+                        21,
+                        45
+                    ],
+                    [
+                        222,
+                        42
+                    ],
+                    [
+                        234,
+                        58
+                    ],
+                    [
+                        251,
+                        58
+                    ],
+                    [
+                        259,
+                        60
+                    ],
+                    [
+                        372,
+                        42
+                    ],
+                    [
+                        374,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

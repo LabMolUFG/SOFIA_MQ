@@ -1,0 +1,124 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4053833,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, nature landscape, field cultivated",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:40:47.583Z",
+            "updatedAt": "2023-09-15T12:40:47.583Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44216381,
+            "classId": 1446829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:40:47.584Z",
+            "updatedAt": "2023-09-15T12:40:47.584Z",
+            "tags": [],
+            "classTitle": "grass field",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        52
+                    ],
+                    [
+                        255,
+                        105
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        1,
+                        255
+                    ],
+                    [
+                        1,
+                        44
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44216380,
+            "classId": 55663,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:40:47.584Z",
+            "updatedAt": "2023-09-15T12:40:47.584Z",
+            "tags": [],
+            "classTitle": "trees",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        25
+                    ],
+                    [
+                        255,
+                        50
+                    ],
+                    [
+                        3,
+                        44
+                    ],
+                    [
+                        0,
+                        22
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44216379,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:40:47.584Z",
+            "updatedAt": "2023-09-15T12:40:47.584Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        255,
+                        0
+                    ],
+                    [
+                        254,
+                        23
+                    ],
+                    [
+                        252,
+                        25
+                    ],
+                    [
+                        0,
+                        19
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

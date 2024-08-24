@@ -1,0 +1,120 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4052580,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, transportation, doorway indoor",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:02.692Z",
+            "updatedAt": "2023-09-15T12:34:02.692Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 44198401,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:02.694Z",
+            "updatedAt": "2023-09-15T12:34:02.694Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        1
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        478
+                    ],
+                    [
+                        112,
+                        476
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44198400,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:02.693Z",
+            "updatedAt": "2023-09-15T12:34:02.693Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        570,
+                        478
+                    ],
+                    [
+                        638,
+                        478
+                    ],
+                    [
+                        639,
+                        0
+                    ],
+                    [
+                        568,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44198399,
+            "classId": 61904,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:34:02.692Z",
+            "updatedAt": "2023-09-15T12:34:02.692Z",
+            "tags": [],
+            "classTitle": "double door",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        0
+                    ],
+                    [
+                        567,
+                        0
+                    ],
+                    [
+                        569,
+                        479
+                    ],
+                    [
+                        113,
+                        479
+                    ],
+                    [
+                        113,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

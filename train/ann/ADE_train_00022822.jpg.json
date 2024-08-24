@@ -1,0 +1,188 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4061754,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, basement",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:14.288Z",
+            "updatedAt": "2023-09-15T13:28:14.288Z"
+        }
+    ],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 44435602,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:14.289Z",
+            "updatedAt": "2023-09-15T13:28:14.289Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        727
+                    ],
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        1023,
+                        1
+                    ],
+                    [
+                        1023,
+                        591
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44435601,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:14.289Z",
+            "updatedAt": "2023-09-15T13:28:14.289Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        524,
+                        150
+                    ],
+                    [
+                        804,
+                        152
+                    ],
+                    [
+                        806,
+                        1
+                    ],
+                    [
+                        522,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44435600,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:14.289Z",
+            "updatedAt": "2023-09-15T13:28:14.289Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        1023,
+                        767
+                    ],
+                    [
+                        1023,
+                        591
+                    ],
+                    [
+                        670,
+                        637
+                    ],
+                    [
+                        275,
+                        689
+                    ],
+                    [
+                        1,
+                        726
+                    ],
+                    [
+                        0,
+                        767
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44435599,
+            "classId": 89599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:14.289Z",
+            "updatedAt": "2023-09-15T13:28:14.289Z",
+            "tags": [],
+            "classTitle": "outlet",
+            "points": {
+                "exterior": [
+                    [
+                        818,
+                        455
+                    ],
+                    [
+                        832,
+                        455
+                    ],
+                    [
+                        833,
+                        479
+                    ],
+                    [
+                        818,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44435598,
+            "classId": 89599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:14.288Z",
+            "updatedAt": "2023-09-15T13:28:14.288Z",
+            "tags": [],
+            "classTitle": "outlet",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        503
+                    ],
+                    [
+                        372,
+                        531
+                    ],
+                    [
+                        390,
+                        529
+                    ],
+                    [
+                        389,
+                        502
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

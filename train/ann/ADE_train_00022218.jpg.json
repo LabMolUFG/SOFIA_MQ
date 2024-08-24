@@ -1,0 +1,100 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4078593,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, industrial, spillway",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:52:45.254Z",
+            "updatedAt": "2023-09-15T14:52:45.254Z"
+        }
+    ],
+    "size": {
+        "height": 207,
+        "width": 276
+    },
+    "objects": [
+        {
+            "id": 44901548,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:52:45.255Z",
+            "updatedAt": "2023-09-15T14:52:45.255Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        41
+                    ],
+                    [
+                        11,
+                        43
+                    ],
+                    [
+                        15,
+                        64
+                    ],
+                    [
+                        275,
+                        98
+                    ],
+                    [
+                        275,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44901547,
+            "classId": 144136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:52:45.255Z",
+            "updatedAt": "2023-09-15T14:52:45.255Z",
+            "tags": [],
+            "classTitle": "dam",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        42
+                    ],
+                    [
+                        11,
+                        42
+                    ],
+                    [
+                        15,
+                        64
+                    ],
+                    [
+                        275,
+                        97
+                    ],
+                    [
+                        275,
+                        206
+                    ],
+                    [
+                        0,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

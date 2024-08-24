@@ -1,0 +1,380 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4061841,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, crawl_space",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.626Z",
+            "updatedAt": "2023-09-15T13:28:32.626Z"
+        }
+    ],
+    "size": {
+        "height": 220,
+        "width": 330
+    },
+    "objects": [
+        {
+            "id": 44437379,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.628Z",
+            "updatedAt": "2023-09-15T13:28:32.628Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        328,
+                        0
+                    ],
+                    [
+                        329,
+                        77
+                    ],
+                    [
+                        301,
+                        50
+                    ],
+                    [
+                        283,
+                        49
+                    ],
+                    [
+                        248,
+                        80
+                    ],
+                    [
+                        46,
+                        120
+                    ],
+                    [
+                        28,
+                        112
+                    ],
+                    [
+                        34,
+                        106
+                    ],
+                    [
+                        0,
+                        100
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437378,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.628Z",
+            "updatedAt": "2023-09-15T13:28:32.628Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        81
+                    ],
+                    [
+                        283,
+                        49
+                    ],
+                    [
+                        302,
+                        50
+                    ],
+                    [
+                        329,
+                        78
+                    ],
+                    [
+                        329,
+                        86
+                    ],
+                    [
+                        281,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437377,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.627Z",
+            "updatedAt": "2023-09-15T13:28:32.627Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        51
+                    ],
+                    [
+                        301,
+                        51
+                    ],
+                    [
+                        299,
+                        82
+                    ],
+                    [
+                        283,
+                        81
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437376,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.627Z",
+            "updatedAt": "2023-09-15T13:28:32.627Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        98
+                    ],
+                    [
+                        33,
+                        105
+                    ],
+                    [
+                        28,
+                        111
+                    ],
+                    [
+                        46,
+                        121
+                    ],
+                    [
+                        247,
+                        81
+                    ],
+                    [
+                        329,
+                        86
+                    ],
+                    [
+                        329,
+                        219
+                    ],
+                    [
+                        0,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437375,
+            "classId": 87014,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.627Z",
+            "updatedAt": "2023-09-15T13:28:32.627Z",
+            "tags": [],
+            "classTitle": "beam",
+            "points": {
+                "exterior": [
+                    [
+                        92,
+                        174
+                    ],
+                    [
+                        93,
+                        178
+                    ],
+                    [
+                        99,
+                        178
+                    ],
+                    [
+                        105,
+                        0
+                    ],
+                    [
+                        96,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437374,
+            "classId": 56713,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.627Z",
+            "updatedAt": "2023-09-15T13:28:32.627Z",
+            "tags": [],
+            "classTitle": "ceiling spotlight",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        2
+                    ],
+                    [
+                        284,
+                        10
+                    ],
+                    [
+                        286,
+                        19
+                    ],
+                    [
+                        295,
+                        20
+                    ],
+                    [
+                        303,
+                        18
+                    ],
+                    [
+                        303,
+                        9
+                    ],
+                    [
+                        297,
+                        2
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437373,
+            "classId": 56713,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.627Z",
+            "updatedAt": "2023-09-15T13:28:32.627Z",
+            "tags": [],
+            "classTitle": "ceiling spotlight",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        24
+                    ],
+                    [
+                        286,
+                        32
+                    ],
+                    [
+                        299,
+                        32
+                    ],
+                    [
+                        300,
+                        23
+                    ],
+                    [
+                        296,
+                        20
+                    ],
+                    [
+                        290,
+                        20
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437372,
+            "classId": 56713,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.626Z",
+            "updatedAt": "2023-09-15T13:28:32.626Z",
+            "tags": [],
+            "classTitle": "ceiling spotlight",
+            "points": {
+                "exterior": [
+                    [
+                        287,
+                        42
+                    ],
+                    [
+                        287,
+                        34
+                    ],
+                    [
+                        298,
+                        34
+                    ],
+                    [
+                        297,
+                        41
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437371,
+            "classId": 56713,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.626Z",
+            "updatedAt": "2023-09-15T13:28:32.626Z",
+            "tags": [],
+            "classTitle": "ceiling spotlight",
+            "points": {
+                "exterior": [
+                    [
+                        287,
+                        45
+                    ],
+                    [
+                        297,
+                        43
+                    ],
+                    [
+                        298,
+                        48
+                    ],
+                    [
+                        289,
+                        49
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

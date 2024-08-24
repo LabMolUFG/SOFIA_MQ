@@ -1,0 +1,163 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4051836,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, sports and leisure, arena basketball",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:29:04.795Z",
+            "updatedAt": "2023-09-15T12:29:04.795Z"
+        }
+    ],
+    "size": {
+        "height": 238,
+        "width": 300
+    },
+    "objects": [
+        {
+            "id": 44183568,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:29:04.798Z",
+            "updatedAt": "2023-09-15T12:29:04.798Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        0
+                    ],
+                    [
+                        32,
+                        11
+                    ],
+                    [
+                        121,
+                        9
+                    ],
+                    [
+                        182,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44183567,
+            "classId": 56774,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:29:04.797Z",
+            "updatedAt": "2023-09-15T12:29:04.797Z",
+            "tags": [],
+            "classTitle": "grandstand",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        0
+                    ],
+                    [
+                        30,
+                        11
+                    ],
+                    [
+                        116,
+                        9
+                    ],
+                    [
+                        182,
+                        0
+                    ],
+                    [
+                        299,
+                        0
+                    ],
+                    [
+                        299,
+                        237
+                    ],
+                    [
+                        0,
+                        237
+                    ],
+                    [
+                        0,
+                        131
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "interior": [
+                    [
+                        [
+                            22,
+                            134
+                        ],
+                        [
+                            126,
+                            193
+                        ],
+                        [
+                            219,
+                            141
+                        ],
+                        [
+                            99,
+                            114
+                        ],
+                        [
+                            23,
+                            133
+                        ],
+                        [
+                            0,
+                            131
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": 44183566,
+            "classId": 54889,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:29:04.796Z",
+            "updatedAt": "2023-09-15T12:29:04.796Z",
+            "tags": [],
+            "classTitle": "court",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        191
+                    ],
+                    [
+                        24,
+                        134
+                    ],
+                    [
+                        99,
+                        114
+                    ],
+                    [
+                        216,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

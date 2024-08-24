@@ -1,0 +1,88 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4055220,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, nature landscape, ocean",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:50.905Z",
+            "updatedAt": "2023-09-15T12:46:50.905Z"
+        }
+    ],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 44228208,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:50.907Z",
+            "updatedAt": "2023-09-15T12:46:50.907Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        1023,
+                        345
+                    ],
+                    [
+                        1022,
+                        0
+                    ],
+                    [
+                        3,
+                        1
+                    ],
+                    [
+                        1,
+                        344
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44228207,
+            "classId": 63661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:50.906Z",
+            "updatedAt": "2023-09-15T12:46:50.906Z",
+            "tags": [],
+            "classTitle": "sea water",
+            "points": {
+                "exterior": [
+                    [
+                        1022,
+                        680
+                    ],
+                    [
+                        1022,
+                        343
+                    ],
+                    [
+                        560,
+                        343
+                    ],
+                    [
+                        3,
+                        343
+                    ],
+                    [
+                        2,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

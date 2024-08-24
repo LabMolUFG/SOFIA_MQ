@@ -1,0 +1,184 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4061829,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, crawl_space",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.614Z",
+            "updatedAt": "2023-09-15T13:28:32.614Z"
+        }
+    ],
+    "size": {
+        "height": 252,
+        "width": 336
+    },
+    "objects": [
+        {
+            "id": 44437277,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.615Z",
+            "updatedAt": "2023-09-15T13:28:32.615Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        0
+                    ],
+                    [
+                        335,
+                        90
+                    ],
+                    [
+                        235,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437276,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.615Z",
+            "updatedAt": "2023-09-15T13:28:32.615Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        2
+                    ],
+                    [
+                        0,
+                        103
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        235,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437275,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.615Z",
+            "updatedAt": "2023-09-15T13:28:32.615Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        103
+                    ],
+                    [
+                        109,
+                        1
+                    ],
+                    [
+                        235,
+                        0
+                    ],
+                    [
+                        335,
+                        90
+                    ],
+                    [
+                        335,
+                        138
+                    ],
+                    [
+                        0,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437274,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.614Z",
+            "updatedAt": "2023-09-15T13:28:32.614Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        137
+                    ],
+                    [
+                        335,
+                        138
+                    ],
+                    [
+                        335,
+                        251
+                    ],
+                    [
+                        0,
+                        251
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44437273,
+            "classId": 54919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:28:32.614Z",
+            "updatedAt": "2023-09-15T13:28:32.614Z",
+            "tags": [],
+            "classTitle": "grille",
+            "points": {
+                "exterior": [
+                    [
+                        160,
+                        11
+                    ],
+                    [
+                        187,
+                        10
+                    ],
+                    [
+                        187,
+                        66
+                    ],
+                    [
+                        159,
+                        65
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

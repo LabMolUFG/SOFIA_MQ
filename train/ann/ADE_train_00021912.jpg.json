@@ -1,0 +1,140 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4055171,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, nature landscape, ocean",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:33.690Z",
+            "updatedAt": "2023-09-15T12:46:33.690Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44227959,
+            "classId": 142454,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:33.692Z",
+            "updatedAt": "2023-09-15T12:46:33.692Z",
+            "tags": [],
+            "classTitle": "sun",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        51
+                    ],
+                    [
+                        125,
+                        56
+                    ],
+                    [
+                        126,
+                        61
+                    ],
+                    [
+                        129,
+                        63
+                    ],
+                    [
+                        136,
+                        63
+                    ],
+                    [
+                        139,
+                        59
+                    ],
+                    [
+                        139,
+                        54
+                    ],
+                    [
+                        136,
+                        50
+                    ],
+                    [
+                        132,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44227958,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:33.692Z",
+            "updatedAt": "2023-09-15T12:46:33.692Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        91
+                    ],
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        255,
+                        0
+                    ],
+                    [
+                        254,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44227957,
+            "classId": 63661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:46:33.691Z",
+            "updatedAt": "2023-09-15T12:46:33.691Z",
+            "tags": [],
+            "classTitle": "sea water",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        90
+                    ],
+                    [
+                        255,
+                        92
+                    ],
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        128,
+                        255
+                    ],
+                    [
+                        0,
+                        254
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

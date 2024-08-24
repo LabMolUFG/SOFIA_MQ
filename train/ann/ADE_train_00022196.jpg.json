@@ -1,0 +1,100 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4071170,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, skyscraper",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:22:17.482Z",
+            "updatedAt": "2023-09-15T14:22:17.482Z"
+        }
+    ],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 44741852,
+            "classId": 572536,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:22:17.482Z",
+            "updatedAt": "2023-09-15T14:22:17.482Z",
+            "tags": [],
+            "classTitle": "skyscraper",
+            "points": {
+                "exterior": [
+                    [
+                        1022,
+                        318
+                    ],
+                    [
+                        726,
+                        14
+                    ],
+                    [
+                        515,
+                        72
+                    ],
+                    [
+                        0,
+                        337
+                    ],
+                    [
+                        0,
+                        765
+                    ],
+                    [
+                        1022,
+                        765
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44741851,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:22:17.482Z",
+            "updatedAt": "2023-09-15T14:22:17.482Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        1022,
+                        312
+                    ],
+                    [
+                        1022,
+                        0
+                    ],
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        0,
+                        333
+                    ],
+                    [
+                        512,
+                        74
+                    ],
+                    [
+                        723,
+                        11
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

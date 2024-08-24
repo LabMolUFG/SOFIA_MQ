@@ -1,0 +1,164 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4071548,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, field_road",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:23:41.654Z",
+            "updatedAt": "2023-09-15T14:23:41.654Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44746850,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:23:41.660Z",
+            "updatedAt": "2023-09-15T14:23:41.660Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        78
+                    ],
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        255,
+                        1
+                    ],
+                    [
+                        255,
+                        73
+                    ],
+                    [
+                        134,
+                        75
+                    ],
+                    [
+                        59,
+                        76
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44746849,
+            "classId": 56836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:23:41.659Z",
+            "updatedAt": "2023-09-15T14:23:41.659Z",
+            "tags": [],
+            "classTitle": "field",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        111
+                    ],
+                    [
+                        0,
+                        78
+                    ],
+                    [
+                        119,
+                        75
+                    ],
+                    [
+                        56,
+                        94
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44746848,
+            "classId": 56836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:23:41.657Z",
+            "updatedAt": "2023-09-15T14:23:41.657Z",
+            "tags": [],
+            "classTitle": "field",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        113
+                    ],
+                    [
+                        255,
+                        72
+                    ],
+                    [
+                        128,
+                        75
+                    ],
+                    [
+                        184,
+                        93
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44746847,
+            "classId": 56261,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:23:41.655Z",
+            "updatedAt": "2023-09-15T14:23:41.655Z",
+            "tags": [],
+            "classTitle": "road",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        255
+                    ],
+                    [
+                        255,
+                        112
+                    ],
+                    [
+                        129,
+                        75
+                    ],
+                    [
+                        119,
+                        76
+                    ],
+                    [
+                        2,
+                        111
+                    ],
+                    [
+                        0,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

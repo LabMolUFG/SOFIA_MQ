@@ -1,0 +1,596 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4060027,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "indoor, home or hotel, shower",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:17:07.530Z",
+            "updatedAt": "2023-09-15T13:17:07.530Z"
+        }
+    ],
+    "size": {
+        "height": 562,
+        "width": 450
+    },
+    "objects": [
+        {
+            "id": 44360423,
+            "classId": 54884,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:17:07.538Z",
+            "updatedAt": "2023-09-15T13:17:07.538Z",
+            "tags": [],
+            "classTitle": "ceiling",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        3
+                    ],
+                    [
+                        196,
+                        82
+                    ],
+                    [
+                        448,
+                        62
+                    ],
+                    [
+                        448,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44360422,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:17:07.537Z",
+            "updatedAt": "2023-09-15T13:17:07.537Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        1
+                    ],
+                    [
+                        38,
+                        1
+                    ],
+                    [
+                        86,
+                        24
+                    ],
+                    [
+                        97,
+                        560
+                    ],
+                    [
+                        74,
+                        557
+                    ],
+                    [
+                        63,
+                        115
+                    ],
+                    [
+                        2,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44360421,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:17:07.537Z",
+            "updatedAt": "2023-09-15T13:17:07.537Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        136
+                    ],
+                    [
+                        0,
+                        99
+                    ],
+                    [
+                        63,
+                        116
+                    ],
+                    [
+                        73,
+                        561
+                    ],
+                    [
+                        0,
+                        558
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44360420,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:17:07.536Z",
+            "updatedAt": "2023-09-15T13:17:07.536Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        503
+                    ],
+                    [
+                        193,
+                        81
+                    ],
+                    [
+                        87,
+                        25
+                    ],
+                    [
+                        99,
+                        557
+                    ],
+                    [
+                        140,
+                        559
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44360419,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:17:07.536Z",
+            "updatedAt": "2023-09-15T13:17:07.536Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        449,
+                        538
+                    ],
+                    [
+                        199,
+                        503
+                    ],
+                    [
+                        193,
+                        80
+                    ],
+                    [
+                        449,
+                        63
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44360418,
+            "classId": 55073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:17:07.535Z",
+            "updatedAt": "2023-09-15T13:17:07.535Z",
+            "tags": [],
+            "classTitle": "floor",
+            "points": {
+                "exterior": [
+                    [
+                        447,
+                        560
+                    ],
+                    [
+                        448,
+                        537
+                    ],
+                    [
+                        199,
+                        502
+                    ],
+                    [
+                        141,
+                        561
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44360417,
+            "classId": 283709,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:17:07.533Z",
+            "updatedAt": "2023-09-15T13:17:07.533Z",
+            "tags": [],
+            "classTitle": "shower",
+            "points": {
+                "exterior": [
+                    [
+                        156,
+                        125
+                    ],
+                    [
+                        151,
+                        135
+                    ],
+                    [
+                        155,
+                        141
+                    ],
+                    [
+                        157,
+                        144
+                    ],
+                    [
+                        164,
+                        140
+                    ],
+                    [
+                        181,
+                        142
+                    ],
+                    [
+                        185,
+                        152
+                    ],
+                    [
+                        190,
+                        154
+                    ],
+                    [
+                        192,
+                        142
+                    ],
+                    [
+                        192,
+                        134
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44360416,
+            "classId": 283709,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:17:07.533Z",
+            "updatedAt": "2023-09-15T13:17:07.533Z",
+            "tags": [],
+            "classTitle": "shower",
+            "points": {
+                "exterior": [
+                    [
+                        156,
+                        276
+                    ],
+                    [
+                        150,
+                        297
+                    ],
+                    [
+                        151,
+                        310
+                    ],
+                    [
+                        159,
+                        313
+                    ],
+                    [
+                        164,
+                        313
+                    ],
+                    [
+                        169,
+                        304
+                    ],
+                    [
+                        169,
+                        298
+                    ],
+                    [
+                        168,
+                        319
+                    ],
+                    [
+                        173,
+                        300
+                    ],
+                    [
+                        192,
+                        183
+                    ],
+                    [
+                        180,
+                        185
+                    ],
+                    [
+                        182,
+                        181
+                    ],
+                    [
+                        195,
+                        177
+                    ],
+                    [
+                        202,
+                        163
+                    ],
+                    [
+                        208,
+                        151
+                    ],
+                    [
+                        218,
+                        148
+                    ],
+                    [
+                        222,
+                        159
+                    ],
+                    [
+                        212,
+                        163
+                    ],
+                    [
+                        200,
+                        180
+                    ],
+                    [
+                        193,
+                        231
+                    ],
+                    [
+                        180,
+                        288
+                    ],
+                    [
+                        177,
+                        314
+                    ],
+                    [
+                        170,
+                        340
+                    ],
+                    [
+                        173,
+                        344
+                    ],
+                    [
+                        185,
+                        344
+                    ],
+                    [
+                        183,
+                        303
+                    ],
+                    [
+                        182,
+                        281
+                    ],
+                    [
+                        191,
+                        322
+                    ],
+                    [
+                        191,
+                        349
+                    ],
+                    [
+                        176,
+                        355
+                    ],
+                    [
+                        165,
+                        338
+                    ],
+                    [
+                        173,
+                        288
+                    ],
+                    [
+                        169,
+                        288
+                    ],
+                    [
+                        162,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44360415,
+            "classId": 55114,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:17:07.532Z",
+            "updatedAt": "2023-09-15T13:17:07.532Z",
+            "tags": [],
+            "classTitle": "ceiling recessed light",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        38
+                    ],
+                    [
+                        257,
+                        38
+                    ],
+                    [
+                        250,
+                        40
+                    ],
+                    [
+                        247,
+                        49
+                    ],
+                    [
+                        254,
+                        55
+                    ],
+                    [
+                        266,
+                        56
+                    ],
+                    [
+                        276,
+                        56
+                    ],
+                    [
+                        292,
+                        49
+                    ],
+                    [
+                        292,
+                        42
+                    ],
+                    [
+                        283,
+                        37
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44360414,
+            "classId": 151463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:17:07.532Z",
+            "updatedAt": "2023-09-15T13:17:07.532Z",
+            "tags": [],
+            "classTitle": "switch",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        385
+                    ],
+                    [
+                        90,
+                        381
+                    ],
+                    [
+                        89,
+                        350
+                    ],
+                    [
+                        76,
+                        353
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44360413,
+            "classId": 110161,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T13:17:07.531Z",
+            "updatedAt": "2023-09-15T13:17:07.531Z",
+            "tags": [],
+            "classTitle": "knob",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        422
+                    ],
+                    [
+                        53,
+                        428
+                    ],
+                    [
+                        51,
+                        436
+                    ],
+                    [
+                        51,
+                        441
+                    ],
+                    [
+                        56,
+                        445
+                    ],
+                    [
+                        59,
+                        445
+                    ],
+                    [
+                        65,
+                        438
+                    ],
+                    [
+                        67,
+                        443
+                    ],
+                    [
+                        74,
+                        441
+                    ],
+                    [
+                        75,
+                        433
+                    ],
+                    [
+                        71,
+                        426
+                    ],
+                    [
+                        67,
+                        426
+                    ],
+                    [
+                        65,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

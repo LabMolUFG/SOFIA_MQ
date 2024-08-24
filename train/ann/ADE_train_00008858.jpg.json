@@ -1,0 +1,88 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4051171,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, sports and leisure, handball_court",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:23:52.919Z",
+            "updatedAt": "2023-09-15T12:23:52.919Z"
+        }
+    ],
+    "size": {
+        "height": 292,
+        "width": 400
+    },
+    "objects": [
+        {
+            "id": 44170671,
+            "classId": 54886,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:23:52.921Z",
+            "updatedAt": "2023-09-15T12:23:52.921Z",
+            "tags": [],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        399,
+                        0
+                    ],
+                    [
+                        399,
+                        210
+                    ],
+                    [
+                        0,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44170670,
+            "classId": 56059,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T12:23:52.920Z",
+            "updatedAt": "2023-09-15T12:23:52.920Z",
+            "tags": [],
+            "classTitle": "ground",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        211
+                    ],
+                    [
+                        176,
+                        210
+                    ],
+                    [
+                        399,
+                        209
+                    ],
+                    [
+                        399,
+                        291
+                    ],
+                    [
+                        0,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

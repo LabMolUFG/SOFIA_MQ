@@ -1,0 +1,1604 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4070897,
+            "tagId": 17055,
+            "name": "scene",
+            "value": "outdoor, urban, building_facade",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.421Z",
+            "updatedAt": "2023-09-15T14:21:10.421Z"
+        }
+    ],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 44737287,
+            "classId": 55703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.432Z",
+            "updatedAt": "2023-09-15T14:21:10.432Z",
+            "tags": [],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        60
+                    ],
+                    [
+                        2,
+                        1
+                    ],
+                    [
+                        255,
+                        1
+                    ],
+                    [
+                        255,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737286,
+            "classId": 56158,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.432Z",
+            "updatedAt": "2023-09-15T14:21:10.432Z",
+            "tags": [],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        61
+                    ],
+                    [
+                        255,
+                        116
+                    ],
+                    [
+                        255,
+                        201
+                    ],
+                    [
+                        135,
+                        215
+                    ],
+                    [
+                        0,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737285,
+            "classId": 68413,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.432Z",
+            "updatedAt": "2023-09-15T14:21:10.432Z",
+            "tags": [],
+            "classTitle": "clock",
+            "points": {
+                "exterior": [
+                    [
+                        13,
+                        111
+                    ],
+                    [
+                        8,
+                        99
+                    ],
+                    [
+                        13,
+                        91
+                    ],
+                    [
+                        18,
+                        85
+                    ],
+                    [
+                        26,
+                        81
+                    ],
+                    [
+                        31,
+                        88
+                    ],
+                    [
+                        36,
+                        95
+                    ],
+                    [
+                        43,
+                        105
+                    ],
+                    [
+                        36,
+                        112
+                    ],
+                    [
+                        31,
+                        119
+                    ],
+                    [
+                        25,
+                        123
+                    ],
+                    [
+                        18,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737284,
+            "classId": 64199,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.432Z",
+            "updatedAt": "2023-09-15T14:21:10.432Z",
+            "tags": [],
+            "classTitle": "sidewalk",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        220
+                    ],
+                    [
+                        131,
+                        224
+                    ],
+                    [
+                        2,
+                        239
+                    ],
+                    [
+                        2,
+                        234
+                    ],
+                    [
+                        120,
+                        216
+                    ],
+                    [
+                        220,
+                        206
+                    ],
+                    [
+                        255,
+                        207
+                    ],
+                    [
+                        255,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737283,
+            "classId": 55444,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.431Z",
+            "updatedAt": "2023-09-15T14:21:10.431Z",
+            "tags": [],
+            "classTitle": "grass",
+            "points": {
+                "exterior": [
+                    [
+                        210,
+                        227
+                    ],
+                    [
+                        7,
+                        255
+                    ],
+                    [
+                        0,
+                        255
+                    ],
+                    [
+                        2,
+                        239
+                    ],
+                    [
+                        60,
+                        232
+                    ],
+                    [
+                        109,
+                        226
+                    ],
+                    [
+                        167,
+                        219
+                    ],
+                    [
+                        255,
+                        220
+                    ],
+                    [
+                        255,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737282,
+            "classId": 1198711,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.430Z",
+            "updatedAt": "2023-09-15T14:21:10.430Z",
+            "tags": [],
+            "classTitle": "subway",
+            "points": {
+                "exterior": [
+                    [
+                        210,
+                        225
+                    ],
+                    [
+                        255,
+                        228
+                    ],
+                    [
+                        254,
+                        236
+                    ],
+                    [
+                        171,
+                        255
+                    ],
+                    [
+                        3,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737281,
+            "classId": 65323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.430Z",
+            "updatedAt": "2023-09-15T14:21:10.430Z",
+            "tags": [],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        20,
+                        39
+                    ],
+                    [
+                        20,
+                        25
+                    ],
+                    [
+                        13,
+                        23
+                    ],
+                    [
+                        12,
+                        21
+                    ],
+                    [
+                        9,
+                        21
+                    ],
+                    [
+                        6,
+                        22
+                    ],
+                    [
+                        2,
+                        22
+                    ],
+                    [
+                        3,
+                        41
+                    ],
+                    [
+                        2,
+                        57
+                    ],
+                    [
+                        6,
+                        59
+                    ],
+                    [
+                        7,
+                        60
+                    ],
+                    [
+                        13,
+                        56
+                    ],
+                    [
+                        16,
+                        45
+                    ],
+                    [
+                        15,
+                        40
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737280,
+            "classId": 54898,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.429Z",
+            "updatedAt": "2023-09-15T14:21:10.429Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        11,
+                        198
+                    ],
+                    [
+                        11,
+                        210
+                    ],
+                    [
+                        15,
+                        211
+                    ],
+                    [
+                        13,
+                        224
+                    ],
+                    [
+                        12,
+                        232
+                    ],
+                    [
+                        12,
+                        236
+                    ],
+                    [
+                        16,
+                        236
+                    ],
+                    [
+                        19,
+                        214
+                    ],
+                    [
+                        20,
+                        211
+                    ],
+                    [
+                        22,
+                        210
+                    ],
+                    [
+                        19,
+                        203
+                    ],
+                    [
+                        19,
+                        199
+                    ],
+                    [
+                        19,
+                        195
+                    ],
+                    [
+                        17,
+                        193
+                    ],
+                    [
+                        20,
+                        193
+                    ],
+                    [
+                        20,
+                        189
+                    ],
+                    [
+                        19,
+                        186
+                    ],
+                    [
+                        15,
+                        186
+                    ],
+                    [
+                        14,
+                        188
+                    ],
+                    [
+                        14,
+                        191
+                    ],
+                    [
+                        15,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737279,
+            "classId": 54898,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.429Z",
+            "updatedAt": "2023-09-15T14:21:10.429Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        197
+                    ],
+                    [
+                        26,
+                        202
+                    ],
+                    [
+                        26,
+                        208
+                    ],
+                    [
+                        28,
+                        217
+                    ],
+                    [
+                        30,
+                        222
+                    ],
+                    [
+                        31,
+                        234
+                    ],
+                    [
+                        35,
+                        234
+                    ],
+                    [
+                        36,
+                        216
+                    ],
+                    [
+                        37,
+                        216
+                    ],
+                    [
+                        38,
+                        213
+                    ],
+                    [
+                        41,
+                        213
+                    ],
+                    [
+                        39,
+                        208
+                    ],
+                    [
+                        36,
+                        205
+                    ],
+                    [
+                        37,
+                        200
+                    ],
+                    [
+                        35,
+                        196
+                    ],
+                    [
+                        37,
+                        195
+                    ],
+                    [
+                        38,
+                        193
+                    ],
+                    [
+                        36,
+                        191
+                    ],
+                    [
+                        33,
+                        191
+                    ],
+                    [
+                        31,
+                        191
+                    ],
+                    [
+                        31,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737278,
+            "classId": 54898,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.429Z",
+            "updatedAt": "2023-09-15T14:21:10.429Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        44,
+                        199
+                    ],
+                    [
+                        43,
+                        207
+                    ],
+                    [
+                        44,
+                        210
+                    ],
+                    [
+                        45,
+                        214
+                    ],
+                    [
+                        48,
+                        216
+                    ],
+                    [
+                        46,
+                        232
+                    ],
+                    [
+                        49,
+                        232
+                    ],
+                    [
+                        50,
+                        228
+                    ],
+                    [
+                        51,
+                        231
+                    ],
+                    [
+                        54,
+                        231
+                    ],
+                    [
+                        54,
+                        219
+                    ],
+                    [
+                        55,
+                        215
+                    ],
+                    [
+                        57,
+                        215
+                    ],
+                    [
+                        57,
+                        212
+                    ],
+                    [
+                        59,
+                        207
+                    ],
+                    [
+                        56,
+                        202
+                    ],
+                    [
+                        53,
+                        196
+                    ],
+                    [
+                        51,
+                        196
+                    ],
+                    [
+                        52,
+                        194
+                    ],
+                    [
+                        53,
+                        192
+                    ],
+                    [
+                        53,
+                        189
+                    ],
+                    [
+                        50,
+                        188
+                    ],
+                    [
+                        48,
+                        190
+                    ],
+                    [
+                        47,
+                        192
+                    ],
+                    [
+                        46,
+                        194
+                    ],
+                    [
+                        47,
+                        196
+                    ],
+                    [
+                        48,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737277,
+            "classId": 54898,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.429Z",
+            "updatedAt": "2023-09-15T14:21:10.429Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        67,
+                        193
+                    ],
+                    [
+                        60,
+                        201
+                    ],
+                    [
+                        58,
+                        204
+                    ],
+                    [
+                        60,
+                        208
+                    ],
+                    [
+                        62,
+                        209
+                    ],
+                    [
+                        63,
+                        210
+                    ],
+                    [
+                        63,
+                        214
+                    ],
+                    [
+                        63,
+                        217
+                    ],
+                    [
+                        65,
+                        219
+                    ],
+                    [
+                        65,
+                        223
+                    ],
+                    [
+                        62,
+                        227
+                    ],
+                    [
+                        62,
+                        230
+                    ],
+                    [
+                        71,
+                        230
+                    ],
+                    [
+                        71,
+                        215
+                    ],
+                    [
+                        74,
+                        228
+                    ],
+                    [
+                        77,
+                        228
+                    ],
+                    [
+                        77,
+                        222
+                    ],
+                    [
+                        77,
+                        213
+                    ],
+                    [
+                        76,
+                        208
+                    ],
+                    [
+                        79,
+                        206
+                    ],
+                    [
+                        80,
+                        202
+                    ],
+                    [
+                        78,
+                        193
+                    ],
+                    [
+                        75,
+                        190
+                    ],
+                    [
+                        78,
+                        188
+                    ],
+                    [
+                        76,
+                        185
+                    ],
+                    [
+                        73,
+                        185
+                    ],
+                    [
+                        72,
+                        186
+                    ],
+                    [
+                        70,
+                        188
+                    ],
+                    [
+                        72,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737276,
+            "classId": 54898,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.428Z",
+            "updatedAt": "2023-09-15T14:21:10.428Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        89,
+                        196
+                    ],
+                    [
+                        90,
+                        207
+                    ],
+                    [
+                        88,
+                        213
+                    ],
+                    [
+                        88,
+                        217
+                    ],
+                    [
+                        89,
+                        228
+                    ],
+                    [
+                        86,
+                        228
+                    ],
+                    [
+                        86,
+                        216
+                    ],
+                    [
+                        85,
+                        226
+                    ],
+                    [
+                        82,
+                        228
+                    ],
+                    [
+                        82,
+                        216
+                    ],
+                    [
+                        80,
+                        213
+                    ],
+                    [
+                        79,
+                        208
+                    ],
+                    [
+                        81,
+                        201
+                    ],
+                    [
+                        81,
+                        196
+                    ],
+                    [
+                        84,
+                        194
+                    ],
+                    [
+                        88,
+                        193
+                    ],
+                    [
+                        87,
+                        190
+                    ],
+                    [
+                        87,
+                        187
+                    ],
+                    [
+                        89,
+                        187
+                    ],
+                    [
+                        91,
+                        189
+                    ],
+                    [
+                        92,
+                        191
+                    ],
+                    [
+                        89,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737275,
+            "classId": 54898,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.428Z",
+            "updatedAt": "2023-09-15T14:21:10.428Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        203
+                    ],
+                    [
+                        126,
+                        210
+                    ],
+                    [
+                        124,
+                        210
+                    ],
+                    [
+                        127,
+                        222
+                    ],
+                    [
+                        125,
+                        223
+                    ],
+                    [
+                        120,
+                        209
+                    ],
+                    [
+                        114,
+                        223
+                    ],
+                    [
+                        112,
+                        224
+                    ],
+                    [
+                        111,
+                        222
+                    ],
+                    [
+                        117,
+                        208
+                    ],
+                    [
+                        116,
+                        202
+                    ],
+                    [
+                        114,
+                        202
+                    ],
+                    [
+                        116,
+                        198
+                    ],
+                    [
+                        118,
+                        195
+                    ],
+                    [
+                        116,
+                        194
+                    ],
+                    [
+                        114,
+                        191
+                    ],
+                    [
+                        115,
+                        190
+                    ],
+                    [
+                        118,
+                        190
+                    ],
+                    [
+                        120,
+                        191
+                    ],
+                    [
+                        121,
+                        193
+                    ],
+                    [
+                        122,
+                        196
+                    ],
+                    [
+                        126,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737274,
+            "classId": 70459,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.428Z",
+            "updatedAt": "2023-09-15T14:21:10.428Z",
+            "tags": [],
+            "classTitle": "awning",
+            "points": {
+                "exterior": [
+                    [
+                        31,
+                        178
+                    ],
+                    [
+                        78,
+                        173
+                    ],
+                    [
+                        255,
+                        176
+                    ],
+                    [
+                        255,
+                        180
+                    ],
+                    [
+                        71,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737273,
+            "classId": 68911,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.428Z",
+            "updatedAt": "2023-09-15T14:21:10.428Z",
+            "tags": [],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        63,
+                        13
+                    ],
+                    [
+                        63,
+                        71
+                    ],
+                    [
+                        64,
+                        6
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737272,
+            "classId": 68911,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.427Z",
+            "updatedAt": "2023-09-15T14:21:10.427Z",
+            "tags": [],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        69,
+                        53
+                    ],
+                    [
+                        69,
+                        74
+                    ],
+                    [
+                        69,
+                        8
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737271,
+            "classId": 68911,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.427Z",
+            "updatedAt": "2023-09-15T14:21:10.427Z",
+            "tags": [],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        78,
+                        61
+                    ],
+                    [
+                        77,
+                        11
+                    ],
+                    [
+                        78,
+                        75
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737270,
+            "classId": 258086,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.426Z",
+            "updatedAt": "2023-09-15T14:21:10.426Z",
+            "tags": [],
+            "classTitle": "wire",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        72
+                    ],
+                    [
+                        49,
+                        2
+                    ],
+                    [
+                        255,
+                        74
+                    ],
+                    [
+                        255,
+                        84
+                    ],
+                    [
+                        173,
+                        96
+                    ],
+                    [
+                        254,
+                        83
+                    ],
+                    [
+                        255,
+                        98
+                    ],
+                    [
+                        212,
+                        104
+                    ],
+                    [
+                        255,
+                        96
+                    ],
+                    [
+                        254,
+                        74
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737269,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.426Z",
+            "updatedAt": "2023-09-15T14:21:10.426Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        83,
+                        160
+                    ],
+                    [
+                        82,
+                        79
+                    ],
+                    [
+                        96,
+                        82
+                    ],
+                    [
+                        97,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737268,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.426Z",
+            "updatedAt": "2023-09-15T14:21:10.426Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        208
+                    ],
+                    [
+                        168,
+                        208
+                    ],
+                    [
+                        168,
+                        182
+                    ],
+                    [
+                        152,
+                        182
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737267,
+            "classId": 55829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.425Z",
+            "updatedAt": "2023-09-15T14:21:10.425Z",
+            "tags": [],
+            "classTitle": "door",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        206
+                    ],
+                    [
+                        177,
+                        183
+                    ],
+                    [
+                        193,
+                        182
+                    ],
+                    [
+                        194,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737266,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.425Z",
+            "updatedAt": "2023-09-15T14:21:10.425Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        117,
+                        160
+                    ],
+                    [
+                        116,
+                        86
+                    ],
+                    [
+                        128,
+                        88
+                    ],
+                    [
+                        128,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737265,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.424Z",
+            "updatedAt": "2023-09-15T14:21:10.424Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        160
+                    ],
+                    [
+                        143,
+                        92
+                    ],
+                    [
+                        156,
+                        94
+                    ],
+                    [
+                        157,
+                        161
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737264,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.424Z",
+            "updatedAt": "2023-09-15T14:21:10.424Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        162
+                    ],
+                    [
+                        170,
+                        98
+                    ],
+                    [
+                        180,
+                        100
+                    ],
+                    [
+                        182,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737263,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.424Z",
+            "updatedAt": "2023-09-15T14:21:10.424Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        164
+                    ],
+                    [
+                        192,
+                        103
+                    ],
+                    [
+                        201,
+                        104
+                    ],
+                    [
+                        202,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737262,
+            "classId": 54898,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.423Z",
+            "updatedAt": "2023-09-15T14:21:10.423Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        202
+                    ],
+                    [
+                        102,
+                        211
+                    ],
+                    [
+                        101,
+                        217
+                    ],
+                    [
+                        99,
+                        226
+                    ],
+                    [
+                        94,
+                        225
+                    ],
+                    [
+                        94,
+                        218
+                    ],
+                    [
+                        91,
+                        213
+                    ],
+                    [
+                        91,
+                        200
+                    ],
+                    [
+                        94,
+                        198
+                    ],
+                    [
+                        94,
+                        195
+                    ],
+                    [
+                        95,
+                        191
+                    ],
+                    [
+                        97,
+                        190
+                    ],
+                    [
+                        100,
+                        190
+                    ],
+                    [
+                        102,
+                        192
+                    ],
+                    [
+                        103,
+                        195
+                    ],
+                    [
+                        101,
+                        198
+                    ],
+                    [
+                        99,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737261,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.423Z",
+            "updatedAt": "2023-09-15T14:21:10.423Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        165
+                    ],
+                    [
+                        230,
+                        112
+                    ],
+                    [
+                        238,
+                        112
+                    ],
+                    [
+                        239,
+                        165
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737260,
+            "classId": 65468,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.423Z",
+            "updatedAt": "2023-09-15T14:21:10.423Z",
+            "tags": [],
+            "classTitle": "pane",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        164
+                    ],
+                    [
+                        247,
+                        115
+                    ],
+                    [
+                        253,
+                        116
+                    ],
+                    [
+                        254,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44737259,
+            "classId": 55136,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-09-15T14:21:10.422Z",
+            "updatedAt": "2023-09-15T14:21:10.422Z",
+            "tags": [],
+            "classTitle": "window",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        76
+                    ],
+                    [
+                        255,
+                        116
+                    ],
+                    [
+                        255,
+                        166
+                    ],
+                    [
+                        78,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
